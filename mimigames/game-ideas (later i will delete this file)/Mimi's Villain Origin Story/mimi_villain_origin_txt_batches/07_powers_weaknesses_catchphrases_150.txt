@@ -1,0 +1,153 @@
+POWERS, WEAKNESSES, AND CATCHPHRASES - 150 RESULT-CARD EXTRAS
+Format: ID | Villain Name | Power | Weakness | Catchphrase
+
+001 | The Drip Queen | POWER: Can turn snack disappointment into courtroom evidence. | WEAKNESS: A perfect snack and one sincere apology. | CATCHPHRASE: “I came hungry and left radicalized.”
+002 | Sidewalk Final-Boss Energy | POWER: Can turn one witness into a full courtroom. | WEAKNESS: A sidewalk with emotional intelligence. | CATCHPHRASE: “I will now vanish socially.”
+003 | The Cable Witch | POWER: Can weaponize screenshots without opening the group chat. | WEAKNESS: Turning off notifications like a healthy person. | CATCHPHRASE: “One bubble. Infinite damage.”
+004 | Buffering Villain Era | POWER: Can haunt routers, printers, apps, and suspicious pop-ups. | WEAKNESS: An app that simply works the first time. | CATCHPHRASE: “Something went wrong? So did I.”
+005 | The Tone Detective | POWER: Can convert one tiny message into a full emotional documentary. | WEAKNESS: Clear communication in full sentences. | CATCHPHRASE: “Say less. I already overthought it.”
+006 | Snack Debt Collector | POWER: Can make errands feel like boss battles. | WEAKNESS: An errand that ends before it becomes lore. | CATCHPHRASE: “Delivered where, spiritually?”
+007 | The Potato Tyrant | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+008 | Mount Mimi | POWER: Can hold a grudge with excellent file management. | WEAKNESS: Clear tone, quick replies, and no verbal jump scares. | CATCHPHRASE: “Tone is evidence.”
+009 | The Button Presser | POWER: Can leave her body for three business days. | WEAKNESS: No witnesses and a clean exit path. | CATCHPHRASE: “Witnesses were present.”
+010 | Inkless Vengeance | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+011 | The Missing Sock Oracle | POWER: Can sense laundry portals before the dryer lies. | WEAKNESS: A dryer that returns every sock alive. | CATCHPHRASE: “My blanket remembers.”
+012 | Skip Button Supreme | POWER: Can haunt routers, printers, apps, and suspicious pop-ups. | WEAKNESS: An app that simply works the first time. | CATCHPHRASE: “Something went wrong? So did I.”
+013 | The Final Sip Avenger | POWER: Can turn snack disappointment into courtroom evidence. | WEAKNESS: A perfect snack and one sincere apology. | CATCHPHRASE: “I came hungry and left radicalized.”
+014 | The Air Baroness | POWER: Can detect dry nuggets from three rooms away. | WEAKNESS: Fresh sauce, warm fries, and emotional supervision. | CATCHPHRASE: “This snack will be remembered.”
+015 | Dream Interrupted | POWER: Can detect the wrong kind of cozy instantly. | WEAKNESS: Soft lighting and a weather app that does not lie. | CATCHPHRASE: “I reject this temperature.”
+016 | The Temperature Goblin | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+017 | One-Letter Doom | POWER: Can convert one tiny message into a full emotional documentary. | WEAKNESS: Clear communication in full sentences. | CATCHPHRASE: “Say less. I already overthought it.”
+018 | Sauceless Mimi | POWER: Can detect dry nuggets from three rooms away. | WEAKNESS: Fresh sauce, warm fries, and emotional supervision. | CATCHPHRASE: “This snack will be remembered.”
+019 | DJ Betrayal | POWER: Can weaponize screenshots without opening the group chat. | WEAKNESS: Turning off notifications like a healthy person. | CATCHPHRASE: “One bubble. Infinite damage.”
+020 | The Dessert Inspector | POWER: Can summon dramatic hunger with one raised eyebrow. | WEAKNESS: Someone saying, “I saved you the good piece.” | CATCHPHRASE: “Season your apology.”
+021 | The Humiliation Phantom | POWER: Can leave her body for three business days. | WEAKNESS: No witnesses and a clean exit path. | CATCHPHRASE: “Witnesses were present.”
+022 | Anxiety CEO | POWER: Can turn one phrase into a five-part investigation. | WEAKNESS: A human who says exactly what they mean. | CATCHPHRASE: “It is that deep now.”
+023 | The Pillow Villain | POWER: Can weaponize screenshots without opening the group chat. | WEAKNESS: Turning off notifications like a healthy person. | CATCHPHRASE: “One bubble. Infinite damage.”
+024 | Office Gremlin Prime | POWER: Can haunt routers, printers, apps, and suspicious pop-ups. | WEAKNESS: An app that simply works the first time. | CATCHPHRASE: “Something went wrong? So did I.”
+025 | The Damp Cuff Demon | POWER: Can make damp fabric everyone’s problem. | WEAKNESS: Dry sleeves and perfect blanket temperature. | CATCHPHRASE: “This sleeve remembers.”
+026 | Mono Audio Menace | POWER: Can hear typing bubbles through walls. | WEAKNESS: A charged phone and zero read receipts. | CATCHPHRASE: “The screenshot has entered evidence.”
+027 | Fridge Phantom | POWER: Can detect audacity before it finishes speaking. | WEAKNESS: An apology without “no offense” attached. | CATCHPHRASE: “Per my last emotional collapse.”
+028 | Public Shame Mimi | POWER: Can weaponize awkward eye contact. | WEAKNESS: A public space with fewer main-character traps. | CATCHPHRASE: “I waved once and became folklore.”
+029 | The Interior Design Enemy | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+030 | The Unfinished Timer | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+031 | Chapped Justice | POWER: Can sense laundry portals before the dryer lies. | WEAKNESS: A dryer that returns every sock alive. | CATCHPHRASE: “My blanket remembers.”
+032 | The Unappreciated Clown | POWER: Can hold a grudge with excellent file management. | WEAKNESS: Clear tone, quick replies, and no verbal jump scares. | CATCHPHRASE: “Tone is evidence.”
+033 | Typing Bubble Survivor | POWER: Can analyze tone until the room changes weather. | WEAKNESS: Direct words and zero mysterious punctuation. | CATCHPHRASE: “No offense has been recorded.”
+034 | The Front Camera Curse | POWER: Can hear typing bubbles through walls. | WEAKNESS: A charged phone and zero read receipts. | CATCHPHRASE: “The screenshot has entered evidence.”
+035 | Soup Hand Mimi | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+036 | The Thread Snagger | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+037 | Bathroom Betrayal | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+038 | The Memory Goblin | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+039 | Restart Required | POWER: Can sense weak passwords and weaker excuses. | WEAKNESS: A password manager and three deep breaths. | CATCHPHRASE: “The machine knows what it did.”
+040 | The Offense Collector | POWER: Can hold a grudge with excellent file management. | WEAKNESS: Clear tone, quick replies, and no verbal jump scares. | CATCHPHRASE: “Tone is evidence.”
+041 | Paper Straw Nemesis | POWER: Can turn snack disappointment into courtroom evidence. | WEAKNESS: A perfect snack and one sincere apology. | CATCHPHRASE: “I came hungry and left radicalized.”
+042 | Wet Sock Warlord | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+043 | Sauce Fingers | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+044 | The Follow-Up Fiend | POWER: Can detect public-system betrayal before it scans. | WEAKNESS: A bag that survives the walk home. | CATCHPHRASE: “Capitalism blinked first.”
+045 | Residue Revenant | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+046 | Unfinished Sentence Mimi | POWER: Can turn one phrase into a five-part investigation. | WEAKNESS: A human who says exactly what they mean. | CATCHPHRASE: “It is that deep now.”
+047 | Receipt Panic | POWER: Can make sidewalks respect her emotional speed limit. | WEAKNESS: A stranger pretending they saw nothing. | CATCHPHRASE: “The sidewalk owes me damages.”
+048 | The Archaeology Criminal | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+049 | The Strap Spiral | POWER: Can interrogate packages through closed curtains. | WEAKNESS: A smooth wheel, a present package, and a receipt decision made for her. | CATCHPHRASE: “The errand became personal.”
+050 | Invisible to Soap | POWER: Can make loading screens feel personally accused. | WEAKNESS: Stable Wi-Fi and a printer with no attitude. | CATCHPHRASE: “I accept zero cookies emotionally.”
+051 | Thermal Betrayal | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+052 | The Ripeness Prophet | POWER: Can summon dramatic hunger with one raised eyebrow. | WEAKNESS: Someone saying, “I saved you the good piece.” | CATCHPHRASE: “Season your apology.”
+053 | Underbed Goblin | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+054 | Audio Homework Mimi | POWER: Can hear typing bubbles through walls. | WEAKNESS: A charged phone and zero read receipts. | CATCHPHRASE: “The screenshot has entered evidence.”
+055 | The Channel Prisoner | POWER: Can sense laundry portals before the dryer lies. | WEAKNESS: A dryer that returns every sock alive. | CATCHPHRASE: “My blanket remembers.”
+056 | The Cold Tortilla | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+057 | Drawer Rage | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+058 | Time Fraud Investigator | POWER: Can turn one phrase into a five-part investigation. | WEAKNESS: A human who says exactly what they mean. | CATCHPHRASE: “It is that deep now.”
+059 | Cheese Lava Survivor | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+060 | Half-Clean Menace | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+061 | Touchscreen Reject | POWER: Can convert one tiny message into a full emotional documentary. | WEAKNESS: Clear communication in full sentences. | CATCHPHRASE: “Say less. I already overthought it.”
+062 | The Awkward Silence Sorcerer | POWER: Can hear typing bubbles through walls. | WEAKNESS: A charged phone and zero read receipts. | CATCHPHRASE: “The screenshot has entered evidence.”
+063 | Cookie Consent Criminal | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+064 | Mad Now Mimi | POWER: Can hold a grudge with excellent file management. | WEAKNESS: Clear tone, quick replies, and no verbal jump scares. | CATCHPHRASE: “Tone is evidence.”
+065 | Seat Memory Mimi | POWER: Can leave her body for three business days. | WEAKNESS: No witnesses and a clean exit path. | CATCHPHRASE: “Witnesses were present.”
+066 | Banana Villain | POWER: Can detect dry nuggets from three rooms away. | WEAKNESS: Fresh sauce, warm fries, and emotional supervision. | CATCHPHRASE: “This snack will be remembered.”
+067 | The Lost Alert | POWER: Can weaponize screenshots without opening the group chat. | WEAKNESS: Turning off notifications like a healthy person. | CATCHPHRASE: “One bubble. Infinite damage.”
+068 | Probably Not Human | POWER: Can haunt routers, printers, apps, and suspicious pop-ups. | WEAKNESS: An app that simply works the first time. | CATCHPHRASE: “Something went wrong? So did I.”
+069 | Heat Trap Mimi | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+070 | Stringless Fury | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+071 | Crunch Monitor | POWER: Can detect audacity before it finishes speaking. | WEAKNESS: An apology without “no offense” attached. | CATCHPHRASE: “Per my last emotional collapse.”
+072 | The Wobble Queen | POWER: Can weaponize awkward eye contact. | WEAKNESS: A public space with fewer main-character traps. | CATCHPHRASE: “I waved once and became folklore.”
+073 | Social Death Mimi | POWER: Can leave her body for three business days. | WEAKNESS: No witnesses and a clean exit path. | CATCHPHRASE: “Witnesses were present.”
+074 | Porch Pirate Detective | POWER: Can make errands feel like boss battles. | WEAKNESS: An errand that ends before it becomes lore. | CATCHPHRASE: “Delivered where, spiritually?”
+075 | Per My Last Email Mimi | POWER: Can detect audacity before it finishes speaking. | WEAKNESS: An apology without “no offense” attached. | CATCHPHRASE: “Per my last emotional collapse.”
+076 | Soft Spoon Villain | POWER: Can summon dramatic hunger with one raised eyebrow. | WEAKNESS: Someone saying, “I saved you the good piece.” | CATCHPHRASE: “Season your apology.”
+077 | Crumb Punishment | POWER: Can turn snack disappointment into courtroom evidence. | WEAKNESS: A perfect snack and one sincere apology. | CATCHPHRASE: “I came hungry and left radicalized.”
+078 | The Fabric Prisoner | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+079 | The Smile Tax Collector | POWER: Can detect audacity before it finishes speaking. | WEAKNESS: An apology without “no offense” attached. | CATCHPHRASE: “Per my last emotional collapse.”
+080 | Bluetooth Betrayed | POWER: Can turn silence into suspicious evidence. | WEAKNESS: Someone replying with context, warmth, and punctuation. | CATCHPHRASE: “My phone started it.”
+081 | The Measurement Menace | POWER: Can turn snack disappointment into courtroom evidence. | WEAKNESS: A perfect snack and one sincere apology. | CATCHPHRASE: “I came hungry and left radicalized.”
+082 | The Screenshot Hoarder | POWER: Can hear typing bubbles through walls. | WEAKNESS: A charged phone and zero read receipts. | CATCHPHRASE: “The screenshot has entered evidence.”
+083 | Read Receipt Royalty | POWER: Can weaponize screenshots without opening the group chat. | WEAKNESS: Turning off notifications like a healthy person. | CATCHPHRASE: “One bubble. Infinite damage.”
+084 | Public Transport Nemesis | POWER: Can weaponize awkward eye contact. | WEAKNESS: A public space with fewer main-character traps. | CATCHPHRASE: “I waved once and became folklore.”
+085 | Plastic Bag Shame | POWER: Can interrogate packages through closed curtains. | WEAKNESS: A smooth wheel, a present package, and a receipt decision made for her. | CATCHPHRASE: “The errand became personal.”
+086 | Mattress Wrestler | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+087 | Breakfast Dust Mimi | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+088 | Spoiler Revenant | POWER: Can hold a grudge with excellent file management. | WEAKNESS: Clear tone, quick replies, and no verbal jump scares. | CATCHPHRASE: “Tone is evidence.”
+089 | Ink Disaster Mimi | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+090 | Furniture Lawsuit | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+091 | Red Light Rival | POWER: Can sense laundry portals before the dryer lies. | WEAKNESS: A dryer that returns every sock alive. | CATCHPHRASE: “My blanket remembers.”
+092 | Rotten Leaf Realist | POWER: Can summon dramatic hunger with one raised eyebrow. | WEAKNESS: Someone saying, “I saved you the good piece.” | CATCHPHRASE: “Season your apology.”
+093 | Calendar Panic | POWER: Can analyze tone until the room changes weather. | WEAKNESS: Direct words and zero mysterious punctuation. | CATCHPHRASE: “No offense has been recorded.”
+094 | Password Amnesia | POWER: Can make loading screens feel personally accused. | WEAKNESS: Stable Wi-Fi and a printer with no attitude. | CATCHPHRASE: “I accept zero cookies emotionally.”
+095 | The Damp Duchess | POWER: Can detect the wrong kind of cozy instantly. | WEAKNESS: Soft lighting and a weather app that does not lie. | CATCHPHRASE: “I reject this temperature.”
+096 | Dish Sink Dictator | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+097 | Cable Archaeologist | POWER: Can convert one tiny message into a full emotional documentary. | WEAKNESS: Clear communication in full sentences. | CATCHPHRASE: “Say less. I already overthought it.”
+098 | The Fake Listener Detector | POWER: Can turn one phrase into a five-part investigation. | WEAKNESS: A human who says exactly what they mean. | CATCHPHRASE: “It is that deep now.”
+099 | Potato Purist | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+100 | Mattress Ecosystem Manager | POWER: Can summon dramatic hunger with one raised eyebrow. | WEAKNESS: Someone saying, “I saved you the good piece.” | CATCHPHRASE: “Season your apology.”
+101 | Password Villain | POWER: Can crash the mood of every machine nearby. | WEAKNESS: A working charger and a machine that minds its business. | CATCHPHRASE: “Loading is a threat.”
+102 | The Cold Panic Goblin | POWER: Can weaponize temperature discomfort into policy. | WEAKNESS: A hoodie with obedient strings. | CATCHPHRASE: “Physics will be hearing from me.”
+103 | Grammar Goblin | POWER: Can detect audacity before it finishes speaking. | WEAKNESS: An apology without “no offense” attached. | CATCHPHRASE: “Per my last emotional collapse.”
+104 | Forkless Fury | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+105 | Judged by Toddler | POWER: Can leave her body for three business days. | WEAKNESS: No witnesses and a clean exit path. | CATCHPHRASE: “Witnesses were present.”
+106 | Sidewalk Grocery Tragedy | POWER: Can make errands feel like boss battles. | WEAKNESS: An errand that ends before it becomes lore. | CATCHPHRASE: “Delivered where, spiritually?”
+107 | Banking Theater Mimi | POWER: Can turn receipts, carts, and queues into evidence. | WEAKNESS: Capitalism taking one personal day off. | CATCHPHRASE: “This cart is haunted.”
+108 | The Tiredness Defender | POWER: Can hold a grudge with excellent file management. | WEAKNESS: Clear tone, quick replies, and no verbal jump scares. | CATCHPHRASE: “Tone is evidence.”
+109 | Glass Door Enemy | POWER: Can crash the mood of every machine nearby. | WEAKNESS: A working charger and a machine that minds its business. | CATCHPHRASE: “Loading is a threat.”
+110 | Update Dodger | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+111 | Tiny Enemy Commander | POWER: Can sense laundry portals before the dryer lies. | WEAKNESS: A dryer that returns every sock alive. | CATCHPHRASE: “My blanket remembers.”
+112 | Junk Mail Avenger | POWER: Can detect public-system betrayal before it scans. | WEAKNESS: A bag that survives the walk home. | CATCHPHRASE: “Capitalism blinked first.”
+113 | Latte Collapse Mimi | POWER: Can turn snack disappointment into courtroom evidence. | WEAKNESS: A perfect snack and one sincere apology. | CATCHPHRASE: “I came hungry and left radicalized.”
+114 | Floor Breakfast Prophet | POWER: Can detect dry nuggets from three rooms away. | WEAKNESS: Fresh sauce, warm fries, and emotional supervision. | CATCHPHRASE: “This snack will be remembered.”
+115 | Suspense Hostage | POWER: Can detect audacity before it finishes speaking. | WEAKNESS: An apology without “no offense” attached. | CATCHPHRASE: “Per my last emotional collapse.”
+116 | Bathroom Lighting Villain | POWER: Can turn a sensory crime into a constitutional crisis. | WEAKNESS: A room that understands both cozy and breathable. | CATCHPHRASE: “Dampness has consequences.”
+117 | Vocabulary Ghost | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+118 | Mood Sabotage Mimi | POWER: Can hear typing bubbles through walls. | WEAKNESS: A charged phone and zero read receipts. | CATCHPHRASE: “The screenshot has entered evidence.”
+119 | Forehead Impact Survivor | POWER: Can sense laundry portals before the dryer lies. | WEAKNESS: A dryer that returns every sock alive. | CATCHPHRASE: “My blanket remembers.”
+120 | Menu Traditionalist | POWER: Can haunt routers, printers, apps, and suspicious pop-ups. | WEAKNESS: An app that simply works the first time. | CATCHPHRASE: “Something went wrong? So did I.”
+121 | Online Presence Criminal | POWER: Can convert one tiny message into a full emotional documentary. | WEAKNESS: Clear communication in full sentences. | CATCHPHRASE: “Say less. I already overthought it.”
+122 | The Blurry Legend | POWER: Can turn one witness into a full courtroom. | WEAKNESS: A sidewalk with emotional intelligence. | CATCHPHRASE: “I will now vanish socially.”
+123 | The Bite Accountant | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+124 | Fresh Breath Betrayal | POWER: Can summon dramatic hunger with one raised eyebrow. | WEAKNESS: Someone saying, “I saved you the good piece.” | CATCHPHRASE: “Season your apology.”
+125 | The Petty Archivist | POWER: Can analyze tone until the room changes weather. | WEAKNESS: Direct words and zero mysterious punctuation. | CATCHPHRASE: “No offense has been recorded.”
+126 | Bag Floor Survivor | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+127 | Delivery Timing Victim | POWER: Can turn receipts, carts, and queues into evidence. | WEAKNESS: Capitalism taking one personal day off. | CATCHPHRASE: “This cart is haunted.”
+128 | One-Star Spirit | POWER: Can haunt routers, printers, apps, and suspicious pop-ups. | WEAKNESS: An app that simply works the first time. | CATCHPHRASE: “Something went wrong? So did I.”
+129 | Platform Tragedy Mimi | POWER: Can leave her body for three business days. | WEAKNESS: No witnesses and a clean exit path. | CATCHPHRASE: “Witnesses were present.”
+130 | Worry Auditor | POWER: Can turn one phrase into a five-part investigation. | WEAKNESS: A human who says exactly what they mean. | CATCHPHRASE: “It is that deep now.”
+131 | Basic Task Failure | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+132 | Graphite Villain | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+133 | Aimless Menace | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+134 | Sensory Overlord | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+135 | The Flavor Historian | POWER: Can make every bite feel like a betrayal arc. | WEAKNESS: Correct seasoning and a stable blood sugar level. | CATCHPHRASE: “Dry nuggets made me this way.”
+136 | Meeting Goblin | POWER: Can hold a grudge with excellent file management. | WEAKNESS: Clear tone, quick replies, and no verbal jump scares. | CATCHPHRASE: “Tone is evidence.”
+137 | Autocorrect Victim | POWER: Can convert one tiny message into a full emotional documentary. | WEAKNESS: Clear communication in full sentences. | CATCHPHRASE: “Say less. I already overthought it.”
+138 | Tin Can Prison Warden | POWER: Can turn household objects into sworn enemies. | WEAKNESS: A blanket that stays loyal. | CATCHPHRASE: “The dryer has secrets.”
+139 | Neck Damage Duchess | POWER: Can detect the wrong kind of cozy instantly. | WEAKNESS: Soft lighting and a weather app that does not lie. | CATCHPHRASE: “I reject this temperature.”
+140 | Reply Deadline Demon | POWER: Can turn silence into suspicious evidence. | WEAKNESS: Someone replying with context, warmth, and punctuation. | CATCHPHRASE: “My phone started it.”
+141 | Denim Betrayal | POWER: Can make damp fabric everyone’s problem. | WEAKNESS: Dry sleeves and perfect blanket temperature. | CATCHPHRASE: “This sleeve remembers.”
+142 | Consequence Denier | POWER: Can detect dry nuggets from three rooms away. | WEAKNESS: Fresh sauce, warm fries, and emotional supervision. | CATCHPHRASE: “This snack will be remembered.”
+143 | Electric Cart Mimi | POWER: Can make sidewalks respect her emotional speed limit. | WEAKNESS: A stranger pretending they saw nothing. | CATCHPHRASE: “The sidewalk owes me damages.”
+144 | Capless Chaos | POWER: Can make comfort items apologize publicly. | WEAKNESS: A drawer that opens without negotiation. | CATCHPHRASE: “I live here, but at what cost?”
+145 | Parking Lot Phantom | POWER: Can leave her body for three business days. | WEAKNESS: No witnesses and a clean exit path. | CATCHPHRASE: “Witnesses were present.”
+146 | Something Went Wrong | POWER: Can make loading screens feel personally accused. | WEAKNESS: Stable Wi-Fi and a printer with no attitude. | CATCHPHRASE: “I accept zero cookies emotionally.”
+147 | Hostile Reminder Mimi | POWER: Can detect audacity before it finishes speaking. | WEAKNESS: An apology without “no offense” attached. | CATCHPHRASE: “Per my last emotional collapse.”
+148 | Watered-Down Villain | POWER: Can summon dramatic hunger with one raised eyebrow. | WEAKNESS: Someone saying, “I saved you the good piece.” | CATCHPHRASE: “Season your apology.”
+149 | Immobile Servant | POWER: Can identify hostile furniture by aura alone. | WEAKNESS: A tidy room and furniture that respects ankles. | CATCHPHRASE: “This furniture is on thin ice.”
+150 | The Depth Inspector | POWER: Can turn one phrase into a five-part investigation. | WEAKNESS: A human who says exactly what they mean. | CATCHPHRASE: “It is that deep now.”

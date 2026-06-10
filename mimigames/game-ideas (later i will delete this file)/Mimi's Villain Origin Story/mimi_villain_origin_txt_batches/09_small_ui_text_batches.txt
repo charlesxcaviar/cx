@@ -1,0 +1,106 @@
+SMALL UI TEXT BATCHES
+
+START SCREEN LINES
+- Mimi was having a normal day. Unfortunately, society had other plans.
+- Mimi was emotionally stable four seconds ago.
+- Today, Mimi will discover which tiny inconvenience has hands.
+- Nothing bad has happened yet. This is suspicious.
+- Mimi enters with hope, snacks, and no idea what is coming.
+- A normal day approaches Mimi with villainous intent.
+- Mimi believes she can stay calm. The website disagrees.
+- Choose the tiny event that ruins everything.
+- One little problem. One dramatic transformation.
+- Mimi is ready for peace. Peace is not ready for Mimi.
+- The villain origin machine is awake.
+- Every villain starts somewhere. Mimi starts with a minor inconvenience.
+- This is not a crisis yet. Give it a second.
+- Mimi has not chosen chaos. Chaos has chosen Mimi.
+- Welcome to the tiny bad decision laboratory.
+- Today’s forecast: harmless drama with a chance of cape.
+- Mimi is cute, calm, and one inconvenience away from policy change.
+- Press the button to emotionally inconvenience a mascot.
+- A tiny crisis is waiting behind one of these cards.
+- Mimi’s villain era is currently uninstalled. Begin setup?
+
+BEGIN BUTTONS
+- Begin Villain Origin
+- Start the Tiny Disaster
+- Choose Mimi’s Breaking Point
+- Proceed Unwisely
+- Wake the Villain
+- Summon Minor Chaos
+- Give Mimi 99 Problem
+- Press for Emotional Damage
+
+RESULT CARD LABELS
+- Villain Name
+- Origin Event
+- Villain Power
+- Catchphrase
+- Threat Level
+- Emotional Damage
+- Evidence Collected
+- Tiny Crime Scene
+- Final Form
+- Lore Status
+- Society’s Fault?
+- Mimi’s Statement
+
+CONTINUE PROMPTS
+- Continue the chaos?
+- Does Mimi recover, or do we click again?
+- Another tiny disaster?
+- More chaos?
+- One more inconvenience for the road?
+- Replay the emotional damage?
+- Try a different category?
+- Let fate pick another crime?
+- Mimi can become worse, probably.
+- Click again for additional inconvenience.
+- Different problem, same Mimi?
+
+PLAY AGAIN BUTTONS
+- More chaos
+- Spin again
+- Replay the tiny disaster
+- New villain era
+- Try fate again
+- Choose another card
+- Continue irresponsibly
+- Again, but worse
+- Another origin, please
+- Make Mimi chaotic again
+- One more bad decision
+- Reload the emotional damage
+- Give society another chance
+- Open another incident
+- Let the wheel cook
+- Summon another inconvenience
+- More tiny crimes
+- Choose a new betrayal
+- No lessons learned
+- Send Mimi back outside
+- More emotional paperwork
+- Another villain seed
+
+THREAT LEVEL TEXTS
+- Petty but powerful
+- Mostly harmless, allegedly
+- Emotionally damp
+- Silly but unstable
+- Publicly embarrassing
+- Legally a vibe
+- Cape recommended
+- Snack-motivated danger
+- One screenshot from escalation
+- Small problem, large aura
+- Weather-system adjacent
+- Powered by audacity
+- Cute but concerning
+- Minor inconvenience, major lore
+- Not dangerous, just dramatic
+- Unreasonable but adorable
+- Suspiciously calm
+- Final boss of small things
+- Tiny menace energy
+- Chaos with soft edges

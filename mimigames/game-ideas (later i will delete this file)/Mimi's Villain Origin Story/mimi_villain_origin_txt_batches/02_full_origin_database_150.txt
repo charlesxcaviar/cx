@@ -1,0 +1,2103 @@
+MIMI VILLAIN ORIGIN - FULL STRUCTURED TXT DATABASE
+Copy each record into JS/JSON as needed. Fields are line-based to stay easy to edit.
+
+ID: 001
+CATEGORY: Food Crimes
+CARD_TITLE: Snack Crime
+TEASER: Something edible chose violence.
+INCONVENIENCE: The coffee lid leaks on Mimi’s sleeve
+VILLAIN_NAME: The Drip Queen
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-drip-queen.png
+STORY: Mimi started the day mostly harmless. Then it happened: the coffee lid leaks on Mimi’s sleeve. Her soul opened a tiny complaint department, and Mimi becomes The Drip Queen, ruler of minor stains and emotional instability.
+POWER: Can turn snack disappointment into courtroom evidence.
+WEAKNESS: A perfect snack and one sincere apology.
+CATCHPHRASE: “I came hungry and left radicalized.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 002
+CATEGORY: Public Humiliation
+CARD_TITLE: Sidewalk Villainy
+TEASER: Someone blocked destiny with confidence.
+INCONVENIENCE: Someone walks slowly in front of her
+VILLAIN_NAME: Sidewalk Final-Boss Energy
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-sidewalk-final-boss-energy.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: someone walks slowly in front of her. A dramatic cape appeared in her imagination immediately, and Mimi develops sidewalk final-boss energy and starts speed-walking like destiny owes her money.
+POWER: Can turn one witness into a full courtroom.
+WEAKNESS: A sidewalk with emotional intelligence.
+CATCHPHRASE: “I will now vanish socially.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 003
+CATEGORY: Phone Betrayals
+CARD_TITLE: Phone Betrayal
+TEASER: The chat became a crime scene.
+INCONVENIENCE: Her phone charger only works at one angle
+VILLAIN_NAME: The Cable Witch
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-cable-witch.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: her phone charger only works at one angle. Her patience packed a bag and left no forwarding address, and Mimi becomes The Cable Witch, bending reality and USB cords with rage.
+POWER: Can weaponize screenshots without opening the group chat.
+WEAKNESS: Turning off notifications like a healthy person.
+CATCHPHRASE: “One bubble. Infinite damage.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 004
+CATEGORY: Technology Betrayal
+CARD_TITLE: Device Treason
+TEASER: A button failed society.
+INCONVENIENCE: The Wi-Fi drops during one important click
+VILLAIN_NAME: Buffering Villain Era
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-buffering-villain-era.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: the Wi-Fi drops during one important click. The villain meter made a noise nobody liked, and Mimi enters her buffering villain era and declares war on all routers.
+POWER: Can haunt routers, printers, apps, and suspicious pop-ups.
+WEAKNESS: An app that simply works the first time.
+CATCHPHRASE: “Something went wrong? So did I.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 005
+CATEGORY: Phone Betrayals
+CARD_TITLE: Algorithm Betrayal
+TEASER: The device knew exactly what it was doing.
+INCONVENIENCE: A text says “lol” with no emoji
+VILLAIN_NAME: The Tone Detective
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-tone-detective.png
+STORY: Mimi tried to be a calm citizen. Then it happened: a text says “lol” with no emoji. A very small inconvenience became a very official prophecy, and Mimi becomes The Tone Detective, overanalyzing punctuation until society collapses.
+POWER: Can convert one tiny message into a full emotional documentary.
+WEAKNESS: Clear communication in full sentences.
+CATCHPHRASE: “Say less. I already overthought it.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 006
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Capitalism Incident
+TEASER: A wheel, a queue, or a package lied.
+INCONVENIENCE: The vending machine eats her coin
+VILLAIN_NAME: Snack Debt Collector
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-snack-debt-collector.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: the vending machine eats her coin. Mimi blinked once, then emotionally became thunder, and Mimi becomes Snack Debt Collector, feared by all machines with glass windows.
+POWER: Can make errands feel like boss battles.
+WEAKNESS: An errand that ends before it becomes lore.
+CATCHPHRASE: “Delivered where, spiritually?”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 007
+CATEGORY: Food Crimes
+CARD_TITLE: Sauce Situation
+TEASER: The sauce was not emotionally available.
+INCONVENIENCE: Her fries arrive lukewarm
+VILLAIN_NAME: The Potato Tyrant
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-potato-tyrant.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: her fries arrive lukewarm. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes The Potato Tyrant, demanding justice from the kingdom of soggy carbs.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 008
+CATEGORY: Social Damage
+CARD_TITLE: Words With Consequences
+TEASER: Peace was broken by punctuation.
+INCONVENIENCE: Someone says “calm down”
+VILLAIN_NAME: Mount Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-mount-mimi.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: someone says “calm down”. Her inner chaos stood up and asked for a microphone, and Mimi transforms into Mount Mimi, emotionally active and legally classified as weather.
+POWER: Can hold a grudge with excellent file management.
+WEAKNESS: Clear tone, quick replies, and no verbal jump scares.
+CATCHPHRASE: “Tone is evidence.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 009
+CATEGORY: Public Humiliation
+CARD_TITLE: Witnesses Were Present
+TEASER: Witnesses were unfortunately present.
+INCONVENIENCE: The elevator closes right before she reaches it
+VILLAIN_NAME: The Button Presser
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-button-presser.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: the elevator closes right before she reaches it. A harmless day became legally dramatic, and Mimi becomes The Button Presser, pressing “close door” on society itself.
+POWER: Can leave her body for three business days.
+WEAKNESS: No witnesses and a clean exit path.
+CATCHPHRASE: “Witnesses were present.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 010
+CATEGORY: Home Inconveniences
+CARD_TITLE: Furniture Attack
+TEASER: A household object attacked first.
+INCONVENIENCE: Her favorite pen runs out mid-sentence
+VILLAIN_NAME: Inkless Vengeance
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-inkless-vengeance.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: her favorite pen runs out mid-sentence. The final straw arrived wearing tap shoes, and Mimi becomes Inkless Vengeance, writing enemies’ names in invisible rage.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 011
+CATEGORY: Home Inconveniences
+CARD_TITLE: Blanket Betrayal
+TEASER: Comfort abandoned the mission.
+INCONVENIENCE: A sock disappears in the laundry
+VILLAIN_NAME: The Missing Sock Oracle
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-missing-sock-oracle.png
+STORY: Mimi started the day mostly harmless. Then it happened: a sock disappears in the laundry. Her soul opened a tiny complaint department, and Mimi becomes The Missing Sock Oracle, convinced the dryer is a portal.
+POWER: Can sense laundry portals before the dryer lies.
+WEAKNESS: A dryer that returns every sock alive.
+CATCHPHRASE: “My blanket remembers.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 012
+CATEGORY: Technology Betrayal
+CARD_TITLE: Device Treason
+TEASER: A button failed society.
+INCONVENIENCE: A YouTube ad appears at the best part
+VILLAIN_NAME: Skip Button Supreme
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-skip-button-supreme.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: a YouTube ad appears at the best part. A dramatic cape appeared in her imagination immediately, and Mimi becomes Skip Button Supreme, training for five seconds of pure hatred.
+POWER: Can haunt routers, printers, apps, and suspicious pop-ups.
+WEAKNESS: An app that simply works the first time.
+CATCHPHRASE: “Something went wrong? So did I.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 013
+CATEGORY: Food Crimes
+CARD_TITLE: Flavor Felony
+TEASER: Carbs became political.
+INCONVENIENCE: Someone leaves one sip of juice in the fridge
+VILLAIN_NAME: The Final Sip Avenger
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-final-sip-avenger.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: someone leaves one sip of juice in the fridge. Her patience packed a bag and left no forwarding address, and Mimi becomes The Final Sip Avenger, protector of beverages and fridge dignity.
+POWER: Can turn snack disappointment into courtroom evidence.
+WEAKNESS: A perfect snack and one sincere apology.
+CATCHPHRASE: “I came hungry and left radicalized.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 014
+CATEGORY: Food Crimes
+CARD_TITLE: Breakfast Incident
+TEASER: Flavor trust was permanently damaged.
+INCONVENIENCE: She opens a bag of chips and it is 72% air
+VILLAIN_NAME: The Air Baroness
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-air-baroness.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: she opens a bag of chips and it is 72% air. The villain meter made a noise nobody liked, and Mimi becomes The Air Baroness, suing the concept of packaging emotionally.
+POWER: Can detect dry nuggets from three rooms away.
+WEAKNESS: Fresh sauce, warm fries, and emotional supervision.
+CATCHPHRASE: “This snack will be remembered.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 015
+CATEGORY: Weather/Comfort Crimes
+CARD_TITLE: Cozy System Failure
+TEASER: Physics got too involved.
+INCONVENIENCE: Her alarm goes off on a dream cliffhanger
+VILLAIN_NAME: Dream Interrupted
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-dream-interrupted.png
+STORY: Mimi tried to be a calm citizen. Then it happened: her alarm goes off on a dream cliffhanger. A very small inconvenience became a very official prophecy, and Mimi becomes Dream Interrupted, haunting mornings forever.
+POWER: Can detect the wrong kind of cozy instantly.
+WEAKNESS: Soft lighting and a weather app that does not lie.
+CATCHPHRASE: “I reject this temperature.”
+CALM_OUTCOME: Mimi survives the sensory crime, but the cozy treaty has been damaged.
+---
+ID: 016
+CATEGORY: Home Inconveniences
+CARD_TITLE: Home Object With Motives
+TEASER: Home was not acting like home.
+INCONVENIENCE: The blanket is too hot but the room is too cold
+VILLAIN_NAME: The Temperature Goblin
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-temperature-goblin.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: the blanket is too hot but the room is too cold. Mimi blinked once, then emotionally became thunder, and Mimi becomes The Temperature Goblin, unable to be pleased by physics.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 017
+CATEGORY: Phone Betrayals
+CARD_TITLE: Digital Crime
+TEASER: One notification changed everything.
+INCONVENIENCE: Someone replies “k”
+VILLAIN_NAME: One-Letter Doom
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-one-letter-doom.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: someone replies “k”. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes One-Letter Doom, destroying peace with a single screenshot.
+POWER: Can convert one tiny message into a full emotional documentary.
+WEAKNESS: Clear communication in full sentences.
+CATCHPHRASE: “Say less. I already overthought it.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 018
+CATEGORY: Food Crimes
+CARD_TITLE: Kitchen Betrayal
+TEASER: A snack failed its moral duty.
+INCONVENIENCE: The restaurant forgot her sauce
+VILLAIN_NAME: Sauceless Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-sauceless-mimi.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: the restaurant forgot her sauce. Her inner chaos stood up and asked for a microphone, and Mimi becomes Sauceless Mimi, wandering the earth with dry nuggets and wet eyes.
+POWER: Can detect dry nuggets from three rooms away.
+WEAKNESS: Fresh sauce, warm fries, and emotional supervision.
+CATCHPHRASE: “This snack will be remembered.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 019
+CATEGORY: Phone Betrayals
+CARD_TITLE: Phone Betrayal
+TEASER: The chat became a crime scene.
+INCONVENIENCE: Her playlist shuffles to the wrong vibe
+VILLAIN_NAME: DJ Betrayal
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-dj-betrayal.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: her playlist shuffles to the wrong vibe. A harmless day became legally dramatic, and Mimi becomes DJ Betrayal, banning algorithms from emotional decisions.
+POWER: Can weaponize screenshots without opening the group chat.
+WEAKNESS: Turning off notifications like a healthy person.
+CATCHPHRASE: “One bubble. Infinite damage.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 020
+CATEGORY: Food Crimes
+CARD_TITLE: Suspicious Bite
+TEASER: One bite changed the timeline.
+INCONVENIENCE: She bites into a cookie and it has raisins
+VILLAIN_NAME: The Dessert Inspector
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-dessert-inspector.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: she bites into a cookie and it has raisins. The final straw arrived wearing tap shoes, and Mimi becomes The Dessert Inspector, suspicious of all round brown objects.
+POWER: Can summon dramatic hunger with one raised eyebrow.
+WEAKNESS: Someone saying, “I saved you the good piece.”
+CATCHPHRASE: “Season your apology.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 021
+CATEGORY: Public Humiliation
+CARD_TITLE: Stranger Danger, Emotionally
+TEASER: Mimi’s dignity left the building.
+INCONVENIENCE: A door says push but she pulls
+VILLAIN_NAME: The Humiliation Phantom
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-humiliation-phantom.png
+STORY: Mimi started the day mostly harmless. Then it happened: a door says push but she pulls. Her soul opened a tiny complaint department, and Mimi becomes The Humiliation Phantom, never trusting handles again.
+POWER: Can leave her body for three business days.
+WEAKNESS: No witnesses and a clean exit path.
+CATCHPHRASE: “Witnesses were present.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 022
+CATEGORY: Social Damage
+CARD_TITLE: Audacity Alert
+TEASER: Mimi heard one phrase and changed species.
+INCONVENIENCE: Someone says “we need to talk” then disappears
+VILLAIN_NAME: Anxiety CEO
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-anxiety-ceo.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: someone says “we need to talk” then disappears. A dramatic cape appeared in her imagination immediately, and Mimi becomes Anxiety CEO, holding emergency meetings in her own brain.
+POWER: Can turn one phrase into a five-part investigation.
+WEAKNESS: A human who says exactly what they mean.
+CATCHPHRASE: “It is that deep now.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 023
+CATEGORY: Phone Betrayals
+CARD_TITLE: Pocket-Sized Disaster
+TEASER: Pocket technology chose chaos.
+INCONVENIENCE: She drops her phone on her face in bed
+VILLAIN_NAME: The Pillow Villain
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-pillow-villain.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: she drops her phone on her face in bed. Her patience packed a bag and left no forwarding address, and Mimi becomes The Pillow Villain, plotting revenge from a horizontal position.
+POWER: Can weaponize screenshots without opening the group chat.
+WEAKNESS: Turning off notifications like a healthy person.
+CATCHPHRASE: “One bubble. Infinite damage.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 024
+CATEGORY: Technology Betrayal
+CARD_TITLE: Appliance Villainy
+TEASER: Technology stopped pretending to help.
+INCONVENIENCE: The printer says “paper jam” with no visible jam
+VILLAIN_NAME: Office Gremlin Prime
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-office-gremlin-prime.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: the printer says “paper jam” with no visible jam. The villain meter made a noise nobody liked, and Mimi becomes Office Gremlin Prime, enemy of corporate machinery.
+POWER: Can haunt routers, printers, apps, and suspicious pop-ups.
+WEAKNESS: An app that simply works the first time.
+CATCHPHRASE: “Something went wrong? So did I.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 025
+CATEGORY: Weather/Comfort Crimes
+CARD_TITLE: Comfort Violation
+TEASER: Something wet. Something personal.
+INCONVENIENCE: Her sleeve gets wet while washing hands
+VILLAIN_NAME: The Damp Cuff Demon
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-damp-cuff-demon.png
+STORY: Mimi tried to be a calm citizen. Then it happened: her sleeve gets wet while washing hands. A very small inconvenience became a very official prophecy, and Mimi becomes The Damp Cuff Demon, ruined by one centimeter of water.
+POWER: Can make damp fabric everyone’s problem.
+WEAKNESS: Dry sleeves and perfect blanket temperature.
+CATCHPHRASE: “This sleeve remembers.”
+CALM_OUTCOME: Mimi survives the sensory crime, but the cozy treaty has been damaged.
+---
+ID: 026
+CATEGORY: Phone Betrayals
+CARD_TITLE: Text Message Curse
+TEASER: A tiny screen committed a felony.
+INCONVENIENCE: She loses one earbud
+VILLAIN_NAME: Mono Audio Menace
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-mono-audio-menace.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: she loses one earbud. Mimi blinked once, then emotionally became thunder, and Mimi becomes Mono Audio Menace, hearing betrayal in one ear only.
+POWER: Can hear typing bubbles through walls.
+WEAKNESS: A charged phone and zero read receipts.
+CATCHPHRASE: “The screenshot has entered evidence.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 027
+CATEGORY: Social Damage
+CARD_TITLE: Conversation Crime
+TEASER: The tone was legally unclear.
+INCONVENIENCE: Someone eats the leftovers she was emotionally attached to
+VILLAIN_NAME: Fridge Phantom
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-fridge-phantom.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: someone eats the leftovers she was emotionally attached to. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Fridge Phantom, haunting kitchens at midnight.
+POWER: Can detect audacity before it finishes speaking.
+WEAKNESS: An apology without “no offense” attached.
+CATCHPHRASE: “Per my last emotional collapse.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 028
+CATEGORY: Public Humiliation
+CARD_TITLE: Social Side Quest
+TEASER: A stranger became part of the lore.
+INCONVENIENCE: Her chair makes a weird noise in a quiet room
+VILLAIN_NAME: Public Shame Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-public-shame-mimi.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: her chair makes a weird noise in a quiet room. Her inner chaos stood up and asked for a microphone, and Mimi becomes Public Shame Mimi, legally unable to attend meetings.
+POWER: Can weaponize awkward eye contact.
+WEAKNESS: A public space with fewer main-character traps.
+CATCHPHRASE: “I waved once and became folklore.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 029
+CATEGORY: Home Inconveniences
+CARD_TITLE: Room Temperature Lore
+TEASER: The room became emotionally unsafe.
+INCONVENIENCE: She stubs her toe on furniture she owns
+VILLAIN_NAME: The Interior Design Enemy
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-interior-design-enemy.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: she stubs her toe on furniture she owns. A harmless day became legally dramatic, and Mimi becomes The Interior Design Enemy, declaring furniture suspicious.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 030
+CATEGORY: Home Inconveniences
+CARD_TITLE: Laundry Portal
+TEASER: Laundry folklore got involved.
+INCONVENIENCE: The microwave stops at 0:01
+VILLAIN_NAME: The Unfinished Timer
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-unfinished-timer.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: the microwave stops at 0:01. The final straw arrived wearing tap shoes, and Mimi becomes The Unfinished Timer, leaving everything almost complete out of spite.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 031
+CATEGORY: Home Inconveniences
+CARD_TITLE: Comfort Crime
+TEASER: A normal object turned suspicious.
+INCONVENIENCE: Her lip balm disappears
+VILLAIN_NAME: Chapped Justice
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-chapped-justice.png
+STORY: Mimi started the day mostly harmless. Then it happened: her lip balm disappears. Her soul opened a tiny complaint department, and Mimi becomes Chapped Justice, walking the earth in dry silence.
+POWER: Can sense laundry portals before the dryer lies.
+WEAKNESS: A dryer that returns every sock alive.
+CATCHPHRASE: “My blanket remembers.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 032
+CATEGORY: Social Damage
+CARD_TITLE: Words With Consequences
+TEASER: Peace was broken by punctuation.
+INCONVENIENCE: A group chat ignores her best joke
+VILLAIN_NAME: The Unappreciated Clown
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-unappreciated-clown.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: a group chat ignores her best joke. A dramatic cape appeared in her imagination immediately, and Mimi becomes The Unappreciated Clown, taking screenshots for court.
+POWER: Can hold a grudge with excellent file management.
+WEAKNESS: Clear tone, quick replies, and no verbal jump scares.
+CATCHPHRASE: “Tone is evidence.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 033
+CATEGORY: Social Damage
+CARD_TITLE: Emotional Misdemeanor
+TEASER: A sentence arrived with consequences.
+INCONVENIENCE: Someone types for 40 seconds then sends “yeah”
+VILLAIN_NAME: Typing Bubble Survivor
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-typing-bubble-survivor.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: someone types for 40 seconds then sends “yeah”. Her patience packed a bag and left no forwarding address, and Mimi becomes Typing Bubble Survivor, forever changed by fake suspense.
+POWER: Can analyze tone until the room changes weather.
+WEAKNESS: Direct words and zero mysterious punctuation.
+CATCHPHRASE: “No offense has been recorded.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 034
+CATEGORY: Phone Betrayals
+CARD_TITLE: Text Message Curse
+TEASER: A tiny screen committed a felony.
+INCONVENIENCE: She opens the camera accidentally in selfie mode
+VILLAIN_NAME: The Front Camera Curse
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-front-camera-curse.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: she opens the camera accidentally in selfie mode. The villain meter made a noise nobody liked, and Mimi becomes The Front Camera Curse, humbled by angles and overhead lighting.
+POWER: Can hear typing bubbles through walls.
+WEAKNESS: A charged phone and zero read receipts.
+CATCHPHRASE: “The screenshot has entered evidence.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 035
+CATEGORY: Food Crimes
+CARD_TITLE: Carb Emergency
+TEASER: The kitchen knows what it did.
+INCONVENIENCE: The spoon falls into the soup
+VILLAIN_NAME: Soup Hand Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-soup-hand-mimi.png
+STORY: Mimi tried to be a calm citizen. Then it happened: the spoon falls into the soup. A very small inconvenience became a very official prophecy, and Mimi becomes Soup Hand Mimi, too powerful and too wet.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 036
+CATEGORY: Home Inconveniences
+CARD_TITLE: Domestic Villainy
+TEASER: The furniture had motives.
+INCONVENIENCE: Her nail catches on fabric
+VILLAIN_NAME: The Thread Snagger
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-thread-snagger.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: her nail catches on fabric. Mimi blinked once, then emotionally became thunder, and Mimi becomes The Thread Snagger, enemy of sweaters everywhere.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 037
+CATEGORY: Home Inconveniences
+CARD_TITLE: Room Temperature Lore
+TEASER: The room became emotionally unsafe.
+INCONVENIENCE: The toilet paper roll is empty
+VILLAIN_NAME: Bathroom Betrayal
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-bathroom-betrayal.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: the toilet paper roll is empty. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Bathroom Betrayal, writing laws no one will read.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 038
+CATEGORY: Home Inconveniences
+CARD_TITLE: Laundry Portal
+TEASER: Laundry folklore got involved.
+INCONVENIENCE: She forgets why she entered a room
+VILLAIN_NAME: The Memory Goblin
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-memory-goblin.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: she forgets why she entered a room. Her inner chaos stood up and asked for a microphone, and Mimi becomes The Memory Goblin, guarding doorways and stealing purpose.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 039
+CATEGORY: Technology Betrayal
+CARD_TITLE: Website Hostility
+TEASER: A device became legally suspicious.
+INCONVENIENCE: Her laptop updates without permission
+VILLAIN_NAME: Restart Required
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-restart-required.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: her laptop updates without permission. A harmless day became legally dramatic, and Mimi becomes Restart Required, unavailable for peace or productivity.
+POWER: Can sense weak passwords and weaker excuses.
+WEAKNESS: A password manager and three deep breaths.
+CATCHPHRASE: “The machine knows what it did.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 040
+CATEGORY: Social Damage
+CARD_TITLE: Words With Consequences
+TEASER: Peace was broken by punctuation.
+INCONVENIENCE: Someone says “no offense” then offends
+VILLAIN_NAME: The Offense Collector
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-offense-collector.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: someone says “no offense” then offends. The final straw arrived wearing tap shoes, and Mimi becomes The Offense Collector, building a museum of audacity.
+POWER: Can hold a grudge with excellent file management.
+WEAKNESS: Clear tone, quick replies, and no verbal jump scares.
+CATCHPHRASE: “Tone is evidence.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 041
+CATEGORY: Food Crimes
+CARD_TITLE: Snack Crime
+TEASER: Something edible chose violence.
+INCONVENIENCE: The straw gets soggy
+VILLAIN_NAME: Paper Straw Nemesis
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-paper-straw-nemesis.png
+STORY: Mimi started the day mostly harmless. Then it happened: the straw gets soggy. Her soul opened a tiny complaint department, and Mimi becomes Paper Straw Nemesis, fighting eco-conscious inconvenience with tears.
+POWER: Can turn snack disappointment into courtroom evidence.
+WEAKNESS: A perfect snack and one sincere apology.
+CATCHPHRASE: “I came hungry and left radicalized.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 042
+CATEGORY: Home Inconveniences
+CARD_TITLE: Furniture Attack
+TEASER: A household object attacked first.
+INCONVENIENCE: She steps in water wearing socks
+VILLAIN_NAME: Wet Sock Warlord
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-wet-sock-warlord.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: she steps in water wearing socks. A dramatic cape appeared in her imagination immediately, and Mimi becomes Wet Sock Warlord, entering the darkest timeline.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 043
+CATEGORY: Food Crimes
+CARD_TITLE: Carb Emergency
+TEASER: The kitchen knows what it did.
+INCONVENIENCE: Her food arrives, but no napkins
+VILLAIN_NAME: Sauce Fingers
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-sauce-fingers.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: her food arrives, but no napkins. Her patience packed a bag and left no forwarding address, and Mimi becomes Sauce Fingers, touching nothing and trusting no one.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 044
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Delivery Drama
+TEASER: A receipt-adjacent panic was forming.
+INCONVENIENCE: She gets an email that starts with “just following up”
+VILLAIN_NAME: The Follow-Up Fiend
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-follow-up-fiend.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: she gets an email that starts with “just following up”. The villain meter made a noise nobody liked, and Mimi becomes The Follow-Up Fiend, hiding under a digital rock.
+POWER: Can detect public-system betrayal before it scans.
+WEAKNESS: A bag that survives the walk home.
+CATCHPHRASE: “Capitalism blinked first.”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 045
+CATEGORY: Home Inconveniences
+CARD_TITLE: Room Temperature Lore
+TEASER: The room became emotionally unsafe.
+INCONVENIENCE: A sticker leaves residue
+VILLAIN_NAME: Residue Revenant
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-residue-revenant.png
+STORY: Mimi tried to be a calm citizen. Then it happened: a sticker leaves residue. A very small inconvenience became a very official prophecy, and Mimi becomes Residue Revenant, scraping at destiny with one fingernail.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 046
+CATEGORY: Social Damage
+CARD_TITLE: Audacity Alert
+TEASER: Mimi heard one phrase and changed species.
+INCONVENIENCE: Someone says “it’s giving…” and never finishes
+VILLAIN_NAME: Unfinished Sentence Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-unfinished-sentence-mimi.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: someone says “it’s giving…” and never finishes. Mimi blinked once, then emotionally became thunder, and Mimi becomes Unfinished Sentence Mimi, cursed to wonder forever.
+POWER: Can turn one phrase into a five-part investigation.
+WEAKNESS: A human who says exactly what they mean.
+CATCHPHRASE: “It is that deep now.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 047
+CATEGORY: Public Humiliation
+CARD_TITLE: Main Character Damage
+TEASER: A public object had attitude.
+INCONVENIENCE: The cashier asks if she wants the receipt while she is buffering
+VILLAIN_NAME: Receipt Panic
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-receipt-panic.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: the cashier asks if she wants the receipt while she is buffering. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Receipt Panic, choosing wrong every time.
+POWER: Can make sidewalks respect her emotional speed limit.
+WEAKNESS: A stranger pretending they saw nothing.
+CATCHPHRASE: “The sidewalk owes me damages.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 048
+CATEGORY: Home Inconveniences
+CARD_TITLE: Home Object With Motives
+TEASER: Home was not acting like home.
+INCONVENIENCE: She accidentally likes an old post
+VILLAIN_NAME: The Archaeology Criminal
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-archaeology-criminal.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: she accidentally likes an old post. Her inner chaos stood up and asked for a microphone, and Mimi becomes The Archaeology Criminal, caught digging in forbidden timelines.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 049
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Errand Betrayal
+TEASER: An errand developed villain energy.
+INCONVENIENCE: Her bag strap twists
+VILLAIN_NAME: The Strap Spiral
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-strap-spiral.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: her bag strap twists. A harmless day became legally dramatic, and Mimi becomes The Strap Spiral, fighting accessories and losing daily.
+POWER: Can interrogate packages through closed curtains.
+WEAKNESS: A smooth wheel, a present package, and a receipt decision made for her.
+CATCHPHRASE: “The errand became personal.”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 050
+CATEGORY: Technology Betrayal
+CARD_TITLE: Digital Meltdown
+TEASER: A loading symbol became personal.
+INCONVENIENCE: The automatic soap dispenser ignores her hand
+VILLAIN_NAME: Invisible to Soap
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-invisible-to-soap.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: the automatic soap dispenser ignores her hand. The final straw arrived wearing tap shoes, and Mimi becomes Invisible to Soap, rejected by hygiene technology.
+POWER: Can make loading screens feel personally accused.
+WEAKNESS: Stable Wi-Fi and a printer with no attitude.
+CATCHPHRASE: “I accept zero cookies emotionally.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 051
+CATEGORY: Food Crimes
+CARD_TITLE: Carb Emergency
+TEASER: The kitchen knows what it did.
+INCONVENIENCE: She orders iced coffee and gets hot coffee
+VILLAIN_NAME: Thermal Betrayal
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-thermal-betrayal.png
+STORY: Mimi started the day mostly harmless. Then it happened: she orders iced coffee and gets hot coffee. Her soul opened a tiny complaint department, and Mimi becomes Thermal Betrayal, no longer believing in beverage law.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 052
+CATEGORY: Food Crimes
+CARD_TITLE: Suspicious Bite
+TEASER: One bite changed the timeline.
+INCONVENIENCE: The avocado is either rock or soup
+VILLAIN_NAME: The Ripeness Prophet
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-ripeness-prophet.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: the avocado is either rock or soup. A dramatic cape appeared in her imagination immediately, and Mimi becomes The Ripeness Prophet, wrong every time but dramatic about it.
+POWER: Can summon dramatic hunger with one raised eyebrow.
+WEAKNESS: Someone saying, “I saved you the good piece.”
+CATCHPHRASE: “Season your apology.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 053
+CATEGORY: Home Inconveniences
+CARD_TITLE: Room Temperature Lore
+TEASER: The room became emotionally unsafe.
+INCONVENIENCE: She drops something and it rolls under the bed
+VILLAIN_NAME: Underbed Goblin
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-underbed-goblin.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: she drops something and it rolls under the bed. Her patience packed a bag and left no forwarding address, and Mimi becomes Underbed Goblin, crawling toward darkness for one lip gloss.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 054
+CATEGORY: Phone Betrayals
+CARD_TITLE: Typing Bubble Trauma
+TEASER: A bubble appeared. Peace disappeared.
+INCONVENIENCE: Someone sends a voice note longer than 2 minutes
+VILLAIN_NAME: Audio Homework Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-audio-homework-mimi.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: someone sends a voice note longer than 2 minutes. The villain meter made a noise nobody liked, and Mimi becomes Audio Homework Mimi, grading friendships by transcript length.
+POWER: Can hear typing bubbles through walls.
+WEAKNESS: A charged phone and zero read receipts.
+CATCHPHRASE: “The screenshot has entered evidence.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 055
+CATEGORY: Home Inconveniences
+CARD_TITLE: Comfort Crime
+TEASER: A normal object turned suspicious.
+INCONVENIENCE: The remote battery dies
+VILLAIN_NAME: The Channel Prisoner
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-channel-prisoner.png
+STORY: Mimi tried to be a calm citizen. Then it happened: the remote battery dies. A very small inconvenience became a very official prophecy, and Mimi becomes The Channel Prisoner, forced to watch whatever fate selected.
+POWER: Can sense laundry portals before the dryer lies.
+WEAKNESS: A dryer that returns every sock alive.
+CATCHPHRASE: “My blanket remembers.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 056
+CATEGORY: Home Inconveniences
+CARD_TITLE: Home Object With Motives
+TEASER: Home was not acting like home.
+INCONVENIENCE: Her blanket burrito unwraps
+VILLAIN_NAME: The Cold Tortilla
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-cold-tortilla.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: her blanket burrito unwraps. Mimi blinked once, then emotionally became thunder, and Mimi becomes The Cold Tortilla, abandoned by comfort itself.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 057
+CATEGORY: Home Inconveniences
+CARD_TITLE: Household Crime
+TEASER: The house revealed its true loyalty.
+INCONVENIENCE: She opens a drawer and it jams
+VILLAIN_NAME: Drawer Rage
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-drawer-rage.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: she opens a drawer and it jams. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Drawer Rage, negotiating with furniture like it owes rent.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 058
+CATEGORY: Social Damage
+CARD_TITLE: Suspicious Human Behavior
+TEASER: Someone used words irresponsibly.
+INCONVENIENCE: Someone says “I’m five minutes away” from their house
+VILLAIN_NAME: Time Fraud Investigator
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-time-fraud-investigator.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: someone says “I’m five minutes away” from their house. Her inner chaos stood up and asked for a microphone, and Mimi becomes Time Fraud Investigator, exposing lies with location services energy.
+POWER: Can turn one phrase into a five-part investigation.
+WEAKNESS: A human who says exactly what they mean.
+CATCHPHRASE: “It is that deep now.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 059
+CATEGORY: Food Crimes
+CARD_TITLE: Carb Emergency
+TEASER: The kitchen knows what it did.
+INCONVENIENCE: The pizza slice burns her mouth
+VILLAIN_NAME: Cheese Lava Survivor
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-cheese-lava-survivor.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: the pizza slice burns her mouth. A harmless day became legally dramatic, and Mimi becomes Cheese Lava Survivor, unable to trust melted things.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 060
+CATEGORY: Home Inconveniences
+CARD_TITLE: Domestic Villainy
+TEASER: The furniture had motives.
+INCONVENIENCE: The shampoo bottle is empty mid-shower
+VILLAIN_NAME: Half-Clean Menace
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-half-clean-menace.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: the shampoo bottle is empty mid-shower. The final straw arrived wearing tap shoes, and Mimi becomes Half-Clean Menace, plotting from beneath the water.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 061
+CATEGORY: Phone Betrayals
+CARD_TITLE: Algorithm Betrayal
+TEASER: The device knew exactly what it was doing.
+INCONVENIENCE: She tries to unlock her phone with wet fingers
+VILLAIN_NAME: Touchscreen Reject
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-touchscreen-reject.png
+STORY: Mimi started the day mostly harmless. Then it happened: she tries to unlock her phone with wet fingers. Her soul opened a tiny complaint department, and Mimi becomes Touchscreen Reject, betrayed by glass.
+POWER: Can convert one tiny message into a full emotional documentary.
+WEAKNESS: Clear communication in full sentences.
+CATCHPHRASE: “Say less. I already overthought it.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 062
+CATEGORY: Phone Betrayals
+CARD_TITLE: Typing Bubble Trauma
+TEASER: A bubble appeared. Peace disappeared.
+INCONVENIENCE: Her playlist ends and silence attacks
+VILLAIN_NAME: The Awkward Silence Sorcerer
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-awkward-silence-sorcerer.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: her playlist ends and silence attacks. A dramatic cape appeared in her imagination immediately, and Mimi becomes The Awkward Silence Sorcerer, filling voids with suspicious humming.
+POWER: Can hear typing bubbles through walls.
+WEAKNESS: A charged phone and zero read receipts.
+CATCHPHRASE: “The screenshot has entered evidence.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 063
+CATEGORY: Food Crimes
+CARD_TITLE: Sauce Situation
+TEASER: The sauce was not emotionally available.
+INCONVENIENCE: A website makes her accept cookies again
+VILLAIN_NAME: Cookie Consent Criminal
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-cookie-consent-criminal.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: a website makes her accept cookies again. Her patience packed a bag and left no forwarding address, and Mimi becomes Cookie Consent Criminal, accepting nothing emotionally.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 064
+CATEGORY: Social Damage
+CARD_TITLE: Words With Consequences
+TEASER: Peace was broken by punctuation.
+INCONVENIENCE: Someone asks “are you mad?” when she was not mad
+VILLAIN_NAME: Mad Now Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-mad-now-mimi.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: someone asks “are you mad?” when she was not mad. The villain meter made a noise nobody liked, and Mimi becomes Mad Now Mimi, created entirely by the question.
+POWER: Can hold a grudge with excellent file management.
+WEAKNESS: Clear tone, quick replies, and no verbal jump scares.
+CATCHPHRASE: “Tone is evidence.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 065
+CATEGORY: Public Humiliation
+CARD_TITLE: Witnesses Were Present
+TEASER: Witnesses were unfortunately present.
+INCONVENIENCE: The chair is warm from the previous person
+VILLAIN_NAME: Seat Memory Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-seat-memory-mimi.png
+STORY: Mimi tried to be a calm citizen. Then it happened: the chair is warm from the previous person. A very small inconvenience became a very official prophecy, and Mimi becomes Seat Memory Mimi, cursed by public furniture.
+POWER: Can leave her body for three business days.
+WEAKNESS: No witnesses and a clean exit path.
+CATCHPHRASE: “Witnesses were present.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 066
+CATEGORY: Food Crimes
+CARD_TITLE: Kitchen Betrayal
+TEASER: A snack failed its moral duty.
+INCONVENIENCE: She opens a banana from the wrong end and it fights back
+VILLAIN_NAME: Banana Villain
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-banana-villain.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: she opens a banana from the wrong end and it fights back. Mimi blinked once, then emotionally became thunder, and Mimi becomes Banana Villain, anti-fruit and pro-chaos.
+POWER: Can detect dry nuggets from three rooms away.
+WEAKNESS: Fresh sauce, warm fries, and emotional supervision.
+CATCHPHRASE: “This snack will be remembered.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 067
+CATEGORY: Phone Betrayals
+CARD_TITLE: Phone Betrayal
+TEASER: The chat became a crime scene.
+INCONVENIENCE: A notification disappears before she reads it
+VILLAIN_NAME: The Lost Alert
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-lost-alert.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: a notification disappears before she reads it. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes The Lost Alert, forever chasing one mystery ping.
+POWER: Can weaponize screenshots without opening the group chat.
+WEAKNESS: Turning off notifications like a healthy person.
+CATCHPHRASE: “One bubble. Infinite damage.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 068
+CATEGORY: Technology Betrayal
+CARD_TITLE: Device Treason
+TEASER: A button failed society.
+INCONVENIENCE: She gets a captcha wrong
+VILLAIN_NAME: Probably Not Human
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-probably-not-human.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: she gets a captcha wrong. Her inner chaos stood up and asked for a microphone, and Mimi becomes Probably Not Human, rejected by robots and society.
+POWER: Can haunt routers, printers, apps, and suspicious pop-ups.
+WEAKNESS: An app that simply works the first time.
+CATCHPHRASE: “Something went wrong? So did I.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 069
+CATEGORY: Home Inconveniences
+CARD_TITLE: Room Temperature Lore
+TEASER: The room became emotionally unsafe.
+INCONVENIENCE: The blanket has no cold side left
+VILLAIN_NAME: Heat Trap Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-heat-trap-mimi.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: the blanket has no cold side left. A harmless day became legally dramatic, and Mimi becomes Heat Trap Mimi, forced into full goblin transformation.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 070
+CATEGORY: Home Inconveniences
+CARD_TITLE: Laundry Portal
+TEASER: Laundry folklore got involved.
+INCONVENIENCE: Her hoodie string vanishes into the hood
+VILLAIN_NAME: Stringless Fury
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-stringless-fury.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: her hoodie string vanishes into the hood. The final straw arrived wearing tap shoes, and Mimi becomes Stringless Fury, emotionally held together by nothing.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 071
+CATEGORY: Social Damage
+CARD_TITLE: Social Damage
+TEASER: The conversation became weather.
+INCONVENIENCE: Someone chews too loudly nearby
+VILLAIN_NAME: Crunch Monitor
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-crunch-monitor.png
+STORY: Mimi started the day mostly harmless. Then it happened: someone chews too loudly nearby. Her soul opened a tiny complaint department, and Mimi becomes Crunch Monitor, enforcing snack silence across the land.
+POWER: Can detect audacity before it finishes speaking.
+WEAKNESS: An apology without “no offense” attached.
+CATCHPHRASE: “Per my last emotional collapse.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 072
+CATEGORY: Public Humiliation
+CARD_TITLE: Outdoor Betrayal
+TEASER: The scene was small, but the shame was cinematic.
+INCONVENIENCE: The shopping cart has one broken wheel
+VILLAIN_NAME: The Wobble Queen
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-wobble-queen.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: the shopping cart has one broken wheel. A dramatic cape appeared in her imagination immediately, and Mimi becomes The Wobble Queen, drifting through aisles like a haunted boat.
+POWER: Can weaponize awkward eye contact.
+WEAKNESS: A public space with fewer main-character traps.
+CATCHPHRASE: “I waved once and became folklore.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 073
+CATEGORY: Public Humiliation
+CARD_TITLE: Witnesses Were Present
+TEASER: Witnesses were unfortunately present.
+INCONVENIENCE: She waves back at someone waving to someone behind her
+VILLAIN_NAME: Social Death Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-social-death-mimi.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: she waves back at someone waving to someone behind her. Her patience packed a bag and left no forwarding address, and Mimi becomes Social Death Mimi, leaving her body for three business days.
+POWER: Can leave her body for three business days.
+WEAKNESS: No witnesses and a clean exit path.
+CATCHPHRASE: “Witnesses were present.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 074
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Public Chaos
+TEASER: Capitalism personally interfered.
+INCONVENIENCE: Her package says “delivered” but is not there
+VILLAIN_NAME: Porch Pirate Detective
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-porch-pirate-detective.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: her package says “delivered” but is not there. The villain meter made a noise nobody liked, and Mimi becomes Porch Pirate Detective, interrogating neighbors through curtains.
+POWER: Can make errands feel like boss battles.
+WEAKNESS: An errand that ends before it becomes lore.
+CATCHPHRASE: “Delivered where, spiritually?”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 075
+CATEGORY: Social Damage
+CARD_TITLE: Conversation Crime
+TEASER: The tone was legally unclear.
+INCONVENIENCE: Someone asks a question answered in the message above
+VILLAIN_NAME: Per My Last Email Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-per-my-last-email-mimi.png
+STORY: Mimi tried to be a calm citizen. Then it happened: someone asks a question answered in the message above. A very small inconvenience became a very official prophecy, and Mimi becomes Per My Last Email Mimi, wearing tiny office armor.
+POWER: Can detect audacity before it finishes speaking.
+WEAKNESS: An apology without “no offense” attached.
+CATCHPHRASE: “Per my last emotional collapse.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 076
+CATEGORY: Food Crimes
+CARD_TITLE: Suspicious Bite
+TEASER: One bite changed the timeline.
+INCONVENIENCE: The ice cream spoon bends
+VILLAIN_NAME: Soft Spoon Villain
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-soft-spoon-villain.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: the ice cream spoon bends. Mimi blinked once, then emotionally became thunder, and Mimi becomes Soft Spoon Villain, betrayed by weak cutlery.
+POWER: Can summon dramatic hunger with one raised eyebrow.
+WEAKNESS: Someone saying, “I saved you the good piece.”
+CATCHPHRASE: “Season your apology.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 077
+CATEGORY: Food Crimes
+CARD_TITLE: Flavor Felony
+TEASER: Carbs became political.
+INCONVENIENCE: She steps on one tiny crumb barefoot
+VILLAIN_NAME: Crumb Punishment
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-crumb-punishment.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: she steps on one tiny crumb barefoot. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Crumb Punishment, vacuuming with personal rage.
+POWER: Can turn snack disappointment into courtroom evidence.
+WEAKNESS: A perfect snack and one sincere apology.
+CATCHPHRASE: “I came hungry and left radicalized.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 078
+CATEGORY: Home Inconveniences
+CARD_TITLE: Laundry Portal
+TEASER: Laundry folklore got involved.
+INCONVENIENCE: The zipper gets stuck
+VILLAIN_NAME: The Fabric Prisoner
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-fabric-prisoner.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: the zipper gets stuck. Her inner chaos stood up and asked for a microphone, and Mimi becomes The Fabric Prisoner, trapped by fashion.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 079
+CATEGORY: Social Damage
+CARD_TITLE: Social Damage
+TEASER: The conversation became weather.
+INCONVENIENCE: Someone says “smile more”
+VILLAIN_NAME: The Smile Tax Collector
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-smile-tax-collector.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: someone says “smile more”. A harmless day became legally dramatic, and Mimi becomes The Smile Tax Collector, charging rent for unsolicited opinions.
+POWER: Can detect audacity before it finishes speaking.
+WEAKNESS: An apology without “no offense” attached.
+CATCHPHRASE: “Per my last emotional collapse.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 080
+CATEGORY: Phone Betrayals
+CARD_TITLE: Signal From Hell
+TEASER: Signal was found, dignity was lost.
+INCONVENIENCE: Her headphones connect to the wrong device
+VILLAIN_NAME: Bluetooth Betrayed
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-bluetooth-betrayed.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: her headphones connect to the wrong device. The final straw arrived wearing tap shoes, and Mimi becomes Bluetooth Betrayed, fighting invisible connections.
+POWER: Can turn silence into suspicious evidence.
+WEAKNESS: Someone replying with context, warmth, and punctuation.
+CATCHPHRASE: “My phone started it.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 081
+CATEGORY: Food Crimes
+CARD_TITLE: Snack Crime
+TEASER: Something edible chose violence.
+INCONVENIENCE: A recipe says “cook until done”
+VILLAIN_NAME: The Measurement Menace
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-measurement-menace.png
+STORY: Mimi started the day mostly harmless. Then it happened: a recipe says “cook until done”. Her soul opened a tiny complaint department, and Mimi becomes The Measurement Menace, demanding numbers from cowards.
+POWER: Can turn snack disappointment into courtroom evidence.
+WEAKNESS: A perfect snack and one sincere apology.
+CATCHPHRASE: “I came hungry and left radicalized.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 082
+CATEGORY: Phone Betrayals
+CARD_TITLE: Text Message Curse
+TEASER: A tiny screen committed a felony.
+INCONVENIENCE: She gets a “low storage” warning
+VILLAIN_NAME: The Screenshot Hoarder
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-screenshot-hoarder.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: she gets a “low storage” warning. A dramatic cape appeared in her imagination immediately, and Mimi becomes The Screenshot Hoarder, refusing to delete memories or memes.
+POWER: Can hear typing bubbles through walls.
+WEAKNESS: A charged phone and zero read receipts.
+CATCHPHRASE: “The screenshot has entered evidence.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 083
+CATEGORY: Phone Betrayals
+CARD_TITLE: Phone Betrayal
+TEASER: The chat became a crime scene.
+INCONVENIENCE: Someone reads her message and does not reply
+VILLAIN_NAME: Read Receipt Royalty
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-read-receipt-royalty.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: someone reads her message and does not reply. Her patience packed a bag and left no forwarding address, and Mimi becomes Read Receipt Royalty, judging silently from the throne.
+POWER: Can weaponize screenshots without opening the group chat.
+WEAKNESS: Turning off notifications like a healthy person.
+CATCHPHRASE: “One bubble. Infinite damage.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 084
+CATEGORY: Public Humiliation
+CARD_TITLE: Social Side Quest
+TEASER: A stranger became part of the lore.
+INCONVENIENCE: The bus arrives early for once
+VILLAIN_NAME: Public Transport Nemesis
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-public-transport-nemesis.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: the bus arrives early for once. The villain meter made a noise nobody liked, and Mimi becomes Public Transport Nemesis, betrayed by punctuality.
+POWER: Can weaponize awkward eye contact.
+WEAKNESS: A public space with fewer main-character traps.
+CATCHPHRASE: “I waved once and became folklore.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 085
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Shopping Cart Curse
+TEASER: The outside world demanded paperwork.
+INCONVENIENCE: She forgets her tote bag after saying she is a tote bag person
+VILLAIN_NAME: Plastic Bag Shame
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-plastic-bag-shame.png
+STORY: Mimi tried to be a calm citizen. Then it happened: she forgets her tote bag after saying she is a tote bag person. A very small inconvenience became a very official prophecy, and Mimi becomes Plastic Bag Shame, exiled from aesthetic living.
+POWER: Can interrogate packages through closed curtains.
+WEAKNESS: A smooth wheel, a present package, and a receipt decision made for her.
+CATCHPHRASE: “The errand became personal.”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 086
+CATEGORY: Home Inconveniences
+CARD_TITLE: Laundry Portal
+TEASER: Laundry folklore got involved.
+INCONVENIENCE: The fitted sheet refuses to fit
+VILLAIN_NAME: Mattress Wrestler
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-mattress-wrestler.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: the fitted sheet refuses to fit. Mimi blinked once, then emotionally became thunder, and Mimi becomes Mattress Wrestler, fighting elastic with ancient fury.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 087
+CATEGORY: Food Crimes
+CARD_TITLE: Sauce Situation
+TEASER: The sauce was not emotionally available.
+INCONVENIENCE: The cereal box has crumbs only
+VILLAIN_NAME: Breakfast Dust Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-breakfast-dust-mimi.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: the cereal box has crumbs only. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Breakfast Dust Mimi, eating disappointment with a spoon.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 088
+CATEGORY: Social Damage
+CARD_TITLE: Words With Consequences
+TEASER: Peace was broken by punctuation.
+INCONVENIENCE: Someone spoils a show casually
+VILLAIN_NAME: Spoiler Revenant
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-spoiler-revenant.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: someone spoils a show casually. Her inner chaos stood up and asked for a microphone, and Mimi becomes Spoiler Revenant, muting names, dates, and humans.
+POWER: Can hold a grudge with excellent file management.
+WEAKNESS: Clear tone, quick replies, and no verbal jump scares.
+CATCHPHRASE: “Tone is evidence.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 089
+CATEGORY: Home Inconveniences
+CARD_TITLE: Household Crime
+TEASER: The house revealed its true loyalty.
+INCONVENIENCE: Her pen leaks in her bag
+VILLAIN_NAME: Ink Disaster Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-ink-disaster-mimi.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: her pen leaks in her bag. A harmless day became legally dramatic, and Mimi becomes Ink Disaster Mimi, carrying evidence of betrayal forever.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 090
+CATEGORY: Home Inconveniences
+CARD_TITLE: Furniture Attack
+TEASER: A household object attacked first.
+INCONVENIENCE: A chair leg catches her toe
+VILLAIN_NAME: Furniture Lawsuit
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-furniture-lawsuit.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: a chair leg catches her toe. The final straw arrived wearing tap shoes, and Mimi becomes Furniture Lawsuit, representing herself emotionally.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 091
+CATEGORY: Home Inconveniences
+CARD_TITLE: Blanket Betrayal
+TEASER: Comfort abandoned the mission.
+INCONVENIENCE: The traffic light turns red only for her
+VILLAIN_NAME: Red Light Rival
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-red-light-rival.png
+STORY: Mimi started the day mostly harmless. Then it happened: the traffic light turns red only for her. Her soul opened a tiny complaint department, and Mimi becomes Red Light Rival, convinced the city has favorites.
+POWER: Can sense laundry portals before the dryer lies.
+WEAKNESS: A dryer that returns every sock alive.
+CATCHPHRASE: “My blanket remembers.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 092
+CATEGORY: Food Crimes
+CARD_TITLE: Suspicious Bite
+TEASER: One bite changed the timeline.
+INCONVENIENCE: The bag of salad expires instantly
+VILLAIN_NAME: Rotten Leaf Realist
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-rotten-leaf-realist.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: the bag of salad expires instantly. A dramatic cape appeared in her imagination immediately, and Mimi becomes Rotten Leaf Realist, no longer believing in healthy intentions.
+POWER: Can summon dramatic hunger with one raised eyebrow.
+WEAKNESS: Someone saying, “I saved you the good piece.”
+CATCHPHRASE: “Season your apology.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 093
+CATEGORY: Social Damage
+CARD_TITLE: Friendship Paperwork
+TEASER: A human interaction failed inspection.
+INCONVENIENCE: Someone says “quick call?”
+VILLAIN_NAME: Calendar Panic
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-calendar-panic.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: someone says “quick call?”. Her patience packed a bag and left no forwarding address, and Mimi becomes Calendar Panic, preparing emotionally for a 6-minute disaster.
+POWER: Can analyze tone until the room changes weather.
+WEAKNESS: Direct words and zero mysterious punctuation.
+CATCHPHRASE: “No offense has been recorded.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 094
+CATEGORY: Technology Betrayal
+CARD_TITLE: Password Panic
+TEASER: The screen offered no comfort.
+INCONVENIENCE: The app logs her out for security
+VILLAIN_NAME: Password Amnesia
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-password-amnesia.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: the app logs her out for security. The villain meter made a noise nobody liked, and Mimi becomes Password Amnesia, locked outside her own life.
+POWER: Can make loading screens feel personally accused.
+WEAKNESS: Stable Wi-Fi and a printer with no attitude.
+CATCHPHRASE: “I accept zero cookies emotionally.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 095
+CATEGORY: Weather/Comfort Crimes
+CARD_TITLE: Cozy System Failure
+TEASER: Physics got too involved.
+INCONVENIENCE: She forgets her umbrella and it rains sideways
+VILLAIN_NAME: The Damp Duchess
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-damp-duchess.png
+STORY: Mimi tried to be a calm citizen. Then it happened: she forgets her umbrella and it rains sideways. A very small inconvenience became a very official prophecy, and Mimi becomes The Damp Duchess, ruling over poor decisions.
+POWER: Can detect the wrong kind of cozy instantly.
+WEAKNESS: Soft lighting and a weather app that does not lie.
+CATCHPHRASE: “I reject this temperature.”
+CALM_OUTCOME: Mimi survives the sensory crime, but the cozy treaty has been damaged.
+---
+ID: 096
+CATEGORY: Home Inconveniences
+CARD_TITLE: Home Object With Motives
+TEASER: Home was not acting like home.
+INCONVENIENCE: Her favorite mug is dirty
+VILLAIN_NAME: Dish Sink Dictator
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-dish-sink-dictator.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: her favorite mug is dirty. Mimi blinked once, then emotionally became thunder, and Mimi becomes Dish Sink Dictator, glaring at yesterday’s self.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 097
+CATEGORY: Phone Betrayals
+CARD_TITLE: Digital Crime
+TEASER: One notification changed everything.
+INCONVENIENCE: A drawer contains every charger except the one she needs
+VILLAIN_NAME: Cable Archaeologist
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-cable-archaeologist.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: a drawer contains every charger except the one she needs. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Cable Archaeologist, digging through ancient wires.
+POWER: Can convert one tiny message into a full emotional documentary.
+WEAKNESS: Clear communication in full sentences.
+CATCHPHRASE: “Say less. I already overthought it.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 098
+CATEGORY: Social Damage
+CARD_TITLE: Suspicious Human Behavior
+TEASER: Someone used words irresponsibly.
+INCONVENIENCE: Someone says “that’s crazy” but clearly did not listen
+VILLAIN_NAME: The Fake Listener Detector
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-fake-listener-detector.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: someone says “that’s crazy” but clearly did not listen. Her inner chaos stood up and asked for a microphone, and Mimi becomes The Fake Listener Detector, powered by micro-expressions.
+POWER: Can turn one phrase into a five-part investigation.
+WEAKNESS: A human who says exactly what they mean.
+CATCHPHRASE: “It is that deep now.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 099
+CATEGORY: Food Crimes
+CARD_TITLE: Carb Emergency
+TEASER: The kitchen knows what it did.
+INCONVENIENCE: Her fries have one mystery sweet potato fry
+VILLAIN_NAME: Potato Purist
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-potato-purist.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: her fries have one mystery sweet potato fry. A harmless day became legally dramatic, and Mimi becomes Potato Purist, enforcing fry identity law.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 100
+CATEGORY: Food Crimes
+CARD_TITLE: Suspicious Bite
+TEASER: One bite changed the timeline.
+INCONVENIENCE: She gets crumbs in bed
+VILLAIN_NAME: Mattress Ecosystem Manager
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-mattress-ecosystem-manager.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: she gets crumbs in bed. The final straw arrived wearing tap shoes, and Mimi becomes Mattress Ecosystem Manager, forced to sleep in a bakery.
+POWER: Can summon dramatic hunger with one raised eyebrow.
+WEAKNESS: Someone saying, “I saved you the good piece.”
+CATCHPHRASE: “Season your apology.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 101
+CATEGORY: Technology Betrayal
+CARD_TITLE: Loading Screen Curse
+TEASER: Something updated against consent.
+INCONVENIENCE: A website says her password is weak
+VILLAIN_NAME: Password Villain
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-password-villain.png
+STORY: Mimi started the day mostly harmless. Then it happened: a website says her password is weak. Her soul opened a tiny complaint department, and Mimi becomes Password Villain, offended by cybersecurity honesty.
+POWER: Can crash the mood of every machine nearby.
+WEAKNESS: A working charger and a machine that minds its business.
+CATCHPHRASE: “Loading is a threat.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 102
+CATEGORY: Weather/Comfort Crimes
+CARD_TITLE: Sensory Emergency
+TEASER: Cozy time was sabotaged.
+INCONVENIENCE: She drops ice down her shirt
+VILLAIN_NAME: The Cold Panic Goblin
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-cold-panic-goblin.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: she drops ice down her shirt. A dramatic cape appeared in her imagination immediately, and Mimi becomes The Cold Panic Goblin, doing a cursed dance in public.
+POWER: Can weaponize temperature discomfort into policy.
+WEAKNESS: A hoodie with obedient strings.
+CATCHPHRASE: “Physics will be hearing from me.”
+CALM_OUTCOME: Mimi survives the sensory crime, but the cozy treaty has been damaged.
+---
+ID: 103
+CATEGORY: Social Damage
+CARD_TITLE: Social Damage
+TEASER: The conversation became weather.
+INCONVENIENCE: Someone uses “your” instead of “you’re” in a serious argument
+VILLAIN_NAME: Grammar Goblin
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-grammar-goblin.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: someone uses “your” instead of “you’re” in a serious argument. Her patience packed a bag and left no forwarding address, and Mimi becomes Grammar Goblin, unable to focus on the point.
+POWER: Can detect audacity before it finishes speaking.
+WEAKNESS: An apology without “no offense” attached.
+CATCHPHRASE: “Per my last emotional collapse.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 104
+CATEGORY: Home Inconveniences
+CARD_TITLE: Home Object With Motives
+TEASER: Home was not acting like home.
+INCONVENIENCE: The dishwasher is clean but nobody unloaded it
+VILLAIN_NAME: Forkless Fury
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-forkless-fury.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: the dishwasher is clean but nobody unloaded it. The villain meter made a noise nobody liked, and Mimi becomes Forkless Fury, eating yogurt with emotional damage.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 105
+CATEGORY: Public Humiliation
+CARD_TITLE: Witnesses Were Present
+TEASER: Witnesses were unfortunately present.
+INCONVENIENCE: A child stares at her in public
+VILLAIN_NAME: Judged by Toddler
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-judged-by-toddler.png
+STORY: Mimi tried to be a calm citizen. Then it happened: a child stares at her in public. A very small inconvenience became a very official prophecy, and Mimi becomes Judged by Toddler, questioning every life choice.
+POWER: Can leave her body for three business days.
+WEAKNESS: No witnesses and a clean exit path.
+CATCHPHRASE: “Witnesses were present.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 106
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Public Chaos
+TEASER: Capitalism personally interfered.
+INCONVENIENCE: The bag rips one step from home
+VILLAIN_NAME: Sidewalk Grocery Tragedy
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-sidewalk-grocery-tragedy.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: the bag rips one step from home. Mimi blinked once, then emotionally became thunder, and Mimi becomes Sidewalk Grocery Tragedy, carrying onions like fallen soldiers.
+POWER: Can make errands feel like boss battles.
+WEAKNESS: An errand that ends before it becomes lore.
+CATCHPHRASE: “Delivered where, spiritually?”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 107
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Receipt Panic
+TEASER: The public system betrayed her.
+INCONVENIENCE: Her card declines for no reason
+VILLAIN_NAME: Banking Theater Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-banking-theater-mimi.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: her card declines for no reason. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Banking Theater Mimi, laughing nervously at capitalism.
+POWER: Can turn receipts, carts, and queues into evidence.
+WEAKNESS: Capitalism taking one personal day off.
+CATCHPHRASE: “This cart is haunted.”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 108
+CATEGORY: Social Damage
+CARD_TITLE: Tone Problem
+TEASER: Audacity entered the chat.
+INCONVENIENCE: Someone says “you look tired”
+VILLAIN_NAME: The Tiredness Defender
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-tiredness-defender.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: someone says “you look tired”. Her inner chaos stood up and asked for a microphone, and Mimi becomes The Tiredness Defender, protecting under-eye circles by law.
+POWER: Can hold a grudge with excellent file management.
+WEAKNESS: Clear tone, quick replies, and no verbal jump scares.
+CATCHPHRASE: “Tone is evidence.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 109
+CATEGORY: Technology Betrayal
+CARD_TITLE: Loading Screen Curse
+TEASER: Something updated against consent.
+INCONVENIENCE: The automatic door opens too late
+VILLAIN_NAME: Glass Door Enemy
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-glass-door-enemy.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: the automatic door opens too late. A harmless day became legally dramatic, and Mimi becomes Glass Door Enemy, rejected by architecture.
+POWER: Can crash the mood of every machine nearby.
+WEAKNESS: A working charger and a machine that minds its business.
+CATCHPHRASE: “Loading is a threat.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 110
+CATEGORY: Home Inconveniences
+CARD_TITLE: Laundry Portal
+TEASER: Laundry folklore got involved.
+INCONVENIENCE: She clicks “remind me later” for the 900th time
+VILLAIN_NAME: Update Dodger
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-update-dodger.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: she clicks “remind me later” for the 900th time. The final straw arrived wearing tap shoes, and Mimi becomes Update Dodger, living illegally in version 1.0.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 111
+CATEGORY: Home Inconveniences
+CARD_TITLE: Comfort Crime
+TEASER: A normal object turned suspicious.
+INCONVENIENCE: A mosquito enters the room at bedtime
+VILLAIN_NAME: Tiny Enemy Commander
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-tiny-enemy-commander.png
+STORY: Mimi started the day mostly harmless. Then it happened: a mosquito enters the room at bedtime. Her soul opened a tiny complaint department, and Mimi becomes Tiny Enemy Commander, unable to sleep until justice is done.
+POWER: Can sense laundry portals before the dryer lies.
+WEAKNESS: A dryer that returns every sock alive.
+CATCHPHRASE: “My blanket remembers.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 112
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Outside Was A Mistake
+TEASER: The task was simple until society arrived.
+INCONVENIENCE: She gets a paper cut from mail she did not want
+VILLAIN_NAME: Junk Mail Avenger
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-junk-mail-avenger.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: she gets a paper cut from mail she did not want. A dramatic cape appeared in her imagination immediately, and Mimi becomes Junk Mail Avenger, wounded by capitalism.
+POWER: Can detect public-system betrayal before it scans.
+WEAKNESS: A bag that survives the walk home.
+CATCHPHRASE: “Capitalism blinked first.”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 113
+CATEGORY: Food Crimes
+CARD_TITLE: Snack Crime
+TEASER: Something edible chose violence.
+INCONVENIENCE: The oat milk is finished
+VILLAIN_NAME: Latte Collapse Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-latte-collapse-mimi.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: the oat milk is finished. Her patience packed a bag and left no forwarding address, and Mimi becomes Latte Collapse Mimi, forced to become someone’s villain at 8:03 AM.
+POWER: Can turn snack disappointment into courtroom evidence.
+WEAKNESS: A perfect snack and one sincere apology.
+CATCHPHRASE: “I came hungry and left radicalized.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 114
+CATEGORY: Food Crimes
+CARD_TITLE: Kitchen Betrayal
+TEASER: A snack failed its moral duty.
+INCONVENIENCE: Her toast lands butter-side down
+VILLAIN_NAME: Floor Breakfast Prophet
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-floor-breakfast-prophet.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: her toast lands butter-side down. The villain meter made a noise nobody liked, and Mimi becomes Floor Breakfast Prophet, declaring gravity immoral.
+POWER: Can detect dry nuggets from three rooms away.
+WEAKNESS: Fresh sauce, warm fries, and emotional supervision.
+CATCHPHRASE: “This snack will be remembered.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 115
+CATEGORY: Social Damage
+CARD_TITLE: Conversation Crime
+TEASER: The tone was legally unclear.
+INCONVENIENCE: Someone says “guess what?” then pauses forever
+VILLAIN_NAME: Suspense Hostage
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-suspense-hostage.png
+STORY: Mimi tried to be a calm citizen. Then it happened: someone says “guess what?” then pauses forever. A very small inconvenience became a very official prophecy, and Mimi becomes Suspense Hostage, trapped in conversational purgatory.
+POWER: Can detect audacity before it finishes speaking.
+WEAKNESS: An apology without “no offense” attached.
+CATCHPHRASE: “Per my last emotional collapse.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 116
+CATEGORY: Weather/Comfort Crimes
+CARD_TITLE: Dampness Incident
+TEASER: The fabric touched wrong.
+INCONVENIENCE: The mirror lighting is criminal
+VILLAIN_NAME: Bathroom Lighting Villain
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-bathroom-lighting-villain.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: the mirror lighting is criminal. Mimi blinked once, then emotionally became thunder, and Mimi becomes Bathroom Lighting Villain, banning overhead bulbs.
+POWER: Can turn a sensory crime into a constitutional crisis.
+WEAKNESS: A room that understands both cozy and breathable.
+CATCHPHRASE: “Dampness has consequences.”
+CALM_OUTCOME: Mimi survives the sensory crime, but the cozy treaty has been damaged.
+---
+ID: 117
+CATEGORY: Home Inconveniences
+CARD_TITLE: Room Temperature Lore
+TEASER: The room became emotionally unsafe.
+INCONVENIENCE: She forgets the word for something simple
+VILLAIN_NAME: Vocabulary Ghost
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-vocabulary-ghost.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: she forgets the word for something simple. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Vocabulary Ghost, pointing at objects like a cursed mime.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 118
+CATEGORY: Phone Betrayals
+CARD_TITLE: Typing Bubble Trauma
+TEASER: A bubble appeared. Peace disappeared.
+INCONVENIENCE: Her playlist is interrupted by a sad song while she is trying to be powerful
+VILLAIN_NAME: Mood Sabotage Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-mood-sabotage-mimi.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: her playlist is interrupted by a sad song while she is trying to be powerful. Her inner chaos stood up and asked for a microphone, and Mimi becomes Mood Sabotage Mimi, betrayed by shuffle.
+POWER: Can hear typing bubbles through walls.
+WEAKNESS: A charged phone and zero read receipts.
+CATCHPHRASE: “The screenshot has entered evidence.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 119
+CATEGORY: Home Inconveniences
+CARD_TITLE: Comfort Crime
+TEASER: A normal object turned suspicious.
+INCONVENIENCE: Someone leaves the cabinet door open
+VILLAIN_NAME: Forehead Impact Survivor
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-forehead-impact-survivor.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: someone leaves the cabinet door open. A harmless day became legally dramatic, and Mimi becomes Forehead Impact Survivor, closing doors with personal hatred.
+POWER: Can sense laundry portals before the dryer lies.
+WEAKNESS: A dryer that returns every sock alive.
+CATCHPHRASE: “My blanket remembers.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 120
+CATEGORY: Technology Betrayal
+CARD_TITLE: Appliance Villainy
+TEASER: Technology stopped pretending to help.
+INCONVENIENCE: The QR code menu will not load
+VILLAIN_NAME: Menu Traditionalist
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-menu-traditionalist.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: the QR code menu will not load. The final straw arrived wearing tap shoes, and Mimi becomes Menu Traditionalist, demanding laminated justice.
+POWER: Can haunt routers, printers, apps, and suspicious pop-ups.
+WEAKNESS: An app that simply works the first time.
+CATCHPHRASE: “Something went wrong? So did I.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 121
+CATEGORY: Phone Betrayals
+CARD_TITLE: Digital Crime
+TEASER: One notification changed everything.
+INCONVENIENCE: She gets “seen” by someone she was avoiding
+VILLAIN_NAME: Online Presence Criminal
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-online-presence-criminal.png
+STORY: Mimi started the day mostly harmless. Then it happened: she gets “seen” by someone she was avoiding. Her soul opened a tiny complaint department, and Mimi becomes Online Presence Criminal, caught existing.
+POWER: Can convert one tiny message into a full emotional documentary.
+WEAKNESS: Clear communication in full sentences.
+CATCHPHRASE: “Say less. I already overthought it.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 122
+CATEGORY: Public Humiliation
+CARD_TITLE: Sidewalk Villainy
+TEASER: Someone blocked destiny with confidence.
+INCONVENIENCE: A group photo catches her blinking
+VILLAIN_NAME: The Blurry Legend
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-blurry-legend.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: a group photo catches her blinking. A dramatic cape appeared in her imagination immediately, and Mimi becomes The Blurry Legend, erased from memories by bad timing.
+POWER: Can turn one witness into a full courtroom.
+WEAKNESS: A sidewalk with emotional intelligence.
+CATCHPHRASE: “I will now vanish socially.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 123
+CATEGORY: Food Crimes
+CARD_TITLE: Carb Emergency
+TEASER: The kitchen knows what it did.
+INCONVENIENCE: Her fries are stolen by “just one bite” people
+VILLAIN_NAME: The Bite Accountant
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-bite-accountant.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: her fries are stolen by “just one bite” people. Her patience packed a bag and left no forwarding address, and Mimi becomes The Bite Accountant, tracking losses with terrifying accuracy.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 124
+CATEGORY: Food Crimes
+CARD_TITLE: Suspicious Bite
+TEASER: One bite changed the timeline.
+INCONVENIENCE: The last piece of gum is gone
+VILLAIN_NAME: Fresh Breath Betrayal
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-fresh-breath-betrayal.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: the last piece of gum is gone. The villain meter made a noise nobody liked, and Mimi becomes Fresh Breath Betrayal, chewing resentment instead.
+POWER: Can summon dramatic hunger with one raised eyebrow.
+WEAKNESS: Someone saying, “I saved you the good piece.”
+CATCHPHRASE: “Season your apology.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 125
+CATEGORY: Social Damage
+CARD_TITLE: Friendship Paperwork
+TEASER: A human interaction failed inspection.
+INCONVENIENCE: Someone says “I told you so”
+VILLAIN_NAME: The Petty Archivist
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-petty-archivist.png
+STORY: Mimi tried to be a calm citizen. Then it happened: someone says “I told you so”. A very small inconvenience became a very official prophecy, and Mimi becomes The Petty Archivist, collecting evidence for future revenge speeches.
+POWER: Can analyze tone until the room changes weather.
+WEAKNESS: Direct words and zero mysterious punctuation.
+CATCHPHRASE: “No offense has been recorded.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 126
+CATEGORY: Home Inconveniences
+CARD_TITLE: Laundry Portal
+TEASER: Laundry folklore got involved.
+INCONVENIENCE: The bathroom has no hook for her bag
+VILLAIN_NAME: Bag Floor Survivor
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-bag-floor-survivor.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: the bathroom has no hook for her bag. Mimi blinked once, then emotionally became thunder, and Mimi becomes Bag Floor Survivor, forever changed by public restrooms.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 127
+CATEGORY: Shopping/Public Chaos
+CARD_TITLE: Transit Betrayal
+TEASER: Mimi left home and paid emotionally.
+INCONVENIENCE: Her package requires a signature when she is in the shower
+VILLAIN_NAME: Delivery Timing Victim
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-delivery-timing-victim.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: her package requires a signature when she is in the shower. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Delivery Timing Victim, dressed in betrayal and a towel.
+POWER: Can turn receipts, carts, and queues into evidence.
+WEAKNESS: Capitalism taking one personal day off.
+CATCHPHRASE: “This cart is haunted.”
+CALM_OUTCOME: Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+---
+ID: 128
+CATEGORY: Technology Betrayal
+CARD_TITLE: Appliance Villainy
+TEASER: Technology stopped pretending to help.
+INCONVENIENCE: The app asks for a review after one use
+VILLAIN_NAME: One-Star Spirit
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-one-star-spirit.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: the app asks for a review after one use. Her inner chaos stood up and asked for a microphone, and Mimi becomes One-Star Spirit, rating experiences emotionally.
+POWER: Can haunt routers, printers, apps, and suspicious pop-ups.
+WEAKNESS: An app that simply works the first time.
+CATCHPHRASE: “Something went wrong? So did I.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 129
+CATEGORY: Public Humiliation
+CARD_TITLE: Witnesses Were Present
+TEASER: Witnesses were unfortunately present.
+INCONVENIENCE: The train doors close while she is making eye contact with them
+VILLAIN_NAME: Platform Tragedy Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-platform-tragedy-mimi.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: the train doors close while she is making eye contact with them. A harmless day became legally dramatic, and Mimi becomes Platform Tragedy Mimi, abandoned by public transport drama.
+POWER: Can leave her body for three business days.
+WEAKNESS: No witnesses and a clean exit path.
+CATCHPHRASE: “Witnesses were present.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 130
+CATEGORY: Social Damage
+CARD_TITLE: Suspicious Human Behavior
+TEASER: Someone used words irresponsibly.
+INCONVENIENCE: Someone says “no worries” and there are clearly worries
+VILLAIN_NAME: Worry Auditor
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-worry-auditor.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: someone says “no worries” and there are clearly worries. The final straw arrived wearing tap shoes, and Mimi becomes Worry Auditor, investigating passive-aggressive peace.
+POWER: Can turn one phrase into a five-part investigation.
+WEAKNESS: A human who says exactly what they mean.
+CATCHPHRASE: “It is that deep now.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 131
+CATEGORY: Food Crimes
+CARD_TITLE: Carb Emergency
+TEASER: The kitchen knows what it did.
+INCONVENIENCE: She spills water on herself while drinking normally
+VILLAIN_NAME: Basic Task Failure
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-basic-task-failure.png
+STORY: Mimi started the day mostly harmless. Then it happened: she spills water on herself while drinking normally. Her soul opened a tiny complaint department, and Mimi becomes Basic Task Failure, questioning her species.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 132
+CATEGORY: Home Inconveniences
+CARD_TITLE: Domestic Villainy
+TEASER: The furniture had motives.
+INCONVENIENCE: The pencil breaks immediately after sharpening
+VILLAIN_NAME: Graphite Villain
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-graphite-villain.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: the pencil breaks immediately after sharpening. A dramatic cape appeared in her imagination immediately, and Mimi becomes Graphite Villain, no longer trusting pointy things.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 133
+CATEGORY: Home Inconveniences
+CARD_TITLE: Room Temperature Lore
+TEASER: The room became emotionally unsafe.
+INCONVENIENCE: She misses the trash can from two inches away
+VILLAIN_NAME: Aimless Menace
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-aimless-menace.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: she misses the trash can from two inches away. Her patience packed a bag and left no forwarding address, and Mimi becomes Aimless Menace, humbled by physics.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 134
+CATEGORY: Home Inconveniences
+CARD_TITLE: Laundry Portal
+TEASER: Laundry folklore got involved.
+INCONVENIENCE: The blanket tag touches her foot
+VILLAIN_NAME: Sensory Overlord
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-sensory-overlord.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: the blanket tag touches her foot. The villain meter made a noise nobody liked, and Mimi becomes Sensory Overlord, banishing tags from the kingdom.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 135
+CATEGORY: Food Crimes
+CARD_TITLE: Sauce Situation
+TEASER: The sauce was not emotionally available.
+INCONVENIENCE: Her favorite snack changed recipe
+VILLAIN_NAME: The Flavor Historian
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-flavor-historian.png
+STORY: Mimi tried to be a calm citizen. Then it happened: her favorite snack changed recipe. A very small inconvenience became a very official prophecy, and Mimi becomes The Flavor Historian, mourning the old formula forever.
+POWER: Can make every bite feel like a betrayal arc.
+WEAKNESS: Correct seasoning and a stable blood sugar level.
+CATCHPHRASE: “Dry nuggets made me this way.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 136
+CATEGORY: Social Damage
+CARD_TITLE: Words With Consequences
+TEASER: Peace was broken by punctuation.
+INCONVENIENCE: Someone says “let’s circle back”
+VILLAIN_NAME: Meeting Goblin
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-meeting-goblin.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: someone says “let’s circle back”. Mimi blinked once, then emotionally became thunder, and Mimi becomes Meeting Goblin, trapped in corporate geometry.
+POWER: Can hold a grudge with excellent file management.
+WEAKNESS: Clear tone, quick replies, and no verbal jump scares.
+CATCHPHRASE: “Tone is evidence.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 137
+CATEGORY: Phone Betrayals
+CARD_TITLE: Digital Crime
+TEASER: One notification changed everything.
+INCONVENIENCE: The phone autocorrects “ok” into something weird
+VILLAIN_NAME: Autocorrect Victim
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-autocorrect-victim.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: the phone autocorrects “ok” into something weird. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Autocorrect Victim, sued by her own keyboard.
+POWER: Can convert one tiny message into a full emotional documentary.
+WEAKNESS: Clear communication in full sentences.
+CATCHPHRASE: “Say less. I already overthought it.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 138
+CATEGORY: Home Inconveniences
+CARD_TITLE: Furniture Attack
+TEASER: A household object attacked first.
+INCONVENIENCE: She opens a can and the pull tab breaks
+VILLAIN_NAME: Tin Can Prison Warden
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-tin-can-prison-warden.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: she opens a can and the pull tab breaks. Her inner chaos stood up and asked for a microphone, and Mimi becomes Tin Can Prison Warden, negotiating with beans.
+POWER: Can turn household objects into sworn enemies.
+WEAKNESS: A blanket that stays loyal.
+CATCHPHRASE: “The dryer has secrets.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 139
+CATEGORY: Weather/Comfort Crimes
+CARD_TITLE: Temperature Crime
+TEASER: Temperature became an enemy.
+INCONVENIENCE: The hotel pillow is too tall
+VILLAIN_NAME: Neck Damage Duchess
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-neck-damage-duchess.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: the hotel pillow is too tall. A harmless day became legally dramatic, and Mimi becomes Neck Damage Duchess, waking up as a question mark.
+POWER: Can detect the wrong kind of cozy instantly.
+WEAKNESS: Soft lighting and a weather app that does not lie.
+CATCHPHRASE: “I reject this temperature.”
+CALM_OUTCOME: Mimi survives the sensory crime, but the cozy treaty has been damaged.
+---
+ID: 140
+CATEGORY: Phone Betrayals
+CARD_TITLE: Notification Incident
+TEASER: Someone said too little with too much power.
+INCONVENIENCE: Someone sends “???” after 11 seconds
+VILLAIN_NAME: Reply Deadline Demon
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-reply-deadline-demon.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: someone sends “???” after 11 seconds. The final straw arrived wearing tap shoes, and Mimi becomes Reply Deadline Demon, refusing to be rushed by punctuation.
+POWER: Can turn silence into suspicious evidence.
+WEAKNESS: Someone replying with context, warmth, and punctuation.
+CATCHPHRASE: “My phone started it.”
+CALM_OUTCOME: Mimi says she is fine, then checks the screen again like peace might refresh.
+---
+ID: 141
+CATEGORY: Weather/Comfort Crimes
+CARD_TITLE: Fabric Trauma
+TEASER: The weather found Mimi specifically.
+INCONVENIENCE: Her jeans fit differently after lunch
+VILLAIN_NAME: Denim Betrayal
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-denim-betrayal.png
+STORY: Mimi started the day mostly harmless. Then it happened: her jeans fit differently after lunch. Her soul opened a tiny complaint department, and Mimi becomes Denim Betrayal, accusing fabric of emotional manipulation.
+POWER: Can make damp fabric everyone’s problem.
+WEAKNESS: Dry sleeves and perfect blanket temperature.
+CATCHPHRASE: “This sleeve remembers.”
+CALM_OUTCOME: Mimi survives the sensory crime, but the cozy treaty has been damaged.
+---
+ID: 142
+CATEGORY: Food Crimes
+CARD_TITLE: Breakfast Incident
+TEASER: Flavor trust was permanently damaged.
+INCONVENIENCE: She burns her tongue on soup she knew was hot
+VILLAIN_NAME: Consequence Denier
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-consequence-denier.png
+STORY: Mimi woke up believing peace was still an option. Then it happened: she burns her tongue on soup she knew was hot. A dramatic cape appeared in her imagination immediately, and Mimi becomes Consequence Denier, repeating mistakes with confidence.
+POWER: Can detect dry nuggets from three rooms away.
+WEAKNESS: Fresh sauce, warm fries, and emotional supervision.
+CATCHPHRASE: “This snack will be remembered.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 143
+CATEGORY: Public Humiliation
+CARD_TITLE: Main Character Damage
+TEASER: A public object had attitude.
+INCONVENIENCE: The grocery cart shocks her with static
+VILLAIN_NAME: Electric Cart Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-electric-cart-mimi.png
+STORY: For one beautiful second, Mimi trusted society. Then it happened: the grocery cart shocks her with static. Her patience packed a bag and left no forwarding address, and Mimi becomes Electric Cart Mimi, lightly powered by betrayal.
+POWER: Can make sidewalks respect her emotional speed limit.
+WEAKNESS: A stranger pretending they saw nothing.
+CATCHPHRASE: “The sidewalk owes me damages.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 144
+CATEGORY: Home Inconveniences
+CARD_TITLE: Home Object With Motives
+TEASER: Home was not acting like home.
+INCONVENIENCE: The pen cap vanishes
+VILLAIN_NAME: Capless Chaos
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-capless-chaos.png
+STORY: Mimi was emotionally stable for nearly four minutes. Then it happened: the pen cap vanishes. The villain meter made a noise nobody liked, and Mimi becomes Capless Chaos, spreading ink danger across society.
+POWER: Can make comfort items apologize publicly.
+WEAKNESS: A drawer that opens without negotiation.
+CATCHPHRASE: “I live here, but at what cost?”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 145
+CATEGORY: Public Humiliation
+CARD_TITLE: Witnesses Were Present
+TEASER: Witnesses were unfortunately present.
+INCONVENIENCE: Someone takes the parking spot she was clearly spiritually connected to
+VILLAIN_NAME: Parking Lot Phantom
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-parking-lot-phantom.png
+STORY: Mimi tried to be a calm citizen. Then it happened: someone takes the parking spot she was clearly spiritually connected to. A very small inconvenience became a very official prophecy, and Mimi becomes Parking Lot Phantom, haunting indicators and bad manners.
+POWER: Can leave her body for three business days.
+WEAKNESS: No witnesses and a clean exit path.
+CATCHPHRASE: “Witnesses were present.”
+CALM_OUTCOME: Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+---
+ID: 146
+CATEGORY: Technology Betrayal
+CARD_TITLE: Digital Meltdown
+TEASER: A loading symbol became personal.
+INCONVENIENCE: The app says “something went wrong”
+VILLAIN_NAME: Something Went Wrong
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-something-went-wrong.png
+STORY: Mimi entered the scene with hope, snacks, and no legal team. Then it happened: the app says “something went wrong”. Mimi blinked once, then emotionally became thunder, and Mimi becomes Something Went Wrong, vague, unstable, and impossible to troubleshoot.
+POWER: Can make loading screens feel personally accused.
+WEAKNESS: Stable Wi-Fi and a printer with no attitude.
+CATCHPHRASE: “I accept zero cookies emotionally.”
+CALM_OUTCOME: Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+---
+ID: 147
+CATEGORY: Social Damage
+CARD_TITLE: Conversation Crime
+TEASER: The tone was legally unclear.
+INCONVENIENCE: She receives a “friendly reminder”
+VILLAIN_NAME: Hostile Reminder Mimi
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-hostile-reminder-mimi.png
+STORY: Nobody warned Mimi that today had a side quest. Then it happened: she receives a “friendly reminder”. Somewhere, a tiny gavel hit a tiny desk, and Mimi becomes Hostile Reminder Mimi, allergic to cheerful pressure.
+POWER: Can detect audacity before it finishes speaking.
+WEAKNESS: An apology without “no offense” attached.
+CATCHPHRASE: “Per my last emotional collapse.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---
+ID: 148
+CATEGORY: Food Crimes
+CARD_TITLE: Suspicious Bite
+TEASER: One bite changed the timeline.
+INCONVENIENCE: Her ice melts before she drinks the drink
+VILLAIN_NAME: Watered-Down Villain
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-watered-down-villain.png
+STORY: Mimi was ready to be normal, allegedly. Then it happened: her ice melts before she drinks the drink. Her inner chaos stood up and asked for a microphone, and Mimi becomes Watered-Down Villain, diluted but furious.
+POWER: Can summon dramatic hunger with one raised eyebrow.
+WEAKNESS: Someone saying, “I saved you the good piece.”
+CATCHPHRASE: “Season your apology.”
+CALM_OUTCOME: Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+---
+ID: 149
+CATEGORY: Home Inconveniences
+CARD_TITLE: Room Temperature Lore
+TEASER: The room became emotionally unsafe.
+INCONVENIENCE: The blanket is trapped under the cat
+VILLAIN_NAME: Immobile Servant
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-immobile-servant.png
+STORY: The day looked innocent, which was the first red flag. Then it happened: the blanket is trapped under the cat. A harmless day became legally dramatic, and Mimi becomes Immobile Servant, ruled by a tiny furry dictator.
+POWER: Can identify hostile furniture by aura alone.
+WEAKNESS: A tidy room and furniture that respects ankles.
+CATCHPHRASE: “This furniture is on thin ice.”
+CALM_OUTCOME: Mimi stays calm, but every household object has officially lost best-friend status.
+---
+ID: 150
+CATEGORY: Social Damage
+CARD_TITLE: Audacity Alert
+TEASER: Mimi heard one phrase and changed species.
+INCONVENIENCE: Someone says “it’s not that deep”
+VILLAIN_NAME: The Depth Inspector
+NORMAL_IMAGE: mimi-normal.png
+VILLAIN_IMAGE: mimi-the-depth-inspector.png
+STORY: Mimi had exactly one crumb of patience left. Then it happened: someone says “it’s not that deep”. The final straw arrived wearing tap shoes, and Mimi becomes The Depth Inspector, making it deeper immediately.
+POWER: Can turn one phrase into a five-part investigation.
+WEAKNESS: A human who says exactly what they mean.
+CATCHPHRASE: “It is that deep now.”
+CALM_OUTCOME: Mimi responds politely while opening a tiny private investigation in her brain.
+---

@@ -1,0 +1,77 @@
+CATEGORY AND FATE BATCHES
+
+CATEGORY BUTTONS / OPTION B
+
+CATEGORY: Food Crimes
+DESCRIPTION: Snack betrayal, sauce absence, suspicious carbs, and edible lies.
+ORIGIN_IDS: 001, 007, 013, 014, 018, 020, 035, 041, 043, 051, 052, 059, 063, 066, 076, 077, 081, 087, 092, 099, 100, 113, 114, 123, 124, 131, 135, 142, 148
+
+CATEGORY: Phone Betrayals
+DESCRIPTION: Texts, read receipts, notifications, chargers, and tiny screen warfare.
+ORIGIN_IDS: 003, 005, 017, 019, 023, 026, 034, 054, 061, 062, 067, 080, 082, 083, 097, 118, 121, 137, 140
+
+CATEGORY: Technology Betrayal
+DESCRIPTION: Routers, printers, websites, apps, passwords, and machines with attitude.
+ORIGIN_IDS: 004, 012, 024, 039, 050, 068, 094, 101, 109, 120, 128, 146
+
+CATEGORY: Public Humiliation
+DESCRIPTION: Witnesses, sidewalks, doors, strangers, and social death in daylight.
+ORIGIN_IDS: 002, 009, 021, 028, 047, 065, 072, 073, 084, 105, 122, 129, 143, 145
+
+CATEGORY: Home Inconveniences
+DESCRIPTION: Furniture, blankets, drawers, laundry, and the house choosing violence.
+ORIGIN_IDS: 010, 011, 016, 029, 030, 031, 036, 037, 038, 042, 045, 048, 053, 055, 056, 057, 060, 069, 070, 078, 086, 089, 090, 091, 096, 104, 110, 111, 117, 119, 126, 132, 133, 134, 138, 144, 149
+
+CATEGORY: Social Damage
+DESCRIPTION: Words, tone, vague phrases, bad replies, and audacity in human form.
+ORIGIN_IDS: 008, 022, 027, 032, 033, 040, 046, 058, 064, 071, 075, 079, 088, 093, 098, 103, 108, 115, 125, 130, 136, 147, 150
+
+CATEGORY: Weather/Comfort Crimes
+DESCRIPTION: Damp sleeves, wrong temperature, bad lighting, fabric crimes, and cozy failure.
+ORIGIN_IDS: 015, 025, 095, 102, 116, 139, 141
+
+CATEGORY: Shopping/Public Chaos
+DESCRIPTION: Errands, packages, receipts, carts, transit, and capitalism’s tiny traps.
+ORIGIN_IDS: 006, 044, 049, 074, 085, 106, 107, 112, 127
+
+CATEGORY INTRO LINES
+- Choose the department that ruins Mimi’s day.
+- Pick a category, then Mimi gets three mystery cards.
+- Select a flavor of inconvenience.
+- Where did society betray Mimi today?
+- Choose the crime scene before choosing the crime.
+- Pick the emotional damage aisle.
+- Choose a villain seed category.
+- Decide what kind of tiny disaster enters the chat.
+
+FATE / WHEEL BUTTONS / OPTION C
+- Spin Mimi’s Minor Inconvenience Wheel
+- Let fate ruin her day
+- Randomize the emotional damage
+- Summon a tiny crisis
+- Let society choose
+- Spin the misery wheel
+- Choose chaos for me
+- Give Mimi a problem
+- Generate today’s villain seed
+- Roll for inconvenience
+- Ask destiny what happened
+- Open the random incident drawer
+- Let the universe be petty
+- Press for instant folklore
+- Select one bad thing spiritually
+- Make the wheel suspicious
+- Let the goblin algorithm decide
+- Pick a crisis with no context
+- Start the tiny disaster machine
+- Give Mimi one last straw
+
+WHEEL STOP LINES
+- The wheel coughs up a tiny disaster.
+- Fate points directly at Mimi and refuses to explain.
+- The misery wheel stops with suspicious confidence.
+- Destiny has selected an inconvenience with dramatic potential.
+- The wheel spins, stutters, and chooses emotional damage.
+- Society has submitted its villain seed.
+- The random incident drawer has opened.
+- The wheel whispers, “This one.”

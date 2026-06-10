@@ -1,0 +1,154 @@
+MYSTERY CARD BATCH - 150 HIDDEN CHOICES
+Use for 3 random mystery cards. Show CARD_TITLE + TEASER only before reveal.
+Format: ID | Category | Card Title | Teaser | Actual Reveal
+
+001 | Food Crimes | Snack Crime | Something edible chose violence. | Reveal after click: The coffee lid leaks on Mimi’s sleeve
+002 | Public Humiliation | Sidewalk Villainy | Someone blocked destiny with confidence. | Reveal after click: Someone walks slowly in front of her
+003 | Phone Betrayals | Phone Betrayal | The chat became a crime scene. | Reveal after click: Her phone charger only works at one angle
+004 | Technology Betrayal | Device Treason | A button failed society. | Reveal after click: The Wi-Fi drops during one important click
+005 | Phone Betrayals | Algorithm Betrayal | The device knew exactly what it was doing. | Reveal after click: A text says “lol” with no emoji
+006 | Shopping/Public Chaos | Capitalism Incident | A wheel, a queue, or a package lied. | Reveal after click: The vending machine eats her coin
+007 | Food Crimes | Sauce Situation | The sauce was not emotionally available. | Reveal after click: Her fries arrive lukewarm
+008 | Social Damage | Words With Consequences | Peace was broken by punctuation. | Reveal after click: Someone says “calm down”
+009 | Public Humiliation | Witnesses Were Present | Witnesses were unfortunately present. | Reveal after click: The elevator closes right before she reaches it
+010 | Home Inconveniences | Furniture Attack | A household object attacked first. | Reveal after click: Her favorite pen runs out mid-sentence
+011 | Home Inconveniences | Blanket Betrayal | Comfort abandoned the mission. | Reveal after click: A sock disappears in the laundry
+012 | Technology Betrayal | Device Treason | A button failed society. | Reveal after click: A YouTube ad appears at the best part
+013 | Food Crimes | Flavor Felony | Carbs became political. | Reveal after click: Someone leaves one sip of juice in the fridge
+014 | Food Crimes | Breakfast Incident | Flavor trust was permanently damaged. | Reveal after click: She opens a bag of chips and it is 72% air
+015 | Weather/Comfort Crimes | Cozy System Failure | Physics got too involved. | Reveal after click: Her alarm goes off on a dream cliffhanger
+016 | Home Inconveniences | Home Object With Motives | Home was not acting like home. | Reveal after click: The blanket is too hot but the room is too cold
+017 | Phone Betrayals | Digital Crime | One notification changed everything. | Reveal after click: Someone replies “k”
+018 | Food Crimes | Kitchen Betrayal | A snack failed its moral duty. | Reveal after click: The restaurant forgot her sauce
+019 | Phone Betrayals | Phone Betrayal | The chat became a crime scene. | Reveal after click: Her playlist shuffles to the wrong vibe
+020 | Food Crimes | Suspicious Bite | One bite changed the timeline. | Reveal after click: She bites into a cookie and it has raisins
+021 | Public Humiliation | Stranger Danger, Emotionally | Mimi’s dignity left the building. | Reveal after click: A door says push but she pulls
+022 | Social Damage | Audacity Alert | Mimi heard one phrase and changed species. | Reveal after click: Someone says “we need to talk” then disappears
+023 | Phone Betrayals | Pocket-Sized Disaster | Pocket technology chose chaos. | Reveal after click: She drops her phone on her face in bed
+024 | Technology Betrayal | Appliance Villainy | Technology stopped pretending to help. | Reveal after click: The printer says “paper jam” with no visible jam
+025 | Weather/Comfort Crimes | Comfort Violation | Something wet. Something personal. | Reveal after click: Her sleeve gets wet while washing hands
+026 | Phone Betrayals | Text Message Curse | A tiny screen committed a felony. | Reveal after click: She loses one earbud
+027 | Social Damage | Conversation Crime | The tone was legally unclear. | Reveal after click: Someone eats the leftovers she was emotionally attached to
+028 | Public Humiliation | Social Side Quest | A stranger became part of the lore. | Reveal after click: Her chair makes a weird noise in a quiet room
+029 | Home Inconveniences | Room Temperature Lore | The room became emotionally unsafe. | Reveal after click: She stubs her toe on furniture she owns
+030 | Home Inconveniences | Laundry Portal | Laundry folklore got involved. | Reveal after click: The microwave stops at 0:01
+031 | Home Inconveniences | Comfort Crime | A normal object turned suspicious. | Reveal after click: Her lip balm disappears
+032 | Social Damage | Words With Consequences | Peace was broken by punctuation. | Reveal after click: A group chat ignores her best joke
+033 | Social Damage | Emotional Misdemeanor | A sentence arrived with consequences. | Reveal after click: Someone types for 40 seconds then sends “yeah”
+034 | Phone Betrayals | Text Message Curse | A tiny screen committed a felony. | Reveal after click: She opens the camera accidentally in selfie mode
+035 | Food Crimes | Carb Emergency | The kitchen knows what it did. | Reveal after click: The spoon falls into the soup
+036 | Home Inconveniences | Domestic Villainy | The furniture had motives. | Reveal after click: Her nail catches on fabric
+037 | Home Inconveniences | Room Temperature Lore | The room became emotionally unsafe. | Reveal after click: The toilet paper roll is empty
+038 | Home Inconveniences | Laundry Portal | Laundry folklore got involved. | Reveal after click: She forgets why she entered a room
+039 | Technology Betrayal | Website Hostility | A device became legally suspicious. | Reveal after click: Her laptop updates without permission
+040 | Social Damage | Words With Consequences | Peace was broken by punctuation. | Reveal after click: Someone says “no offense” then offends
+041 | Food Crimes | Snack Crime | Something edible chose violence. | Reveal after click: The straw gets soggy
+042 | Home Inconveniences | Furniture Attack | A household object attacked first. | Reveal after click: She steps in water wearing socks
+043 | Food Crimes | Carb Emergency | The kitchen knows what it did. | Reveal after click: Her food arrives, but no napkins
+044 | Shopping/Public Chaos | Delivery Drama | A receipt-adjacent panic was forming. | Reveal after click: She gets an email that starts with “just following up”
+045 | Home Inconveniences | Room Temperature Lore | The room became emotionally unsafe. | Reveal after click: A sticker leaves residue
+046 | Social Damage | Audacity Alert | Mimi heard one phrase and changed species. | Reveal after click: Someone says “it’s giving…” and never finishes
+047 | Public Humiliation | Main Character Damage | A public object had attitude. | Reveal after click: The cashier asks if she wants the receipt while she is buffering
+048 | Home Inconveniences | Home Object With Motives | Home was not acting like home. | Reveal after click: She accidentally likes an old post
+049 | Shopping/Public Chaos | Errand Betrayal | An errand developed villain energy. | Reveal after click: Her bag strap twists
+050 | Technology Betrayal | Digital Meltdown | A loading symbol became personal. | Reveal after click: The automatic soap dispenser ignores her hand
+051 | Food Crimes | Carb Emergency | The kitchen knows what it did. | Reveal after click: She orders iced coffee and gets hot coffee
+052 | Food Crimes | Suspicious Bite | One bite changed the timeline. | Reveal after click: The avocado is either rock or soup
+053 | Home Inconveniences | Room Temperature Lore | The room became emotionally unsafe. | Reveal after click: She drops something and it rolls under the bed
+054 | Phone Betrayals | Typing Bubble Trauma | A bubble appeared. Peace disappeared. | Reveal after click: Someone sends a voice note longer than 2 minutes
+055 | Home Inconveniences | Comfort Crime | A normal object turned suspicious. | Reveal after click: The remote battery dies
+056 | Home Inconveniences | Home Object With Motives | Home was not acting like home. | Reveal after click: Her blanket burrito unwraps
+057 | Home Inconveniences | Household Crime | The house revealed its true loyalty. | Reveal after click: She opens a drawer and it jams
+058 | Social Damage | Suspicious Human Behavior | Someone used words irresponsibly. | Reveal after click: Someone says “I’m five minutes away” from their house
+059 | Food Crimes | Carb Emergency | The kitchen knows what it did. | Reveal after click: The pizza slice burns her mouth
+060 | Home Inconveniences | Domestic Villainy | The furniture had motives. | Reveal after click: The shampoo bottle is empty mid-shower
+061 | Phone Betrayals | Algorithm Betrayal | The device knew exactly what it was doing. | Reveal after click: She tries to unlock her phone with wet fingers
+062 | Phone Betrayals | Typing Bubble Trauma | A bubble appeared. Peace disappeared. | Reveal after click: Her playlist ends and silence attacks
+063 | Food Crimes | Sauce Situation | The sauce was not emotionally available. | Reveal after click: A website makes her accept cookies again
+064 | Social Damage | Words With Consequences | Peace was broken by punctuation. | Reveal after click: Someone asks “are you mad?” when she was not mad
+065 | Public Humiliation | Witnesses Were Present | Witnesses were unfortunately present. | Reveal after click: The chair is warm from the previous person
+066 | Food Crimes | Kitchen Betrayal | A snack failed its moral duty. | Reveal after click: She opens a banana from the wrong end and it fights back
+067 | Phone Betrayals | Phone Betrayal | The chat became a crime scene. | Reveal after click: A notification disappears before she reads it
+068 | Technology Betrayal | Device Treason | A button failed society. | Reveal after click: She gets a captcha wrong
+069 | Home Inconveniences | Room Temperature Lore | The room became emotionally unsafe. | Reveal after click: The blanket has no cold side left
+070 | Home Inconveniences | Laundry Portal | Laundry folklore got involved. | Reveal after click: Her hoodie string vanishes into the hood
+071 | Social Damage | Social Damage | The conversation became weather. | Reveal after click: Someone chews too loudly nearby
+072 | Public Humiliation | Outdoor Betrayal | The scene was small, but the shame was cinematic. | Reveal after click: The shopping cart has one broken wheel
+073 | Public Humiliation | Witnesses Were Present | Witnesses were unfortunately present. | Reveal after click: She waves back at someone waving to someone behind her
+074 | Shopping/Public Chaos | Public Chaos | Capitalism personally interfered. | Reveal after click: Her package says “delivered” but is not there
+075 | Social Damage | Conversation Crime | The tone was legally unclear. | Reveal after click: Someone asks a question answered in the message above
+076 | Food Crimes | Suspicious Bite | One bite changed the timeline. | Reveal after click: The ice cream spoon bends
+077 | Food Crimes | Flavor Felony | Carbs became political. | Reveal after click: She steps on one tiny crumb barefoot
+078 | Home Inconveniences | Laundry Portal | Laundry folklore got involved. | Reveal after click: The zipper gets stuck
+079 | Social Damage | Social Damage | The conversation became weather. | Reveal after click: Someone says “smile more”
+080 | Phone Betrayals | Signal From Hell | Signal was found, dignity was lost. | Reveal after click: Her headphones connect to the wrong device
+081 | Food Crimes | Snack Crime | Something edible chose violence. | Reveal after click: A recipe says “cook until done”
+082 | Phone Betrayals | Text Message Curse | A tiny screen committed a felony. | Reveal after click: She gets a “low storage” warning
+083 | Phone Betrayals | Phone Betrayal | The chat became a crime scene. | Reveal after click: Someone reads her message and does not reply
+084 | Public Humiliation | Social Side Quest | A stranger became part of the lore. | Reveal after click: The bus arrives early for once
+085 | Shopping/Public Chaos | Shopping Cart Curse | The outside world demanded paperwork. | Reveal after click: She forgets her tote bag after saying she is a tote bag person
+086 | Home Inconveniences | Laundry Portal | Laundry folklore got involved. | Reveal after click: The fitted sheet refuses to fit
+087 | Food Crimes | Sauce Situation | The sauce was not emotionally available. | Reveal after click: The cereal box has crumbs only
+088 | Social Damage | Words With Consequences | Peace was broken by punctuation. | Reveal after click: Someone spoils a show casually
+089 | Home Inconveniences | Household Crime | The house revealed its true loyalty. | Reveal after click: Her pen leaks in her bag
+090 | Home Inconveniences | Furniture Attack | A household object attacked first. | Reveal after click: A chair leg catches her toe
+091 | Home Inconveniences | Blanket Betrayal | Comfort abandoned the mission. | Reveal after click: The traffic light turns red only for her
+092 | Food Crimes | Suspicious Bite | One bite changed the timeline. | Reveal after click: The bag of salad expires instantly
+093 | Social Damage | Friendship Paperwork | A human interaction failed inspection. | Reveal after click: Someone says “quick call?”
+094 | Technology Betrayal | Password Panic | The screen offered no comfort. | Reveal after click: The app logs her out for security
+095 | Weather/Comfort Crimes | Cozy System Failure | Physics got too involved. | Reveal after click: She forgets her umbrella and it rains sideways
+096 | Home Inconveniences | Home Object With Motives | Home was not acting like home. | Reveal after click: Her favorite mug is dirty
+097 | Phone Betrayals | Digital Crime | One notification changed everything. | Reveal after click: A drawer contains every charger except the one she needs
+098 | Social Damage | Suspicious Human Behavior | Someone used words irresponsibly. | Reveal after click: Someone says “that’s crazy” but clearly did not listen
+099 | Food Crimes | Carb Emergency | The kitchen knows what it did. | Reveal after click: Her fries have one mystery sweet potato fry
+100 | Food Crimes | Suspicious Bite | One bite changed the timeline. | Reveal after click: She gets crumbs in bed
+101 | Technology Betrayal | Loading Screen Curse | Something updated against consent. | Reveal after click: A website says her password is weak
+102 | Weather/Comfort Crimes | Sensory Emergency | Cozy time was sabotaged. | Reveal after click: She drops ice down her shirt
+103 | Social Damage | Social Damage | The conversation became weather. | Reveal after click: Someone uses “your” instead of “you’re” in a serious argument
+104 | Home Inconveniences | Home Object With Motives | Home was not acting like home. | Reveal after click: The dishwasher is clean but nobody unloaded it
+105 | Public Humiliation | Witnesses Were Present | Witnesses were unfortunately present. | Reveal after click: A child stares at her in public
+106 | Shopping/Public Chaos | Public Chaos | Capitalism personally interfered. | Reveal after click: The bag rips one step from home
+107 | Shopping/Public Chaos | Receipt Panic | The public system betrayed her. | Reveal after click: Her card declines for no reason
+108 | Social Damage | Tone Problem | Audacity entered the chat. | Reveal after click: Someone says “you look tired”
+109 | Technology Betrayal | Loading Screen Curse | Something updated against consent. | Reveal after click: The automatic door opens too late
+110 | Home Inconveniences | Laundry Portal | Laundry folklore got involved. | Reveal after click: She clicks “remind me later” for the 900th time
+111 | Home Inconveniences | Comfort Crime | A normal object turned suspicious. | Reveal after click: A mosquito enters the room at bedtime
+112 | Shopping/Public Chaos | Outside Was A Mistake | The task was simple until society arrived. | Reveal after click: She gets a paper cut from mail she did not want
+113 | Food Crimes | Snack Crime | Something edible chose violence. | Reveal after click: The oat milk is finished
+114 | Food Crimes | Kitchen Betrayal | A snack failed its moral duty. | Reveal after click: Her toast lands butter-side down
+115 | Social Damage | Conversation Crime | The tone was legally unclear. | Reveal after click: Someone says “guess what?” then pauses forever
+116 | Weather/Comfort Crimes | Dampness Incident | The fabric touched wrong. | Reveal after click: The mirror lighting is criminal
+117 | Home Inconveniences | Room Temperature Lore | The room became emotionally unsafe. | Reveal after click: She forgets the word for something simple
+118 | Phone Betrayals | Typing Bubble Trauma | A bubble appeared. Peace disappeared. | Reveal after click: Her playlist is interrupted by a sad song while she is trying to be powerful
+119 | Home Inconveniences | Comfort Crime | A normal object turned suspicious. | Reveal after click: Someone leaves the cabinet door open
+120 | Technology Betrayal | Appliance Villainy | Technology stopped pretending to help. | Reveal after click: The QR code menu will not load
+121 | Phone Betrayals | Digital Crime | One notification changed everything. | Reveal after click: She gets “seen” by someone she was avoiding
+122 | Public Humiliation | Sidewalk Villainy | Someone blocked destiny with confidence. | Reveal after click: A group photo catches her blinking
+123 | Food Crimes | Carb Emergency | The kitchen knows what it did. | Reveal after click: Her fries are stolen by “just one bite” people
+124 | Food Crimes | Suspicious Bite | One bite changed the timeline. | Reveal after click: The last piece of gum is gone
+125 | Social Damage | Friendship Paperwork | A human interaction failed inspection. | Reveal after click: Someone says “I told you so”
+126 | Home Inconveniences | Laundry Portal | Laundry folklore got involved. | Reveal after click: The bathroom has no hook for her bag
+127 | Shopping/Public Chaos | Transit Betrayal | Mimi left home and paid emotionally. | Reveal after click: Her package requires a signature when she is in the shower
+128 | Technology Betrayal | Appliance Villainy | Technology stopped pretending to help. | Reveal after click: The app asks for a review after one use
+129 | Public Humiliation | Witnesses Were Present | Witnesses were unfortunately present. | Reveal after click: The train doors close while she is making eye contact with them
+130 | Social Damage | Suspicious Human Behavior | Someone used words irresponsibly. | Reveal after click: Someone says “no worries” and there are clearly worries
+131 | Food Crimes | Carb Emergency | The kitchen knows what it did. | Reveal after click: She spills water on herself while drinking normally
+132 | Home Inconveniences | Domestic Villainy | The furniture had motives. | Reveal after click: The pencil breaks immediately after sharpening
+133 | Home Inconveniences | Room Temperature Lore | The room became emotionally unsafe. | Reveal after click: She misses the trash can from two inches away
+134 | Home Inconveniences | Laundry Portal | Laundry folklore got involved. | Reveal after click: The blanket tag touches her foot
+135 | Food Crimes | Sauce Situation | The sauce was not emotionally available. | Reveal after click: Her favorite snack changed recipe
+136 | Social Damage | Words With Consequences | Peace was broken by punctuation. | Reveal after click: Someone says “let’s circle back”
+137 | Phone Betrayals | Digital Crime | One notification changed everything. | Reveal after click: The phone autocorrects “ok” into something weird
+138 | Home Inconveniences | Furniture Attack | A household object attacked first. | Reveal after click: She opens a can and the pull tab breaks
+139 | Weather/Comfort Crimes | Temperature Crime | Temperature became an enemy. | Reveal after click: The hotel pillow is too tall
+140 | Phone Betrayals | Notification Incident | Someone said too little with too much power. | Reveal after click: Someone sends “???” after 11 seconds
+141 | Weather/Comfort Crimes | Fabric Trauma | The weather found Mimi specifically. | Reveal after click: Her jeans fit differently after lunch
+142 | Food Crimes | Breakfast Incident | Flavor trust was permanently damaged. | Reveal after click: She burns her tongue on soup she knew was hot
+143 | Public Humiliation | Main Character Damage | A public object had attitude. | Reveal after click: The grocery cart shocks her with static
+144 | Home Inconveniences | Home Object With Motives | Home was not acting like home. | Reveal after click: The pen cap vanishes
+145 | Public Humiliation | Witnesses Were Present | Witnesses were unfortunately present. | Reveal after click: Someone takes the parking spot she was clearly spiritually connected to
+146 | Technology Betrayal | Digital Meltdown | A loading symbol became personal. | Reveal after click: The app says “something went wrong”
+147 | Social Damage | Conversation Crime | The tone was legally unclear. | Reveal after click: She receives a “friendly reminder”
+148 | Food Crimes | Suspicious Bite | One bite changed the timeline. | Reveal after click: Her ice melts before she drinks the drink
+149 | Home Inconveniences | Room Temperature Lore | The room became emotionally unsafe. | Reveal after click: The blanket is trapped under the cat
+150 | Social Damage | Audacity Alert | Mimi heard one phrase and changed species. | Reveal after click: Someone says “it’s not that deep”

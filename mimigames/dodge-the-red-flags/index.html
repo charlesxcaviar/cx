@@ -16,6 +16,10 @@
       <aside class="related-rail" aria-label="More games">
         <h2>More Mimi Games</h2>
         <nav class="related-list">
+          <a href="../villain-origin-story-generator/">
+            <span>Villain Origin Story</span>
+            <small>Tiny disaster</small>
+          </a>
           <a href="../text-regret-simulator/">
             <span>Mimi Texts Them</span>
             <small>Chat chaos</small>
@@ -27,10 +31,6 @@
           <a href="../overthinking-maze/">
             <span>Overthinking Maze</span>
             <small>Brain sprint</small>
-          </a>
-          <a href="../pick-a-door-game/">
-            <span>Suspicious Door</span>
-            <small>Tiny prophecy</small>
           </a>
         </nav>
       </aside>
@@ -47,6 +47,12 @@
             <button type="button" class="segment-button is-active" data-batch="guy">Guy batch</button>
             <button type="button" class="segment-button" data-batch="girl">Girl batch</button>
             <button type="button" class="segment-button" data-batch="mixed">Mixed</button>
+          </div>
+
+          <div class="batch-picker difficulty-picker" aria-label="Difficulty">
+            <button type="button" class="segment-button" data-difficulty="easy">Easy</button>
+            <button type="button" class="segment-button is-active" data-difficulty="normal">Normal</button>
+            <button type="button" class="segment-button" data-difficulty="hard">Hard</button>
           </div>
 
           <div class="game-scorebar">
@@ -68,7 +74,15 @@
             </div>
           </div>
 
-          <div class="game-stage" aria-label="Game area" data-stage>
+          <div class="game-stage is-idle" aria-label="Game area" data-stage>
+            <div class="stage-message" data-stage-message>
+              <div class="stage-message__label" data-result-label>Mimi's read</div>
+              <div class="final-face" data-final-face hidden aria-hidden="true"></div>
+              <div class="final-score" data-final-score hidden></div>
+              <h2 data-result-title>Ready to judge gently</h2>
+              <p data-result-text>Mimi is neutral, observant, and trying not to collect suspicious behavior.</p>
+            </div>
+            <button type="button" class="stage-start-button primary-button" data-start>Start</button>
             <div class="mimi-placeholder" data-player>
               <span></span>
             </div>
@@ -76,14 +90,8 @@
 
           <div class="game-controls" aria-label="Game controls">
             <button type="button" class="icon-button" aria-label="Move left" data-move="-1">&lt;</button>
-            <button type="button" class="primary-button" data-start>Start</button>
             <button type="button" class="icon-button" aria-label="Move right" data-move="1">&gt;</button>
           </div>
-        </section>
-
-        <section class="result-panel" aria-label="Result">
-          <h2 data-result-title>Current verdict</h2>
-          <p data-result-text>Mimi is neutral, observant, and trying not to collect suspicious behavior.</p>
         </section>
       </article>
 
@@ -102,6 +110,7 @@
       <div>Made for playful web experiments.</div>
     </footer>
   </div>
+  <script src="behaviors.js" defer></script>
   <script src="game.js" defer></script>
 </body>
 </html>

@@ -5,101 +5,59 @@ const peaceValue = document.querySelector("[data-peace]");
 const chaosValue = document.querySelector("[data-chaos]");
 const moodValue = document.querySelector("[data-mood]");
 const startButton = document.querySelector("[data-start]");
+const stageMessage = document.querySelector("[data-stage-message]");
+const resultLabel = document.querySelector("[data-result-label]");
+const finalFace = document.querySelector("[data-final-face]");
+const finalScore = document.querySelector("[data-final-score]");
 const resultTitle = document.querySelector("[data-result-title]");
 const resultText = document.querySelector("[data-result-text]");
 const moveButtons = Array.from(document.querySelectorAll("[data-move]"));
 const batchButtons = Array.from(document.querySelectorAll("[data-batch]"));
+const difficultyButtons = Array.from(document.querySelectorAll("[data-difficulty]"));
 
-const behaviorPairs = {
-  guy: [
-    ["Mattress on the floor", "Fresh clean sheets"],
-    ["Uses ex's Netflix", "Pays his own bills"],
-    ["\"U up?\" at 2 AM", "Replies the same day"],
-    ["Lives on energy drinks", "Drinks actual water"],
-    ["Calls every ex crazy", "Speaks respectfully"],
-    ["37 unfinished side hustles", "Finishes what he starts"],
-    ["One towel for everything", "Owns multiple towels"],
-    ["Owns a sigma course", "Has real hobbies"],
-    ["Daily gym mirror selfies", "Asks about your day"],
-    ["\"Emotionally unavailable\"", "Communicates clearly"],
-    ["Borrows money, forgets", "Pays people back"],
-    ["Started 12 podcasts", "Keeps commitments"],
-    ["Brags about no sleep", "Takes care of himself"],
-    ["Microwaves frozen pizza", "Can cook a meal"],
-    ["Ghosts for 3 days", "Says when he's busy"],
-    ["Road rage in parking lots", "Stays calm under pressure"],
-    ["Never returns shopping carts", "Returns shopping carts"],
-    ["Treats waiters badly", "Treats everyone well"],
-    ["Three decorative katanas", "Owns a vacuum cleaner"],
-    ["Always on 2% battery", "Charges before leaving"],
-    ["Never reads instructions", "Builds furniture correctly"],
-    ["Crypto but no chair", "Owns a chair"],
-    ["Car sounds like boss fight", "Uses turn signals"],
-    ["Thinks deodorant is optional", "Smells nice"],
-    ["Forgets your birthday", "Remembers little things"],
-    ["Follows 8,000 influencers", "Follows through on plans"],
-    ["Trust me, bro", "Admits when he's wrong"],
-    ["Christmas lights in July", "Changes smoke alarm batteries"],
-    ["Calls himself alpha", "Confident without labels"],
-    ["\"Could've gone pro\"", "Enjoys life as is"],
-    ["Argues with customer service", "Kind to service workers"],
-    ["Proudly doesn't read books", "Loves learning"],
-    ["Asks for gas money", "Plans thoughtful dates"],
-    ["Owns 14 gaming headsets", "Owns matching bedsheets"],
-    ["\"Women are complicated\"", "Actually listens"],
-    ["Entrepreneur in bio only", "Has a steady job"],
-    ["Phone always face down", "Nothing to hide"],
-    ["Flirts with every cashier", "Makes you feel special"],
-    ["Never deletes old food", "Cleans the fridge"],
-    ["Peak male podcast addict", "Thinks for himself"],
-  ],
-  girl: [
-    ["\"Live, Laugh, Love\" wall decal", "Has actual hobbies"],
-    ["Owns 14 water bottles", "Drinks from one"],
-    ["Says \"he's just a friend\"", "Sets clear boundaries"],
-    ["Buys plants, forgets plants", "Keeps plants alive"],
-    ["Makes TikToks in public", "Feels no need to perform"],
-    ["Has 37 skincare products", "Uses the ones she owns"],
-    ["Sends \"k.\"", "Uses complete sentences"],
-    ["Starts a fight in a dream", "Separates dreams from reality"],
-    ["Keeps emergency exes", "Keeps healthy boundaries"],
-    ["Three-hour photo shoot", "Enjoys the actual trip"],
-    ["Orders salad, eats your fries", "Orders her own fries"],
-    ["Says \"I'm literally crazy\"", "Emotionally stable"],
-    ["Owns a ring light", "Owns a bookshelf"],
-    ["Has 9 tote bags", "Uses a tote bag"],
-    ["Makes friends hate her boyfriend", "Keeps her own opinions"],
-    ["Posts cryptic sad quotes", "Talks about problems directly"],
-    ["\"Do whatever you want\"", "Says what she wants"],
-    ["Astrology before accountability", "Takes responsibility"],
-    ["Needs 84 photos of brunch", "Eats brunch while warm"],
-    ["Buys crystals for everything", "Solves problems normally"],
-    ["Has an emotional support Stanley Cup", "Drinks water from a cup"],
-    ["Says \"all my exes were toxic\"", "Learns from relationships"],
-    ["Flirts for free desserts", "Pays for dessert"],
-    ["Turns every outing into content", "Lives in the moment"],
-    ["Screenshots every conversation", "Respects privacy"],
-    ["Tests your loyalty weekly", "Trusts until proven otherwise"],
-    ["Online shops when sad", "Has a savings account"],
-    ["Treats Sephora like therapy", "Has healthier coping skills"],
-    ["Calls herself a princess", "Treats others like royalty too"],
-    ["Checks your location hourly", "Has her own life"],
-    ["Uses baby voice on adults", "Speaks like an adult"],
-    ["Creates fake scenarios", "Asks direct questions"],
-    ["Makes waiters retake photos", "Says thank you"],
-    ["Thinks red flags are projects", "Walks away when needed"],
-    ["Owns six identical beige sweaters", "Has a personality"],
-    ["Makes her dog an Instagram manager", "Just loves her dog"],
-    ["Says \"girl math\" for everything", "Knows where money went"],
-    ["Needs a committee to choose dinner", "Makes a decision"],
-    ["Keeps gifts from every situationship", "Declutters regularly"],
-    ["Sends 47 voice notes", "Gets to the point"],
-  ],
+const difficultySettings = {
+  easy: {
+    label: "Easy",
+    peacePenalty: 0,
+    maxActiveDesktop: 3,
+    maxActiveMobile: 1,
+    spawnDesktop: 2.1,
+    spawnMobile: 2.45,
+    speedMin: 7.5,
+    speedRange: 2.5,
+  },
+  normal: {
+    label: "Normal",
+    peacePenalty: 1,
+    maxActiveDesktop: 3,
+    maxActiveMobile: 2,
+    spawnDesktop: 1.55,
+    spawnMobile: 1.9,
+    speedMin: 10.5,
+    speedRange: 3.5,
+  },
+  hard: {
+    label: "Hard",
+    peacePenalty: 2,
+    maxActiveDesktop: 4,
+    maxActiveMobile: 2,
+    spawnDesktop: 1.12,
+    spawnMobile: 1.45,
+    speedMin: 14,
+    speedRange: 4.5,
+  },
 };
+
+const behaviorPairs = window.mimiRedFlagBehaviorPairs;
+
+if (!behaviorPairs) {
+  throw new Error("Missing behavior data. Load behaviors.js before game.js.");
+}
 
 const state = {
   running: false,
   selectedBatch: "guy",
+  selectedDifficulty: "normal",
   deck: [],
   activeCards: [],
   nextIndex: 0,
@@ -109,6 +67,9 @@ const state = {
   playerX: 50,
   inputX: 0,
   activeInput: new Map(),
+  dragging: false,
+  dragPointerId: null,
+  pointerTargetX: null,
   lastFrame: 0,
   animationFrame: 0,
   spawnClock: 0,
@@ -131,15 +92,27 @@ function shuffle(items) {
   return shuffled;
 }
 
-function buildDeck(batchName) {
+function buildBehaviorPool(batchName) {
   const pairs = batchName === "mixed"
     ? [...behaviorPairs.guy, ...behaviorPairs.girl]
     : behaviorPairs[batchName];
 
-  return pairs.flatMap(([red, green]) => [
-    { kind: "red", text: red },
-    { kind: "green", text: green },
-  ]);
+  return {
+    red: pairs.map(([red]) => ({ kind: "red", text: red })),
+    green: pairs.map(([, green]) => ({ kind: "green", text: green })),
+  };
+}
+
+function sampleItems(items, count) {
+  return shuffle(items).slice(0, Math.min(count, items.length));
+}
+
+function buildDeck(batchName) {
+  const pool = buildBehaviorPool(batchName);
+  const selectedRed = sampleItems(pool.red, 20);
+  const selectedGreen = sampleItems(pool.green, 20);
+
+  return shuffle([...selectedRed, ...selectedGreen]);
 }
 
 function getLanePositions() {
@@ -147,35 +120,57 @@ function getLanePositions() {
 }
 
 function getMaxActiveCards() {
-  return stage.clientWidth < 560 ? 1 : 3;
+  const settings = difficultySettings[state.selectedDifficulty];
+  return stage.clientWidth < 560 ? settings.maxActiveMobile : settings.maxActiveDesktop;
 }
 
 function getSpawnDelay() {
-  return stage.clientWidth < 560 ? 2.45 : 2.1;
+  const settings = difficultySettings[state.selectedDifficulty];
+  return stage.clientWidth < 560 ? settings.spawnMobile : settings.spawnDesktop;
 }
 
 function getAvailableLane() {
   const lanes = getLanePositions();
-
-  for (let offset = 0; offset < lanes.length; offset += 1) {
-    const index = (state.laneCursor + offset) % lanes.length;
-    const lane = lanes[index];
-    const blocked = state.activeCards.some((active) => (
+  const available = lanes.filter((lane) => (
+    !state.activeCards.some((active) => (
       !active.resolved && Math.abs(active.x - lane) < 1 && active.y < 24
-    ));
+    ))
+  ));
 
-    if (!blocked) {
-      state.laneCursor = (index + 1) % lanes.length;
-      return lane;
-    }
+  if (available.length === 0) {
+    return null;
   }
 
-  return null;
+  const randomLane = available[Math.floor(Math.random() * available.length)];
+  state.laneCursor = lanes.indexOf(randomLane);
+
+  return randomLane;
 }
 
 function setPlayerPosition(value) {
   state.playerX = clamp(value, 8, 92);
   player.style.left = `calc(${state.playerX}% - 36px)`;
+}
+
+function setPlayerFromPointer(clientX) {
+  const rect = stage.getBoundingClientRect();
+  const position = ((clientX - rect.left) / rect.width) * 100;
+  state.pointerTargetX = clamp(position, 8, 92);
+}
+
+function updatePointerRun() {
+  if (!state.dragging || state.pointerTargetX === null) {
+    return;
+  }
+
+  const distance = state.pointerTargetX - state.playerX;
+
+  if (Math.abs(distance) < 1.5) {
+    releaseInput("stage-drag");
+    return;
+  }
+
+  holdInput("stage-drag", distance > 0 ? 1 : -1);
 }
 
 function updateInputDirection() {
@@ -207,6 +202,95 @@ function updateScorebar() {
   peaceValue.textContent = state.peace;
   chaosValue.textContent = state.chaos;
   updateMood();
+}
+
+function setStageState(stageState) {
+  stage.classList.remove("is-idle", "is-playing", "is-finished");
+  stage.classList.add(`is-${stageState}`);
+}
+
+function setCurrentMessage(title, text, label = "Mimi's read") {
+  resultLabel.textContent = label;
+  resultTitle.textContent = title;
+  resultText.textContent = text;
+  finalFace.hidden = true;
+  finalScore.hidden = true;
+}
+
+function getShareableResult(score) {
+  if (score >= 12) {
+    return {
+      title: "Green Flag Scholar",
+      face: "happy",
+      verdict: "Mimi has standards, hydration, and a suspiciously organized emotional filing system.",
+    };
+  }
+
+  if (score >= 5) {
+    return {
+      title: "Certified Peace Collector",
+      face: "happy",
+      verdict: "Mimi dodged enough nonsense to leave with her sparkle mostly attached.",
+    };
+  }
+
+  if (score >= 0) {
+    return {
+      title: "Neutral Chaos Analyst",
+      face: "neutral",
+      verdict: "Mimi saw the signs, made a few choices, and is now requesting a snack and a debrief.",
+    };
+  }
+
+  if (score >= -7) {
+    return {
+      title: "Chaos Collector",
+      face: "chaotic",
+      verdict: "Mimi collected suspicious behavior like loyalty points at the worst store in town.",
+    };
+  }
+
+  return {
+    title: "Red Flag Magnet",
+    face: "chaotic",
+    verdict: "Mimi did not dodge the flags. Mimi became a tiny museum of them.",
+  };
+}
+
+function showFinalMessage(score) {
+  const result = getShareableResult(score);
+
+  resultLabel.textContent = "Final assessment";
+  resultTitle.textContent = result.title;
+  resultText.textContent = result.verdict;
+  finalScore.textContent = `Score ${score} | Peace ${state.peace} | Chaos ${state.chaos}`;
+  finalFace.className = `final-face final-face--${result.face}`;
+  finalFace.hidden = false;
+  finalScore.hidden = false;
+}
+
+function showPopText(active, messages, tone) {
+  const pop = document.createElement("div");
+
+  pop.className = `score-pop score-pop--${tone}`;
+  pop.textContent = messages.join(" ");
+  pop.style.left = `${active.x}%`;
+  pop.style.top = `${Math.max(active.y, 8)}%`;
+  stage.append(pop);
+
+  window.setTimeout(() => {
+    pop.remove();
+  }, 760);
+}
+
+function reactMimi(tone) {
+  player.classList.remove("react-good", "react-bad");
+  void player.offsetWidth;
+  player.classList.add(tone === "good" ? "react-good" : "react-bad");
+
+  window.setTimeout(() => {
+    player.classList.remove("react-good", "react-bad");
+  }, 360);
 }
 
 function rectanglesOverlap(a, b) {
@@ -244,18 +328,14 @@ function clearActiveCards() {
 
 function finishGame() {
   const score = state.peace - state.chaos;
-  const ending = score > 0
-    ? "Mimi survived with standards intact."
-    : score < 0
-      ? "Mimi is emotionally holding a tiny fire extinguisher."
-      : "Mimi remains neutral, which is suspiciously mature.";
 
   state.running = false;
   cancelAnimationFrame(state.animationFrame);
   updateScorebar();
-  startButton.textContent = "Play again";
-  resultTitle.textContent = "Final score";
-  resultText.textContent = `${ending} Peace: ${state.peace}. Chaos: ${state.chaos}. Score: ${score}.`;
+  startButton.textContent = "Play again?";
+  setStageState("finished");
+  stageMessage.classList.add("is-final");
+  showFinalMessage(score);
 }
 
 function maybeFinishGame() {
@@ -287,7 +367,8 @@ function spawnNextCard(startY = null) {
     element,
     x: lane,
     y: startY ?? -22 - Math.random() * 10,
-    speed: 7.5 + Math.random() * 2.5,
+    speed: difficultySettings[state.selectedDifficulty].speedMin
+      + Math.random() * difficultySettings[state.selectedDifficulty].speedRange,
     resolved: false,
     runId: state.runId,
   };
@@ -308,15 +389,33 @@ function resolveCard(active, wasCaught) {
 
   if (wasCaught) {
     if (active.item.kind === "red") {
+      const penalty = difficultySettings[state.selectedDifficulty].peacePenalty;
+      const lostPeace = Math.min(state.peace, penalty);
+      const messages = ["+1 chaos"];
+
       state.chaos += 1;
+      state.peace -= lostPeace;
+      if (lostPeace > 0) {
+        messages.push(`-${lostPeace} peace`);
+      }
       active.element.classList.add("is-red");
-      resultTitle.textContent = "Red flag collected";
-      resultText.textContent = `"${active.item.text}" has entered Mimi's emotional file cabinet.`;
+      showPopText(active, messages, "bad");
+      reactMimi("bad");
+      setCurrentMessage(
+        "Red flag collected",
+        lostPeace > 0
+          ? `"${active.item.text}" stole ${lostPeace} peace point${lostPeace === 1 ? "" : "s"}.`
+          : `"${active.item.text}" has entered Mimi's emotional file cabinet.`
+      );
     } else {
       state.peace += 1;
       active.element.classList.add("is-green");
-      resultTitle.textContent = "Green flag collected";
-      resultText.textContent = `"${active.item.text}" restored one tiny unit of faith.`;
+      showPopText(active, ["+1 peace"], "good");
+      reactMimi("good");
+      setCurrentMessage(
+        "Green flag collected",
+        `"${active.item.text}" restored one tiny unit of faith.`
+      );
     }
 
     updateScorebar();
@@ -331,11 +430,15 @@ function resolveCard(active, wasCaught) {
   }
 
   if (active.item.kind === "red") {
-    resultTitle.textContent = "Red flag dodged";
-    resultText.textContent = `"${active.item.text}" drifted away without touching Mimi's peace.`;
+    setCurrentMessage(
+      "Red flag dodged",
+      `"${active.item.text}" drifted away without touching Mimi's peace.`
+    );
   } else {
-    resultTitle.textContent = "Green flag missed";
-    resultText.textContent = `"${active.item.text}" was healthy, and tragically, just out of reach.`;
+    setCurrentMessage(
+      "Green flag missed",
+      `"${active.item.text}" was healthy, and tragically, just out of reach.`
+    );
   }
 
   removeActiveCard(active);
@@ -357,6 +460,8 @@ function tick(timestamp) {
 
   const delta = Math.min((timestamp - state.lastFrame) / 1000, 0.04);
   state.lastFrame = timestamp;
+
+  updatePointerRun();
 
   if (state.inputX !== 0) {
     setPlayerPosition(state.playerX + state.inputX * 54 * delta);
@@ -402,12 +507,19 @@ function startGame() {
   state.laneCursor = 0;
   state.lastFrame = performance.now();
   state.activeInput.clear();
+  state.dragging = false;
+  state.dragPointerId = null;
+  state.pointerTargetX = null;
   updateInputDirection();
   setPlayerPosition(50);
   updateScorebar();
   startButton.textContent = "Restart";
-  resultTitle.textContent = "Current verdict";
-  resultText.textContent = "Mimi is neutral, observant, and trying not to collect suspicious behavior.";
+  setStageState("playing");
+  stageMessage.classList.remove("is-final");
+  setCurrentMessage(
+    "Current verdict",
+    "Mimi is reading the room, one suspicious bubble at a time."
+  );
   for (let index = 0; index < Math.min(1, getMaxActiveCards()); index += 1) {
     spawnNextCard(-18 - index * 34);
   }
@@ -432,9 +544,26 @@ function selectBatch(batchName) {
   updateScorebar();
 }
 
+function selectDifficulty(difficultyName) {
+  if (state.running) {
+    return;
+  }
+
+  state.selectedDifficulty = difficultyName;
+  difficultyButtons.forEach((button) => {
+    button.classList.toggle("is-active", button.dataset.difficulty === difficultyName);
+  });
+}
+
 batchButtons.forEach((button) => {
   button.addEventListener("click", () => {
     selectBatch(button.dataset.batch);
+  });
+});
+
+difficultyButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    selectDifficulty(button.dataset.difficulty);
   });
 });
 
@@ -461,6 +590,51 @@ moveButtons.forEach((button) => {
     releaseInput(source);
   });
 });
+
+stage.addEventListener("pointerdown", (event) => {
+  if (event.target.closest("button")) {
+    return;
+  }
+
+  event.preventDefault();
+  state.dragging = true;
+  state.dragPointerId = event.pointerId;
+
+  if (stage.setPointerCapture) {
+    stage.setPointerCapture(event.pointerId);
+  }
+
+  setPlayerFromPointer(event.clientX);
+  updatePointerRun();
+});
+
+stage.addEventListener("pointermove", (event) => {
+  if (!state.dragging || event.pointerId !== state.dragPointerId) {
+    return;
+  }
+
+  event.preventDefault();
+  setPlayerFromPointer(event.clientX);
+  updatePointerRun();
+});
+
+function stopDragging(event) {
+  if (event.pointerId !== state.dragPointerId) {
+    return;
+  }
+
+  if (stage.hasPointerCapture && stage.hasPointerCapture(event.pointerId)) {
+    stage.releasePointerCapture(event.pointerId);
+  }
+
+  state.dragging = false;
+  state.dragPointerId = null;
+  state.pointerTargetX = null;
+  releaseInput("stage-drag");
+}
+
+stage.addEventListener("pointerup", stopDragging);
+stage.addEventListener("pointercancel", stopDragging);
 
 startButton.addEventListener("click", startGame);
 
@@ -498,3 +672,4 @@ window.addEventListener("blur", () => {
 
 setPlayerPosition(state.playerX);
 selectBatch(state.selectedBatch);
+selectDifficulty(state.selectedDifficulty);

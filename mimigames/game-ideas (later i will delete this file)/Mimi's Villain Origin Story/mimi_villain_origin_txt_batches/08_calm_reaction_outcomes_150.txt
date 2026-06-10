@@ -1,0 +1,154 @@
+CALM REACTION OUTCOMES - 150
+Use when the player chooses the calm/pretend-fine reaction instead of full villain transformation.
+Format: ID | Inconvenience | Calm Outcome
+
+001 | The coffee lid leaks on Mimi’s sleeve | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+002 | Someone walks slowly in front of her | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+003 | Her phone charger only works at one angle | Mimi says she is fine, then checks the screen again like peace might refresh.
+004 | The Wi-Fi drops during one important click | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+005 | A text says “lol” with no emoji | Mimi says she is fine, then checks the screen again like peace might refresh.
+006 | The vending machine eats her coin | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+007 | Her fries arrive lukewarm | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+008 | Someone says “calm down” | Mimi responds politely while opening a tiny private investigation in her brain.
+009 | The elevator closes right before she reaches it | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+010 | Her favorite pen runs out mid-sentence | Mimi stays calm, but every household object has officially lost best-friend status.
+011 | A sock disappears in the laundry | Mimi stays calm, but every household object has officially lost best-friend status.
+012 | A YouTube ad appears at the best part | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+013 | Someone leaves one sip of juice in the fridge | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+014 | She opens a bag of chips and it is 72% air | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+015 | Her alarm goes off on a dream cliffhanger | Mimi survives the sensory crime, but the cozy treaty has been damaged.
+016 | The blanket is too hot but the room is too cold | Mimi stays calm, but every household object has officially lost best-friend status.
+017 | Someone replies “k” | Mimi says she is fine, then checks the screen again like peace might refresh.
+018 | The restaurant forgot her sauce | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+019 | Her playlist shuffles to the wrong vibe | Mimi says she is fine, then checks the screen again like peace might refresh.
+020 | She bites into a cookie and it has raisins | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+021 | A door says push but she pulls | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+022 | Someone says “we need to talk” then disappears | Mimi responds politely while opening a tiny private investigation in her brain.
+023 | She drops her phone on her face in bed | Mimi says she is fine, then checks the screen again like peace might refresh.
+024 | The printer says “paper jam” with no visible jam | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+025 | Her sleeve gets wet while washing hands | Mimi survives the sensory crime, but the cozy treaty has been damaged.
+026 | She loses one earbud | Mimi says she is fine, then checks the screen again like peace might refresh.
+027 | Someone eats the leftovers she was emotionally attached to | Mimi responds politely while opening a tiny private investigation in her brain.
+028 | Her chair makes a weird noise in a quiet room | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+029 | She stubs her toe on furniture she owns | Mimi stays calm, but every household object has officially lost best-friend status.
+030 | The microwave stops at 0:01 | Mimi stays calm, but every household object has officially lost best-friend status.
+031 | Her lip balm disappears | Mimi stays calm, but every household object has officially lost best-friend status.
+032 | A group chat ignores her best joke | Mimi responds politely while opening a tiny private investigation in her brain.
+033 | Someone types for 40 seconds then sends “yeah” | Mimi responds politely while opening a tiny private investigation in her brain.
+034 | She opens the camera accidentally in selfie mode | Mimi says she is fine, then checks the screen again like peace might refresh.
+035 | The spoon falls into the soup | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+036 | Her nail catches on fabric | Mimi stays calm, but every household object has officially lost best-friend status.
+037 | The toilet paper roll is empty | Mimi stays calm, but every household object has officially lost best-friend status.
+038 | She forgets why she entered a room | Mimi stays calm, but every household object has officially lost best-friend status.
+039 | Her laptop updates without permission | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+040 | Someone says “no offense” then offends | Mimi responds politely while opening a tiny private investigation in her brain.
+041 | The straw gets soggy | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+042 | She steps in water wearing socks | Mimi stays calm, but every household object has officially lost best-friend status.
+043 | Her food arrives, but no napkins | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+044 | She gets an email that starts with “just following up” | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+045 | A sticker leaves residue | Mimi stays calm, but every household object has officially lost best-friend status.
+046 | Someone says “it’s giving…” and never finishes | Mimi responds politely while opening a tiny private investigation in her brain.
+047 | The cashier asks if she wants the receipt while she is buffering | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+048 | She accidentally likes an old post | Mimi stays calm, but every household object has officially lost best-friend status.
+049 | Her bag strap twists | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+050 | The automatic soap dispenser ignores her hand | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+051 | She orders iced coffee and gets hot coffee | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+052 | The avocado is either rock or soup | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+053 | She drops something and it rolls under the bed | Mimi stays calm, but every household object has officially lost best-friend status.
+054 | Someone sends a voice note longer than 2 minutes | Mimi says she is fine, then checks the screen again like peace might refresh.
+055 | The remote battery dies | Mimi stays calm, but every household object has officially lost best-friend status.
+056 | Her blanket burrito unwraps | Mimi stays calm, but every household object has officially lost best-friend status.
+057 | She opens a drawer and it jams | Mimi stays calm, but every household object has officially lost best-friend status.
+058 | Someone says “I’m five minutes away” from their house | Mimi responds politely while opening a tiny private investigation in her brain.
+059 | The pizza slice burns her mouth | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+060 | The shampoo bottle is empty mid-shower | Mimi stays calm, but every household object has officially lost best-friend status.
+061 | She tries to unlock her phone with wet fingers | Mimi says she is fine, then checks the screen again like peace might refresh.
+062 | Her playlist ends and silence attacks | Mimi says she is fine, then checks the screen again like peace might refresh.
+063 | A website makes her accept cookies again | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+064 | Someone asks “are you mad?” when she was not mad | Mimi responds politely while opening a tiny private investigation in her brain.
+065 | The chair is warm from the previous person | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+066 | She opens a banana from the wrong end and it fights back | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+067 | A notification disappears before she reads it | Mimi says she is fine, then checks the screen again like peace might refresh.
+068 | She gets a captcha wrong | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+069 | The blanket has no cold side left | Mimi stays calm, but every household object has officially lost best-friend status.
+070 | Her hoodie string vanishes into the hood | Mimi stays calm, but every household object has officially lost best-friend status.
+071 | Someone chews too loudly nearby | Mimi responds politely while opening a tiny private investigation in her brain.
+072 | The shopping cart has one broken wheel | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+073 | She waves back at someone waving to someone behind her | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+074 | Her package says “delivered” but is not there | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+075 | Someone asks a question answered in the message above | Mimi responds politely while opening a tiny private investigation in her brain.
+076 | The ice cream spoon bends | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+077 | She steps on one tiny crumb barefoot | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+078 | The zipper gets stuck | Mimi stays calm, but every household object has officially lost best-friend status.
+079 | Someone says “smile more” | Mimi responds politely while opening a tiny private investigation in her brain.
+080 | Her headphones connect to the wrong device | Mimi says she is fine, then checks the screen again like peace might refresh.
+081 | A recipe says “cook until done” | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+082 | She gets a “low storage” warning | Mimi says she is fine, then checks the screen again like peace might refresh.
+083 | Someone reads her message and does not reply | Mimi says she is fine, then checks the screen again like peace might refresh.
+084 | The bus arrives early for once | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+085 | She forgets her tote bag after saying she is a tote bag person | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+086 | The fitted sheet refuses to fit | Mimi stays calm, but every household object has officially lost best-friend status.
+087 | The cereal box has crumbs only | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+088 | Someone spoils a show casually | Mimi responds politely while opening a tiny private investigation in her brain.
+089 | Her pen leaks in her bag | Mimi stays calm, but every household object has officially lost best-friend status.
+090 | A chair leg catches her toe | Mimi stays calm, but every household object has officially lost best-friend status.
+091 | The traffic light turns red only for her | Mimi stays calm, but every household object has officially lost best-friend status.
+092 | The bag of salad expires instantly | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+093 | Someone says “quick call?” | Mimi responds politely while opening a tiny private investigation in her brain.
+094 | The app logs her out for security | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+095 | She forgets her umbrella and it rains sideways | Mimi survives the sensory crime, but the cozy treaty has been damaged.
+096 | Her favorite mug is dirty | Mimi stays calm, but every household object has officially lost best-friend status.
+097 | A drawer contains every charger except the one she needs | Mimi says she is fine, then checks the screen again like peace might refresh.
+098 | Someone says “that’s crazy” but clearly did not listen | Mimi responds politely while opening a tiny private investigation in her brain.
+099 | Her fries have one mystery sweet potato fry | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+100 | She gets crumbs in bed | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+101 | A website says her password is weak | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+102 | She drops ice down her shirt | Mimi survives the sensory crime, but the cozy treaty has been damaged.
+103 | Someone uses “your” instead of “you’re” in a serious argument | Mimi responds politely while opening a tiny private investigation in her brain.
+104 | The dishwasher is clean but nobody unloaded it | Mimi stays calm, but every household object has officially lost best-friend status.
+105 | A child stares at her in public | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+106 | The bag rips one step from home | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+107 | Her card declines for no reason | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+108 | Someone says “you look tired” | Mimi responds politely while opening a tiny private investigation in her brain.
+109 | The automatic door opens too late | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+110 | She clicks “remind me later” for the 900th time | Mimi stays calm, but every household object has officially lost best-friend status.
+111 | A mosquito enters the room at bedtime | Mimi stays calm, but every household object has officially lost best-friend status.
+112 | She gets a paper cut from mail she did not want | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+113 | The oat milk is finished | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+114 | Her toast lands butter-side down | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+115 | Someone says “guess what?” then pauses forever | Mimi responds politely while opening a tiny private investigation in her brain.
+116 | The mirror lighting is criminal | Mimi survives the sensory crime, but the cozy treaty has been damaged.
+117 | She forgets the word for something simple | Mimi stays calm, but every household object has officially lost best-friend status.
+118 | Her playlist is interrupted by a sad song while she is trying to be powerful | Mimi says she is fine, then checks the screen again like peace might refresh.
+119 | Someone leaves the cabinet door open | Mimi stays calm, but every household object has officially lost best-friend status.
+120 | The QR code menu will not load | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+121 | She gets “seen” by someone she was avoiding | Mimi says she is fine, then checks the screen again like peace might refresh.
+122 | A group photo catches her blinking | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+123 | Her fries are stolen by “just one bite” people | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+124 | The last piece of gum is gone | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+125 | Someone says “I told you so” | Mimi responds politely while opening a tiny private investigation in her brain.
+126 | The bathroom has no hook for her bag | Mimi stays calm, but every household object has officially lost best-friend status.
+127 | Her package requires a signature when she is in the shower | Mimi completes the errand with dignity, then writes the incident into her personal villain archive.
+128 | The app asks for a review after one use | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+129 | The train doors close while she is making eye contact with them | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+130 | Someone says “no worries” and there are clearly worries | Mimi responds politely while opening a tiny private investigation in her brain.
+131 | She spills water on herself while drinking normally | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+132 | The pencil breaks immediately after sharpening | Mimi stays calm, but every household object has officially lost best-friend status.
+133 | She misses the trash can from two inches away | Mimi stays calm, but every household object has officially lost best-friend status.
+134 | The blanket tag touches her foot | Mimi stays calm, but every household object has officially lost best-friend status.
+135 | Her favorite snack changed recipe | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+136 | Someone says “let’s circle back” | Mimi responds politely while opening a tiny private investigation in her brain.
+137 | The phone autocorrects “ok” into something weird | Mimi says she is fine, then checks the screen again like peace might refresh.
+138 | She opens a can and the pull tab breaks | Mimi stays calm, but every household object has officially lost best-friend status.
+139 | The hotel pillow is too tall | Mimi survives the sensory crime, but the cozy treaty has been damaged.
+140 | Someone sends “???” after 11 seconds | Mimi says she is fine, then checks the screen again like peace might refresh.
+141 | Her jeans fit differently after lunch | Mimi survives the sensory crime, but the cozy treaty has been damaged.
+142 | She burns her tongue on soup she knew was hot | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+143 | The grocery cart shocks her with static | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+144 | The pen cap vanishes | Mimi stays calm, but every household object has officially lost best-friend status.
+145 | Someone takes the parking spot she was clearly spiritually connected to | Mimi acts normal in public, which is impressive because her soul is already wearing sunglasses and leaving town.
+146 | The app says “something went wrong” | Mimi breathes through the machine betrayal and adds “buy emotional support charger” to her mental list.
+147 | She receives a “friendly reminder” | Mimi responds politely while opening a tiny private investigation in her brain.
+148 | Her ice melts before she drinks the drink | Mimi pretends the snack crime is survivable, but she now watches every plate like a suspicious detective.
+149 | The blanket is trapped under the cat | Mimi stays calm, but every household object has officially lost best-friend status.
+150 | Someone says “it’s not that deep” | Mimi responds politely while opening a tiny private investigation in her brain.
