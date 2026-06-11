@@ -2671,33 +2671,12 @@ window.mimiVillainOriginData = {
   },
   "ui": {
     "startLines": [
-      "Mimi was having a normal day. Unfortunately, society had other plans.",
-      "Mimi was emotionally stable four seconds ago.",
-      "Today, Mimi will discover which tiny inconvenience has hands.",
-      "Nothing bad has happened yet. This is suspicious.",
-      "Mimi enters with hope, snacks, and no idea what is coming.",
-      "A normal day approaches Mimi with villainous intent.",
-      "Mimi believes she can stay calm. The website disagrees.",
-      "Choose the tiny event that ruins everything.",
-      "One little problem. One dramatic transformation.",
-      "Mimi is ready for peace. Peace is not ready for Mimi.",
-      "The villain origin machine is awake.",
-      "Every villain starts somewhere. Mimi starts with a minor inconvenience.",
-      "This is not a crisis yet. Give it a second.",
-      "Mimi has not chosen chaos. Chaos has chosen Mimi.",
-      "Welcome to the tiny bad decision laboratory.",
-      "Today’s forecast: harmless drama with a chance of cape.",
-      "Mimi is cute, calm, and one inconvenience away from policy change.",
-      "Press the button to emotionally inconvenience a mascot.",
-      "A tiny crisis is waiting behind one of these cards.",
-      "Mimi’s villain era is currently uninstalled. Begin setup?"
+      "Mimi was having a normal day, unfortunately, society had other plans",
+      "Mimi is ready for peace, peace is not ready for Mimi",
+      "Every villain starts somewhere,  Mimi starts with a minor inconvenience",
+      "Mimi has not chosen chaos, chaos has chosen Mimi",
     ],
     "beginButtons": [
-      "Begin Villain Origin",
-      "Start the Tiny Disaster",
-      "Choose Mimi’s Breaking Point",
-      "Proceed Unwisely",
-      "Wake the Villain",
       "Summon Minor Chaos",
       "Give Mimi 99 Problem",
       "Press for Emotional Damage"
@@ -2731,11 +2710,8 @@ window.mimiVillainOriginData = {
     ],
     "playAgainButtons": [
       "More chaos",
-      "Spin again",
-      "Replay the tiny disaster",
       "New villain era",
       "Try fate again",
-      "Choose another card",
       "Continue irresponsibly",
       "Again, but worse",
       "Another origin, please",
@@ -2743,14 +2719,8 @@ window.mimiVillainOriginData = {
       "One more bad decision",
       "Reload the emotional damage",
       "Give society another chance",
-      "Open another incident",
-      "Let the wheel cook",
       "Summon another inconvenience",
-      "More tiny crimes",
       "Choose a new betrayal",
-      "No lessons learned",
-      "Send Mimi back outside",
-      "More emotional paperwork",
       "Another villain seed"
     ],
     "threatLevels": [
@@ -2776,14 +2746,9 @@ window.mimiVillainOriginData = {
       "Chaos with soft edges"
     ],
     "categoryIntroLines": [
-      "Choose the department that ruins Mimi’s day.",
-      "Pick a category, then Mimi gets three mystery cards.",
-      "Select a flavor of inconvenience.",
       "Where did society betray Mimi today?",
-      "Choose the crime scene before choosing the crime.",
-      "Pick the emotional damage aisle.",
-      "Choose a villain seed category.",
-      "Decide what kind of tiny disaster enters the chat."
+      "Choose the crime scene",
+      "Choose a villain seed category"
     ],
     "fateButtons": [
       "Spin Mimi’s Minor Inconvenience Wheel",
