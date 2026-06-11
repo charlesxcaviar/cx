@@ -2532,6 +2532,8 @@ window.mimiVillainOriginData = {
     ]
   },
   "meter": {
+    // Preserved for future flavor text/animation ideas. The current result-page meter
+    // uses live chaos scoring in game.js instead of reading this stages array.
     "stages": [
       {
         "value": "0%",

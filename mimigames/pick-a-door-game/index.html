@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Mimi's Villain Origin Story | Playbox Experiments</title>
+  <title>Mimi Picks a Suspicious Door | Playbox Experiments</title>
   <link rel="stylesheet" href="../assets/css/main.css">
 </head>
 <body>
@@ -20,13 +20,13 @@
             <span>Mimi Dodges Red Flags</span>
             <small>Dating weather</small>
           </a>
+          <a href="../villain-origin-story-generator/">
+            <span>Villain Origin Story</span>
+            <small>Tiny disaster</small>
+          </a>
           <a href="../main-character-run/">
             <span>Mimi Runs</span>
             <small>Responsibility sprint</small>
-          </a>
-          <a href="../pick-a-door-game/">
-            <span>Suspicious Door</span>
-            <small>Tiny prophecy</small>
           </a>
           <a href="../random-decision-maker/">
             <span>Decision Dice</span>
@@ -37,13 +37,32 @@
 
       <article class="game-main">
         <header class="game-hero">
-          <p class="eyebrow">Mimi generator</p>
-          <h1>Mimi's Villain Origin Story</h1>
-          <p>One tiny inconvenience. One dramatic transformation. Society will be named in the paperwork.</p>
+          <p class="eyebrow">Mimi game</p>
+          <h1>Mimi Picks a Suspicious Door</h1>
+          <p>Four doors. One blessing, one prophecy, one insult, and one tiny crisis. Mimi is pretending this is a normal Tuesday.</p>
         </header>
 
-        <section class="game-shell villain-game" aria-label="Mimi's Villain Origin Story">
-          <div class="villain-stage" data-villain-stage></div>
+        <section class="game-shell door-game" aria-label="Mimi Picks a Suspicious Door game">
+          <div class="game-scorebar door-scorebar">
+            <div>
+              <span>Opened</span>
+              <strong data-door-opened>0</strong>
+            </div>
+            <div>
+              <span>Luck</span>
+              <strong data-door-luck>0</strong>
+            </div>
+            <div>
+              <span>Lore</span>
+              <strong data-door-lore>0</strong>
+            </div>
+            <div>
+              <span>Chaos</span>
+              <strong data-door-chaos>0</strong>
+            </div>
+          </div>
+
+          <div class="door-stage is-idle" aria-label="Suspicious door stage" data-door-stage></div>
         </section>
       </article>
 
@@ -62,7 +81,6 @@
       <div>Made for playful web experiments.</div>
     </footer>
   </div>
-  <script src="data.js" defer></script>
   <script src="game.js" defer></script>
 </body>
 </html>

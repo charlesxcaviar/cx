@@ -1,0 +1,226 @@
+# Character-Embedded Game List
+
+## Mascot Concept
+
+Working name: **Mimi**
+Placeholder only. Can be changed later.
+
+I have a website idea for unserious internet games for boredom, funn, delusion, and tiny bad decisions with HTML/CSS/JS. (kind of a troll)
+
+And I have a mascot (playable character) for the games, it's Mimi.
+
+Mimi is a cute, slightly chubby, silly, energetic character. She is clumsy, curious, dramatic in a harmless way, and knows how to laugh at herself. She is not “perfect,” not too cool, not too polished, and not cringe. She represents the playful childish part of every human being: the part that overthinks texts, makes tiny bad decisions, gets bored, wants to have fun, and survives life through humor.
+
+Important personality rules:
+
+* She is funny because she is sincere, not stupid.
+* She is clumsy, but not helpless.
+* She makes mistakes, but laughs and keeps going.
+* She is energetic, but not annoying.
+* She is emotionally dramatic, but self-aware.
+* She should not feel like a stereotype of girls.
+* She should feel like a mascot for everyone’s inner chaos.
+
+The site can use her in three ways:
+
+1. **Playable character** in games.
+2. **Guide/narrator** in quizzes and generators.
+3. **Result character** in outcome screens, stickers, reactions, and animations.
+
+---
+
+# Final Character-Based List
+
+|  # | Page                                           | Slug                               | Type                      | Character Integration                                                                                                                                                                 | Interaction Loop                                                                                                                                     | Emotional Hook                                                                              |
+| -: | ---------------------------------------------- | ---------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+|  1 | **Mimi Texts Them and Regrets It**             | `/text-regret-simulator/`          | Game / Simulator          | Mimi is sitting with her phone, overthinking every reply. The user chooses what she texts next.                                                                                       | Choose replies in a fake chat. Each choice changes chaos level.                                                                                      | “One wrong message and the situation becomes folklore.”                                     |
+|  2 | **Mimi’s Delusion Clicker**                    | `/delusion-clicker/`               | Game / Clicker            | Mimi clicks tiny signs, typing bubbles, tarot cards, and imaginary clues to build her delusion empire.                                                                                | Cookie-clicker style: click to gain delusion points, unlock excuses.                                                                                 | “Build an empire out of mixed signals.”                                                     |
+|  3 | **Is Mimi the Drama?**                         | `/am-i-the-drama-quiz/`            | Quiz                      | Mimi enters dramatic little situations, and the user decides what she would do. The result reveals whether Mimi is innocent, suspicious, or the full weather system.                  | Answer dramatic little scenarios and get a completely unserious verdict on whether you are the problem, the weather system, or merely nearby.        | A quiz for people who say “I hate drama” while actively being the weather system.           |
+|  4 | **Mimi Dodges Red Flags**                      | `/dodge-the-red-flags/`            | Game                      | Mimi runs left and right while red flags fall from the sky. Green flags help her survive.                                                                                             | Move left/right to avoid falling red flags. Catch green flags for points.                                                                            | “How long can you survive modern dating?”                                                   |
+|  5 | **Mimi: NPC or Main Character?**               | `/npc-battle-game/`                | Game / Choice Battle      | Mimi faces ordinary daily situations — ordering coffee, walking past strangers, replying to texts — and every choice pushes her toward NPC, side character, or main character energy. | Choose actions in daily scenarios. Gain NPC or Main Character points.                                                                                | “Are you living life or just buffering?”                                                    |
+|  6 | **Mimi Thinks This Is a Sign**                 | `/is-this-a-sign-quiz/`            | Quiz                      | Mimi sees random things — a cloud, a song lyric, a repeated number, a weirdly timed notification — and the user helps decide if the universe is speaking or if Mimi needs water.      | Answer questions about the “sign” you saw and receive a verdict on whether the universe is speaking, whispering, or just letting a cloud be a cloud. | For people who saw one oddly shaped cloud and decided the universe was speaking.            |
+|  7 | **Mimi Escapes the Overthinking Maze**         | `/overthinking-maze/`              | Game                      | Mimi tries to escape a maze inside her own brain while intrusive thoughts pop up as obstacles.                                                                                        | Navigate a maze while intrusive thoughts pop up as obstacles.                                                                                        | “Escape your own brain, allegedly.”                                                         |
+|  8 | **Mimi’s Petty Revenge Generator**             | `/petty-revenge-ideas/`            | Generator                 | Mimi appears with a tiny clipboard and generates harmless petty revenge ideas while trying very hard to remain emotionally responsible.                                               | Choose the level of offense, your available energy, and how responsible you want to be, then generate harmless petty revenge ideas.                  | Generates harmless, ridiculous revenge ideas for people choosing chaos responsibly.         |
+|  9 | **Mimi’s Villain Origin Story**                | `/villain-origin-story-generator/` | Generator                 | Mimi dramatically turns tiny inconveniences into a full villain transformation, cape optional.                                                                                        | Enter or choose the tiny inconvenience that ruined your day, then generate your official villain origin story.                                       | Turns one bad coffee, late reply, or slow walker into your official villain era.            |
+| 10 | **What Kind of Tired Gremlin Is Mimi Today?**  | `/why-am-i-so-tired-quiz/`         | Quiz                      | Mimi appears in different tired forms: snack goblin, blanket fossil, emotionally bankrupt mushroom, or moss candidate.                                                                | Answer questions about your sleep, mood, snacks, social battery, and life choices to reveal your specific tired gremlin classification.              | Because “I’m tired” could mean sleepy, emotionally bankrupt, or ready to become moss.       |
+| 11 | **Mimi’s Unhinged Compliment Machine**         | `/random-compliment-generator/`    | Generator                 | Mimi fires dramatic compliments from a tiny emotional cannon.                                                                                                                         | Press a button or choose a vibe to receive a compliment that is dramatic, suspicious, and somehow empowering.                                        | Gives compliments that sound illegal but somehow make you feel powerful.                    |
+| 12 | **Mimi Roasts Your Excuse**                    | `/roast-my-excuse/`                | Generator                 | Mimi reads your excuse, squints, and gently bullies it like a concerned friend with too much free time.                                                                               | Choose your excuse or type your own, then receive the gentle bullying you clearly came here for.                                                     | Choose your excuse and receive the gentle bullying you clearly came here for.               |
+| 13 | **Mimi Writes an Apology Like a Coward**       | `/apology-message-generator/`      | Generator                 | Mimi hides behind a pillow while helping you generate an apology that actually uses words.                                                                                            | Choose what you did, how bad it was, and how cowardly you feel, then generate an apology message that uses actual words.                             | For when you were wrong, but unfortunately still have to use words.                         |
+| 14 | **Mimi Translates the Text**                   | `/what-does-this-text-mean/`       | Generator / Translator    | Mimi puts on detective glasses and dramatically translates suspicious texts like “lol no worries.”                                                                                    | Paste or choose a suspicious text message and receive a funny translation of what it probably actually means.                                        | Translates “lol no worries” into what they probably actually meant.                         |
+| 15 | **Mimi Defends Her Peace**                     | `/petty-revenge-defense/`          | Game                      | Mimi stands in a tiny room while annoying enemies approach. She uses harmless petty defenses to protect her peace.                                                                    | Stop annoying enemies with harmless petty defenses.                                                                                                  | “Protect your peace with passive aggression.”                                               |
+| 16 | **Mimi Runs from Responsibilities**            | `/main-character-run/`             | Game                      | Mimi runs dramatically through life, jumping over bills, awkward texts, laundry piles, and consequences.                                                                              | Endless runner. Jump over bills, awkward texts, and responsibilities.                                                                                | “Run dramatically from consequences.”                                                       |
+| 17 | **Mimi Calculates Emotional Damage**           | `/emotional-damage-calculator/`    | Calculator / Generator    | Mimi gets hit by tiny inconveniences and the calculator prints her emotional damage report.                                                                                           | Enter or choose a minor inconvenience, then calculate how many psychic points you lost and receive an emotional damage report.                       | Calculates how many psychic points you lost from one minor inconvenience.                   |
+| 18 | **Mimi’s Personal Weather Report**             | `/mood-weather-report/`            | Generator                 | Mimi stands in front of a weather map while reporting storms of overthinking, snack fog, and scattered bad decisions.                                                                 | Choose your current mood, energy, and chaos level to generate a dramatic personal weather forecast.                                                  | Turns your inner chaos into a dramatic forecast with a chance of bad decisions.             |
+| 19 | **Mimi Whacks Bad Vibes**                      | `/vibe-check-game/`                | Game                      | Mimi uses a soft hammer to whack bad vibes before they ruin the party, while avoiding fake good vibes.                                                                                | Whack bad vibes before they ruin the party. Avoid fake good vibes.                                                                                   | “Your vibe is under attack.”                                                                |
+| 20 | **Mimi Enters the Boredom Dungeon**            | `/boredom-dungeon/`                | Game                      | Mimi explores weird little rooms while collecting activities and avoiding doomscroll traps.                                                                                           | Click through random rooms, collect weird activities, avoid doomscroll traps.                                                                        | “A tiny adventure for people lying on the floor.”                                           |
+| 21 | **Mimi Rolls the Decision Dice**               | `/random-decision-maker/`          | Generator / Utility       | Mimi rolls giant dice so the user can blame fate, not personal responsibility.                                                                                                        | Enter options or choose a scenario, then roll a decision so fate can take legal responsibility.                                                      | Rolls a decision so you can blame fate instead of your own lack of backbone.                |
+| 22 | **Mimi Generates an Excuse**                   | `/excuses-to-cancel-plans/`        | Generator                 | Mimi is already in pajamas and helps generate questionable excuses for escaping plans.                                                                                                | Choose the event, urgency, and how believable you want to sound, then generate not so good excuses.                                                  | For people already in pajamas, looking for moral permission. Generate not so good excuses.  |
+| 23 | **Mimi Plans a Goblin Weekend**                | `/what-should-i-do-this-weekend/`  | Generator                 | Mimi builds a weekend plan based on whether she wants to be social, mysterious, horizontal, or spiritually unavailable.                                                               | Choose your social battery, budget, weather tolerance, and desired level of chaos to generate a weekend plan.                                        | Generates a weekend plan based on whether you want to be social, mysterious, or horizontal. |
+| 24 | **Mimi Spins Date Idea Roulette**              | `/random-date-idea-generator/`     | Generator / Roulette      | Mimi spins a date roulette wheel and reacts dramatically to whatever idea appears.                                                                                                    | Choose a budget and vibe, then spin for a date idea ranging from cute to possibly legendary.                                                         | Spins up date ideas ranging from cute to “this might become a story.”                       |
+| 25 | **Mimi Panics About Gifts**                    | `/last-minute-gift-ideas/`         | Generator                 | Mimi runs around with wrapping paper, tape stuck to her sleeve, and a deeply spiritual lack of preparation.                                                                           | Choose the recipient, occasion, time left, and panic level to generate last-minute gift ideas.                                                       | For people who remembered the birthday, anniversary, or holiday spiritually too late.       |
+| 26 | **Mimi Finds Today’s Lucky Object**            | `/lucky-object-generator/`         | Daily / Random            | Mimi pulls a random household object from a magical junk drawer and declares it responsible for destiny.                                                                              | Press the button to reveal the random household object responsible for your destiny today.                                                           | Reveals the random household object responsible for your destiny today.                     |
+| 27 | **Mimi Picks a Suspicious Door**               | `/pick-a-door-game/`               | Game                      | Mimi stands in front of suspicious doors. The user chooses one and Mimi receives a prophecy, insult, blessing, or tiny crisis.                                                        | Choose a door and receive a prophecy, insult, blessing, or tiny crisis.                                                                              | Choose a door and receive a prophecy, insult, blessing, or tiny crisis.                     |
+| 28 | **Mimi Falls into the Nostalgia Trap**         | `/random-nostalgia-generator/`     | Generator / Random Button | Mimi presses a forbidden nostalgia button and suddenly remembers old snacks, games, songs, and problems.                                                                              | Press once and receive a random nostalgic memory category, object, snack, game, song, or forgotten childhood problem.                                | Press once and suddenly remember snacks, games, songs, and problems you forgot existed.     |
+| 29 | **How Old Was Mimi When the World Got Weird?** | `/how-old-was-i-when/`             | Calculator                | Mimi points at a timeline of weird events while the user calculates how old they were when time personally attacked them.                                                             | Enter your birth date or birth year, choose an iconic event, and calculate your age when time personally attacked you.                               | Calculates your age during iconic events so time can personally attack you.                 |
+| 30 | **Mimi’s Micro Bucket List**                   | `/random-bucket-list-generator/`   | Generator                 | Mimi suggests tiny adventures for people who want a life story but also prefer staying near snacks.                                                                                   | Choose your energy level, available time, and willingness to leave the house, then generate a tiny adventure.                                        | Gives tiny adventures for people who want a life story without leaving the postcode.        |
+| 31 | **Mimi Is Cooked**                             | `/am-i-cooked-game/`               | Game                      | Mimi tries to survive random life events while her sanity bar slowly suffers.                                                                                                         | Random life events appear. Pick actions to keep your “sanity bar” alive.                                                                             | “Survive the week without becoming soup.”                                                   |
+| 32 | **Mimi Finds the Hidden Red Flag**             | `/hidden-red-flag-game/`           | Game                      | Mimi investigates a profile, chat, or room and the user helps her spot the suspicious detail before it is too late.                                                                   | Spot suspicious things in a funny profile/bio/chat screen.                                                                                           | “It was in front of you the whole time.”                                                    |
+| 33 | **Mimi Escapes the Situationship**             | `/situationship-escape-room/`      | Game                      | Mimi is trapped in an emotionally unclear room and must solve tiny puzzles to find the exit.                                                                                          | Solve mini puzzles to escape an emotionally unclear relationship.                                                                                    | “Find the exit before they say ‘I’m just bad at texting.’”                                  |
+| 34 | **Mimi Tries to Touch Grass**                  | `/touch-grass-game/`               | Game                      | Mimi tries to reach the grass while notifications, texts, and doomscroll traps pull her back to her phone.                                                                            | Keep a character away from their phone long enough to touch grass.                                                                                   | “The final boss is checking notifications.”                                                 |
+| 35 | **Mimi Opens the Inbox of Horror**             | `/inbox-horror-game/`              | Game                      | Mimi opens mystery notifications one by one. Some are harmless, some summon anxiety.                                                                                                  | Open mystery notifications. Some give points, some summon anxiety.                                                                                   | “One unread message can ruin the atmosphere.”                                               |
+| 36 | **Mimi Fights the Compliment Boss**            | `/compliment-boss-fight/`          | Game                      | Mimi battles insecurity monsters by choosing dramatic, unhinged compliments as attacks.                                                                                               | Defeat insecurity monsters by choosing unhinged compliments.                                                                                         | “Weaponized self-esteem.”                                                                   |
+| 37 | **Mimi Survives the Apology Obstacle Course**  | `/apology-obstacle-course/`        | Game                      | Mimi runs through an apology course, dodging excuses and collecting accountability tokens.                                                                                            | Dodge excuses and collect accountability tokens.                                                                                                     | “Say sorry without making it worse.”                                                        |
+
+---
+
+# Ideas That Work Especially Well With the Character
+
+These are the strongest character-fit ideas and should be prioritized early:
+
+| Priority | Page                                   | Why It Works                                                                 |
+| -------: | -------------------------------------- | ---------------------------------------------------------------------------- |
+|        1 | **Mimi Dodges Red Flags**              | Very visual, instantly understandable, perfect mascot gameplay.              |
+|        2 | **Mimi Texts Them and Regrets It**     | Strong emotional hook, easy to make funny with facial expressions/reactions. |
+|        3 | **Mimi Tries to Touch Grass**          | Perfect character action: phone vs grass is visual and funny.                |
+|        4 | **Mimi Escapes the Overthinking Maze** | The metaphor becomes a literal game world.                                   |
+|        5 | **Mimi Picks a Suspicious Door**       | Simple, charming, very easy to animate later.                                |
+|        6 | **Mimi Enters the Boredom Dungeon**    | Great for an exploration-style mini-game with reusable art assets.           |
+|        7 | **Mimi Opens the Inbox of Horror**     | Strong visual theme: phone notifications as jump scares.                     |
+|        8 | **Mimi Escapes the Situationship**     | Strong title, strong theme, character gives it emotional comedy.             |
+|        9 | **Mimi’s Delusion Clicker**            | Great idle/clicker format with lots of unlockable art.                       |
+|       10 | **Mimi Runs from Responsibilities**    | Easy endless runner with clear obstacles.                                    |
+
+---
+
+# Ideas That Should Stay, But As Tools With Mimi as Narrator
+
+These do not need to be full games. Mimi should guide, react, stamp, explain, or generate results:
+
+| Page                                     | Best Use of Mimi                                              |
+| ---------------------------------------- | ------------------------------------------------------------- |
+| **Mimi’s Petty Revenge Generator**       | Mimi with a clipboard generating harmless chaos.              |
+| **Mimi’s Villain Origin Story**          | Mimi dramatically transforms tiny problems into villain lore. |
+| **Mimi’s Unhinged Compliment Machine**   | Mimi shoots compliments like confetti/cannon blasts.          |
+| **Mimi Roasts Your Excuse**              | Mimi judges the excuse with funny facial reactions.           |
+| **Mimi Writes an Apology Like a Coward** | Mimi hides, sweats, then produces the apology.                |
+| **Mimi Translates the Text**             | Mimi acts like a detective.                                   |
+| **Mimi Calculates Emotional Damage**     | Mimi prints a receipt/report.                                 |
+| **Mimi’s Personal Weather Report**       | Mimi acts as a chaotic weather reporter.                      |
+| **Mimi Rolls the Decision Dice**         | Mimi physically rolls oversized dice.                         |
+| **Mimi Finds Today’s Lucky Object**      | Mimi pulls objects from a junk drawer.                        |
+| **Mimi’s Micro Bucket List**             | Mimi suggests tiny adventures with low-energy enthusiasm.     |
+
+---
+
+# Ideas I Would Consider Changing or Removing Later
+
+These can work, but they are weaker or more complicated than the others:
+
+| Page                                           | Recommendation                                                                                                 |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Mimi Defends Her Peace**                     | Keep only if the tower defense game is very simple. Full tower defense may be too much for version 1.          |
+| **Mimi Fights the Compliment Boss**            | Good idea, but may be harder to explain instantly. Could become a generator instead.                           |
+| **Mimi Survives the Apology Obstacle Course**  | Funny, but less immediately clickable than texting/red flags/overthinking. Build later.                        |
+| **How Old Was Mimi When the World Got Weird?** | Useful calculator, but the character connection is weaker. Keep as a side tool, not a flagship.                |
+| **Mimi Panics About Gifts**                    | Could work for SEO, but less central to the emotional-chaos brand. Keep if you want commercial search traffic. |
+
+---
+
+# Character Asset Planning for Codex / Artist
+
+Build every game with placeholder objects now, but make them replaceable with character art later.
+
+Examples:
+
+## Mimi Dodges Red Flags
+
+Current placeholder:
+
+* square player
+* red rectangle obstacles
+* green rectangle bonuses
+
+Later artist assets:
+
+* Mimi running/sidestepping
+* red flag obstacles
+* green flag bonuses
+* panic face on collision
+* victory pose for high score
+
+## Mimi Texts Them and Regrets It
+
+Current placeholder:
+
+* simple chat bubbles
+* reaction emoji
+
+Later artist assets:
+
+* Mimi holding phone
+* nervous idle pose
+* shocked pose
+* smug pose
+* regret pose
+* tiny typing bubble animations
+
+## Mimi Tries to Touch Grass
+
+Current placeholder:
+
+* character block
+* phone icons
+* grass area
+
+Later artist assets:
+
+* Mimi reaching toward grass
+* phone monster
+* notification bubbles
+* grass patch
+* tired flop animation
+
+## Mimi Escapes the Overthinking Maze
+
+Current placeholder:
+
+* square player
+* maze walls
+* text obstacles
+
+Later artist assets:
+
+* Mimi walking
+* thought cloud obstacles
+* spiral brain background
+* exit door
+* relief pose
+
+## Mimi Picks a Suspicious Door
+
+Current placeholder:
+
+* 4 door rectangles
+* result card
+
+Later artist assets:
+
+* suspicious doors
+* Mimi peeking
+* dramatic reaction poses
+* prophecy scroll
+* tiny crisis icon
+
+---
+
+# Final Brand Direction
+
+The character makes the project better if she becomes the emotional center of the site.
+
+Without Mimi:
+The site is a list of funny tools.
+
+With Mimi:
+The site is a funny little world where one chaotic mascot survives texting, red flags, boredom, delusion, plans, apologies, and tiny disasters.
+
+That is more memorable, more brandable, and better for future visual design.
