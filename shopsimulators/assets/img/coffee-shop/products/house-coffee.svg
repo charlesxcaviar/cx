@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">House coffee</title>
+  <ellipse cx="64" cy="106" rx="36" ry="8" fill="#2d2118" opacity=".18"/>
+  <path d="M34 48h54v34c0 16-10 25-27 25S34 98 34 82V48z" fill="#fff3d7" stroke="#3a2519" stroke-width="6"/>
+  <path d="M88 58h10c11 0 17 7 17 17s-7 17-19 17h-8V80h8c5 0 8-2 8-6 0-5-3-7-8-7h-8V58z" fill="#fff3d7" stroke="#3a2519" stroke-width="6"/>
+  <rect x="39" y="48" width="44" height="16" fill="#5b321e"/>
+  <rect x="42" y="69" width="40" height="8" fill="#e1bf83" opacity=".65"/>
+  <rect x="45" y="85" width="32" height="6" fill="#e1bf83" opacity=".5"/>
+  <path d="M47 17v19M65 13v20M82 19v17" fill="none" stroke="#7a553b" stroke-width="6" stroke-linecap="round"/>
+</svg>

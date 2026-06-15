@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Cute top-down coffee shop background">
+  <rect width="900" height="560" fill="#dbeff4"/>
+  <rect y="114" width="900" height="446" fill="#ead7b7"/>
+  <path d="M0 114h900" stroke="#9fb7c1" stroke-width="8"/>
+  <g opacity=".32">
+    <path d="M0 138h900M0 172h900M0 206h900M0 240h900M0 274h900M0 308h900M0 342h900M0 376h900M0 410h900M0 444h900M0 478h900M0 512h900" stroke="#fff7e9" stroke-width="3"/>
+    <path d="M34 114v446M68 114v446M102 114v446M136 114v446M170 114v446M204 114v446M238 114v446M272 114v446M306 114v446M340 114v446M374 114v446M408 114v446M442 114v446M476 114v446M510 114v446M544 114v446M578 114v446M612 114v446M646 114v446M680 114v446M714 114v446M748 114v446M782 114v446M816 114v446M850 114v446M884 114v446" stroke="#d9bf97" stroke-width="2"/>
+  </g>
+
+  <g id="wall">
+    <rect x="30" y="22" width="210" height="70" rx="8" fill="#fff2d1" stroke="#704326" stroke-width="6"/>
+    <path d="M48 48h172M48 72h172" stroke="#8a5633" stroke-width="6" stroke-linecap="round"/>
+    <rect x="62" y="34" width="23" height="24" rx="5" fill="#b68145" stroke="#26323e" stroke-width="3"/>
+    <rect x="103" y="34" width="22" height="24" rx="5" fill="#fff" stroke="#26323e" stroke-width="3"/>
+    <rect x="143" y="34" width="23" height="24" rx="5" fill="#dff5ff" stroke="#26323e" stroke-width="3"/>
+    <rect x="181" y="34" width="25" height="24" rx="5" fill="#f1b84b" stroke="#26323e" stroke-width="3"/>
+    <rect x="310" y="22" width="132" height="54" rx="7" fill="#4e2b18" stroke="#f1b84b" stroke-width="5"/>
+    <text x="376" y="55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#fff7e8">Bean &amp; Till</text>
+    <rect x="690" y="18" width="138" height="82" rx="8" fill="#26323e" stroke="#8f643f" stroke-width="6"/>
+    <text x="759" y="43" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#fff7e8">MENU</text>
+    <text x="714" y="66" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#e6d6ae">Coffee</text>
+    <text x="714" y="84" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#e6d6ae">Latte</text>
+    <text x="772" y="66" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#e6d6ae">Cake</text>
+    <text x="772" y="84" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#e6d6ae">Nitro</text>
+  </g>
+
+  <g id="counter">
+    <rect x="38" y="152" width="452" height="112" rx="12" fill="#8f5634" stroke="#4e2b18" stroke-width="8"/>
+    <rect x="56" y="236" width="416" height="12" rx="6" fill="#b7784d" opacity=".68"/>
+    <rect x="66" y="184" width="58" height="38" rx="6" fill="#354354"/>
+    <rect x="77" y="171" width="34" height="16" rx="4" fill="#86cbd3"/>
+    <rect x="152" y="174" width="74" height="54" rx="9" fill="#edf4f5" stroke="#55616e" stroke-width="5"/>
+    <rect x="169" y="224" width="12" height="22" fill="#4e2b18"/>
+    <rect x="192" y="224" width="28" height="12" rx="6" fill="#4e2b18"/>
+    <rect x="358" y="172" width="92" height="54" rx="10" fill="#ffffff" opacity=".72" stroke="#90b5bd" stroke-width="5"/>
+    <path d="M378 211c0-14 21-14 21 0z" fill="#f1b84b" stroke="#7c4b28" stroke-width="3"/>
+    <path d="M410 211c0-14 22-14 22 0z" fill="#bd7c52" stroke="#7c4b28" stroke-width="3"/>
+    <rect x="254" y="174" width="34" height="58" rx="8" fill="#6f7985" stroke="#33404d" stroke-width="5"/>
+    <rect x="238" y="224" width="66" height="26" rx="8" fill="#f8f0df" stroke="#8f643f" stroke-width="5"/>
+  </g>
+
+  <g id="cashier">
+    <ellipse cx="536" cy="264" rx="34" ry="18" fill="#26323e" opacity=".14"/>
+    <rect x="515" y="230" width="42" height="48" rx="20" fill="#40536a" stroke="#26323e" stroke-width="5"/>
+    <circle cx="536" cy="219" r="17" fill="#f1c49a" stroke="#26323e" stroke-width="5"/>
+    <path d="M520 214c8-16 30-15 36 1" fill="none" stroke="#4e2b18" stroke-width="7" stroke-linecap="round"/>
+    <path d="M529 224h15" stroke="#26323e" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g id="customer-path">
+    <path d="M814 306c-82-12-164-42-246-56" fill="none" stroke="#7f674c" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 18" opacity=".18"/>
+    <ellipse cx="555" cy="244" rx="44" ry="28" fill="#fff7e8" opacity=".35"/>
+  </g>
+
+  <g id="tables">
+    <ellipse cx="668" cy="430" rx="74" ry="42" fill="#26323e" opacity=".1"/>
+    <circle cx="668" cy="406" r="42" fill="#f7efe3" stroke="#8f643f" stroke-width="8"/>
+    <circle cx="618" cy="406" r="15" fill="#40536a"/>
+    <circle cx="718" cy="406" r="15" fill="#40536a"/>
+    <circle cx="668" cy="356" r="15" fill="#40536a"/>
+    <circle cx="668" cy="456" r="15" fill="#40536a"/>
+    <ellipse cx="808" cy="380" rx="58" ry="34" fill="#26323e" opacity=".09"/>
+    <circle cx="808" cy="358" r="34" fill="#fff0d9" stroke="#8f643f" stroke-width="7"/>
+    <circle cx="768" cy="358" r="13" fill="#40536a"/>
+    <circle cx="848" cy="358" r="13" fill="#40536a"/>
+    <circle cx="808" cy="318" r="13" fill="#40536a"/>
+    <circle cx="808" cy="398" r="13" fill="#40536a"/>
+  </g>
+
+  <g id="entry">
+    <rect x="820" y="172" width="58" height="100" rx="24" fill="#5a3824" stroke="#2e2017" stroke-width="7"/>
+    <circle cx="860" cy="226" r="5" fill="#f1b84b"/>
+    <rect x="811" y="276" width="76" height="12" rx="6" fill="#26323e" opacity=".18"/>
+  </g>
+
+  <g id="plants">
+    <rect x="846" y="56" width="28" height="25" rx="5" fill="#9a5d36"/>
+    <path d="M859 58c-20-18-4-34 1-9 9-24 27-9 5 9 24-6 23 15-3 9-5 26-21 16-7 0-25 9-24-13 4-9z" fill="#2f7f72"/>
+    <rect x="36" y="416" width="32" height="30" rx="5" fill="#9a5d36"/>
+    <path d="M52 418c-27-21-5-43 1-11 11-31 34-12 7 12 30-8 29 19-4 11-6 32-27 20-9 0-31 12-30-16 5-12z" fill="#2f7f72"/>
+  </g>
+</svg>

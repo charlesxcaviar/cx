@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Coffee Shop Simulator | Shop Simulators</title>
+  <meta name="description" content="Start with a tiny coffee counter, serve customers, earn visible cash, restock supplies, and upgrade your cafe into a busy neighborhood coffee shop.">
+  <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+  <a class="skip-link" href="#coffee-game">Skip to game</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="../" aria-label="Shop Simulators home">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 32 32" role="img">
+            <path d="M8 9h15a5 5 0 0 1 0 10H8z" fill="currentColor"/>
+            <path d="M23 11h2a3 3 0 0 1 0 6h-2" fill="none" stroke="#fff" stroke-width="2"/>
+            <path d="M10 23h13" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+          </svg>
+        </span>
+        <span>Shop Simulators</span>
+      </a>
+      <nav class="top-nav" aria-label="Main categories">
+        <a href="../">All Games</a>
+        <a href="./">Coffee Shop</a>
+        <a href="#money-lesson">Money Lesson</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-shell">
+    <aside class="left-sidebar" aria-label="Shop simulator games">
+      <div class="sidebar-section">
+        <h2>Make More Money</h2>
+        <nav class="game-list">
+          <a class="active" href="./">Coffee Shop Simulator</a>
+          <a href="../#pet-shop">Pet Shop Simulator</a>
+          <a href="../#bakery">Bakery Simulator</a>
+          <a href="../#grocery-store">Grocery Store Simulator</a>
+          <a href="../#bookstore">Bookstore Simulator</a>
+          <a href="../#toy-store">Toy Store Simulator</a>
+          <a href="../#flower-shop">Flower Shop Simulator</a>
+          <a href="../#ice-cream-shop">Ice Cream Shop Simulator</a>
+          <a href="../#pizza-shop">Pizza Shop Simulator</a>
+          <a href="../#clothing-boutique">Clothing Boutique Simulator</a>
+          <a href="../#pawn-shop">Pawn Shop Simulator</a>
+          <a href="../#car-wash">Car Wash Simulator</a>
+          <a href="../#laundromat">Laundromat Simulator</a>
+          <a href="../#vending-machine">Vending Machine Empire</a>
+          <a href="../#arcade-business">Arcade Business Simulator</a>
+          <a href="../#gas-station">Gas Station Simulator</a>
+          <a href="../#barber-shop">Barber Shop Simulator</a>
+          <a href="../#nail-salon">Nail Salon Simulator</a>
+          <a href="../#food-truck">Food Truck Simulator</a>
+          <a href="../#tech-repair-shop">Tech Repair Shop Simulator</a>
+        </nav>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <section class="game-intro" aria-labelledby="page-title">
+        <p class="eyebrow">First shop game</p>
+        <h1 id="page-title">Coffee Shop Simulator</h1>
+        <p>Begin with a tiny coffee counter, sell hot drinks, restock supplies, and reinvest profit until your cafe feels busy, polished, and wonderfully profitable.</p>
+      </section>
+
+      <section class="game-board" id="coffee-game" aria-label="Coffee Shop Simulator game">
+        <div class="coffee-screen">
+          <div class="screen-topbar">
+            <div class="stats-strip" aria-label="Shop numbers">
+              <div class="stat-tile">
+                <span>Cash</span>
+                <strong id="cashValue">$65</strong>
+              </div>
+              <div class="stat-tile">
+                <span>Today's profit</span>
+                <strong id="profitValue">$0</strong>
+              </div>
+              <div class="stat-tile">
+                <span>Customers served</span>
+                <strong id="servedValue">0</strong>
+              </div>
+              <div class="stat-tile">
+                <span>Reputation</span>
+                <strong id="reputationValue">100%</strong>
+              </div>
+            </div>
+
+            <div class="milestone-row">
+              <div>
+                <span class="mini-label">Shop stage</span>
+                <strong id="milestoneName">Tiny Counter</strong>
+              </div>
+              <div class="progress-track" aria-label="Progress to next milestone">
+                <span id="milestoneProgress"></span>
+              </div>
+              <span id="nextMilestone" class="next-milestone">$150 to Morning Favorite</span>
+            </div>
+          </div>
+
+          <div class="sim-layout">
+            <div class="shop-scene" id="shopScene" aria-label="Top-down coffee shop">
+              <div class="scene-wall">
+                <div class="shop-sign">Bean &amp; Till</div>
+                <div class="menu-board">
+                  <span>House</span>
+                  <span>Latte</span>
+                  <span>Cake</span>
+                </div>
+              </div>
+              <div class="scene-floor">
+                <div class="back-shelves" aria-hidden="true">
+                  <span class="shelf-jar shelf-jar--beans"></span>
+                  <span class="shelf-jar shelf-jar--cups"></span>
+                  <span class="shelf-jar shelf-jar--milk"></span>
+                  <span class="shelf-jar shelf-jar--cake"></span>
+                </div>
+                <div class="counter-shape">
+                  <div class="cash-register"></div>
+                  <div class="espresso-machine"></div>
+                  <div class="pastry-case"></div>
+                  <div class="nitro-tap"></div>
+                  <div class="loyalty-screen"></div>
+                </div>
+                <div class="grinder-station"></div>
+                <div class="barista-spot cashier-person">
+                  <span></span>
+                </div>
+                <div class="table table-one"></div>
+                <div class="table table-two"></div>
+                <div class="plant plant-one"></div>
+                <div class="plant plant-two"></div>
+                <div class="entry-door" aria-hidden="true"></div>
+                <div class="queue-guide" aria-hidden="true">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+                <div class="service-spot" aria-hidden="true"></div>
+                <div class="customer-lane" id="customerLane"></div>
+                <div class="sale-pop-layer" id="salePopLayer" aria-hidden="true"></div>
+              </div>
+            </div>
+
+            <div class="manager-panel">
+              <div class="primary-actions">
+                <button class="button button-primary" id="serveButton" type="button">
+                  <img class="serve-bell-icon" src="../assets/img/coffee-shop/products/service-bell.svg" alt="" aria-hidden="true">
+                  Ring Ready
+                </button>
+                <button class="icon-button" id="saveButton" type="button" aria-label="Save shop" title="Save shop">
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M5 4h12l2 2v14H5z" fill="none" stroke="currentColor" stroke-width="2"/>
+                    <path d="M8 4v6h8V4M8 20v-6h8v6" fill="none" stroke="currentColor" stroke-width="2"/>
+                  </svg>
+                </button>
+                <button class="icon-button danger" id="resetButton" type="button" aria-label="Reset shop" title="Reset shop">
+                  <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M4 7h16M10 11v6M14 11v6M6 7l1 14h10l1-14M9 7V4h6v3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                  </svg>
+                </button>
+              </div>
+
+              <div class="queue-panel">
+                <div class="panel-heading">
+                  <h2>Order Queue</h2>
+                  <span id="queueCount">0 waiting</span>
+                </div>
+                <div class="order-list" id="orderList"></div>
+              </div>
+
+              <div class="stock-panel">
+                <div class="panel-heading">
+                  <h2>Supplies</h2>
+                  <span>Restock to keep sales moving</span>
+                </div>
+                <div class="stock-grid" id="stockGrid"></div>
+              </div>
+
+              <div class="upgrade-section">
+                <div class="panel-heading">
+                  <h2>Upgrades</h2>
+                  <span>Spend profit to grow the cafe</span>
+                </div>
+                <div class="upgrade-grid" id="upgradeGrid"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="activity-line" id="activityLine" aria-live="polite">A few customers are starting to notice your tiny counter.</div>
+        </div>
+      </section>
+
+      <aside class="mobile-ad" aria-label="Advertisement">
+        <span>Advertisement</span>
+        <strong>300 x 250</strong>
+      </aside>
+
+      <section class="content-section" aria-labelledby="how-it-works">
+        <h2 id="how-it-works">How The Game Works</h2>
+        <p>Coffee Shop Simulator follows a simple money-making loop: customers arrive, they order drinks or snacks, you serve them for cash, and you put that money back into equipment, inventory, staff, and ambience. Every upgrade changes either the speed of demand, the value of each sale, or the look of the cafe.</p>
+      </section>
+
+      <section class="content-section" id="money-lesson" aria-labelledby="money-lesson-title">
+        <h2 id="money-lesson-title">Business Lesson</h2>
+        <p>A small coffee shop grows by turning inventory into margin. Beans, cups, milk, and pastries cost money up front, but better equipment and smarter upgrades raise the sale price, reduce waiting, and help each dollar come back faster.</p>
+      </section>
+
+      <section class="content-section" aria-labelledby="growth-tips">
+        <h2 id="growth-tips">Tips For Growing Faster</h2>
+        <ul class="tips-list">
+          <li>Keep beans and cups stocked before the queue gets long.</li>
+          <li>Buy the espresso machine early because it improves order value.</li>
+          <li>Add the pastry display when you can afford extra inventory.</li>
+          <li>Hire a barista once the cafe has enough demand to justify automation.</li>
+        </ul>
+      </section>
+
+      <section class="related-section" id="related-games" aria-labelledby="related-title">
+        <h2 id="related-title">Related Shop Games</h2>
+        <div class="related-grid">
+          <a href="../#pet-shop"><span>Pet Shop</span><strong>Food, toys, grooming</strong></a>
+          <a href="../#bakery"><span>Bakery</span><strong>Bread, cakes, ovens</strong></a>
+          <a href="../#grocery-store"><span>Grocery Store</span><strong>Shelves, stock, checkout</strong></a>
+          <a href="../#pizza-shop"><span>Pizza Shop</span><strong>Ovens, toppings, delivery</strong></a>
+        </div>
+      </section>
+
+      <aside class="mobile-ad second" aria-label="Advertisement">
+        <span>Advertisement</span>
+        <strong>Responsive ad slot</strong>
+      </aside>
+    </main>
+
+    <aside class="right-sidebar" aria-label="Advertisements">
+      <div class="ad-box">
+        <span>Advertisement</span>
+        <strong>300 x 250</strong>
+      </div>
+      <div class="ad-box tall">
+        <span>Advertisement</span>
+        <strong>300 x 600</strong>
+      </div>
+    </aside>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>Shop Simulators</span>
+      <span>Static HTML/CSS/JS games with browser saves.</span>
+    </div>
+  </footer>
+
+  <script src="game.js"></script>
+</body>
+</html>
