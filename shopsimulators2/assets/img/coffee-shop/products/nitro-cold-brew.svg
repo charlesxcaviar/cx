@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Nitro cold brew</title>
+  <ellipse cx="65" cy="108" rx="35" ry="8" fill="#2d2118" opacity=".18"/>
+  <path d="M38 39h54l-7 68H45L38 39z" fill="#d7f2ee" stroke="#26323e" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M43 57h44l-4 42H48l-5-42z" fill="#3d231a"/>
+  <path d="M43 57h44l-1 10H44l-1-10z" fill="#f4e5c3"/>
+  <path d="M52 72h5v18h-5V72zm13-6h5v29h-5V66zm13 11h5v14h-5V77z" fill="#c98b52" opacity=".7"/>
+  <path d="M84 17L70 40" fill="none" stroke="#2f7f72" stroke-width="6" stroke-linecap="round"/>
+  <rect x="34" y="31" width="62" height="12" fill="#f9fbf2" stroke="#26323e" stroke-width="6"/>
+</svg>

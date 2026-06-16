@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Cup stack</title>
+  <ellipse cx="64" cy="108" rx="35" ry="8" fill="#2d2118" opacity=".18"/>
+  <path d="M41 24h45l-5 23H46l-5-23z" fill="#ffffff" stroke="#26323e" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M37 43h54l-6 28H43l-6-28z" fill="#edf7f6" stroke="#26323e" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M33 67h62l-7 37H40l-7-37z" fill="#ffffff" stroke="#26323e" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="43" y="78" width="42" height="10" fill="#2f7f72"/>
+  <rect x="48" y="51" width="32" height="8" fill="#e3cfa8"/>
+  <rect x="52" y="30" width="23" height="6" fill="#e3cfa8"/>
+</svg>

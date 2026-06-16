@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Coffee and cake combo</title>
+  <ellipse cx="65" cy="108" rx="46" ry="8" fill="#2d2118" opacity=".18"/>
+  <path d="M23 54h42v29c0 14-8 23-21 23S23 97 23 83V54z" fill="#fff3d7" stroke="#3a2519" stroke-width="6"/>
+  <path d="M65 64h8c9 0 14 6 14 14 0 9-6 15-16 15h-6V80h6c4 0 6-2 6-5s-2-5-6-5h-6v-6z" fill="#fff3d7" stroke="#3a2519" stroke-width="6"/>
+  <rect x="29" y="55" width="31" height="13" fill="#5b321e"/>
+  <path d="M67 79l35-18 10 34H70l-3-16z" fill="#f3c86f" stroke="#4e2b18" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M73 83l30-14 4 12H75l-2 2z" fill="#fff4d6"/>
+  <path d="M76 94h34l1 5H73l3-5z" fill="#9b4b3b"/>
+  <rect x="91" y="73" width="7" height="7" fill="#bd4c45"/>
+  <path d="M35 23v17M51 20v18" fill="none" stroke="#8f643f" stroke-width="6" stroke-linecap="round"/>
+</svg>

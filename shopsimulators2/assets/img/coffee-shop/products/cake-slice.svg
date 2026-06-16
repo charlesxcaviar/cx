@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Cake slice</title>
+  <ellipse cx="65" cy="107" rx="42" ry="8" fill="#2d2118" opacity=".18"/>
+  <path d="M21 70l71-31 18 55H29L21 70z" fill="#f3c86f" stroke="#4e2b18" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M31 75l63-25 7 19H36l-5 6z" fill="#fff4d6"/>
+  <path d="M37 87h66l3 8H32l5-8z" fill="#9b4b3b"/>
+  <path d="M91 40l11 35" fill="none" stroke="#4e2b18" stroke-width="6" stroke-linecap="round"/>
+  <rect x="70" y="55" width="9" height="9" fill="#bd4c45"/>
+  <rect x="82" y="63" width="8" height="8" fill="#bd4c45"/>
+  <rect x="53" y="62" width="8" height="8" fill="#bd4c45"/>
+  <path d="M75 29c0-8 7-12 14-8 2 9-3 15-12 15l-2-7z" fill="#d74640" stroke="#4e2b18" stroke-width="4"/>
+</svg>

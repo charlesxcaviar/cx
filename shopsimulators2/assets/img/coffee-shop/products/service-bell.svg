@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Service bell</title>
+  <ellipse cx="64" cy="108" rx="42" ry="8" fill="#2d2118" opacity=".18"/>
+  <rect x="23" y="89" width="82" height="15" rx="5" fill="#7a553b" stroke="#3a2519" stroke-width="6"/>
+  <path d="M31 84c4-26 17-42 33-42s29 16 33 42H31z" fill="#f5c75f" stroke="#3a2519" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M45 80c4-15 11-23 20-23s17 8 20 23" fill="none" stroke="#ffe9a8" stroke-width="7" stroke-linecap="round"/>
+  <rect x="56" y="29" width="17" height="14" rx="4" fill="#f5c75f" stroke="#3a2519" stroke-width="6"/>
+  <path d="M23 36l12 8M105 36l-12 8M64 14v8" stroke="#3a2519" stroke-width="6" stroke-linecap="round"/>
+</svg>

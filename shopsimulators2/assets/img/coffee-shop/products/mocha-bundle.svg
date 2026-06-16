@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Mocha bundle</title>
+  <ellipse cx="64" cy="108" rx="44" ry="8" fill="#2d2118" opacity=".18"/>
+  <path d="M33 35h45l-5 68H38L33 35z" fill="#f5efe0" stroke="#2f2520" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M36 31h39v12H36V31z" fill="#7b4a2c" stroke="#2f2520" stroke-width="6"/>
+  <path d="M40 54h33l-3 30H43l-3-30z" fill="#6d3b25"/>
+  <rect x="47" y="62" width="19" height="7" fill="#f8d7a8"/>
+  <path d="M79 74c10-10 29-2 29 14 0 13-10 22-23 22-11 0-20-7-22-17" fill="#ce884f" stroke="#3a2519" stroke-width="6" stroke-linecap="round"/>
+  <path d="M83 85c5-5 13-2 14 5 1 5-3 10-9 10-5 0-9-3-10-7" fill="#8b4b2d" stroke="#3a2519" stroke-width="4" stroke-linecap="round"/>
+  <rect x="45" y="19" width="26" height="8" fill="#fffbf0" stroke="#2f2520" stroke-width="5"/>
+</svg>

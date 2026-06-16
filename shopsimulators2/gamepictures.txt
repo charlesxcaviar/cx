@@ -1,0 +1,21 @@
+| Website                 | Best for                                                             | License note                                                                                    |
+| ----------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Kenney**              | Game-ready 2D assets, UI, icons, props, tiles                        | Very safe choice; many assets are free/CC0. ([Kenney][1])                                       |
+| **itch.io Game Assets** | Pixel art, cafe packs, furniture, products, backgrounds              | Use filters like **Free**, **2D**, **Backgrounds**, **CC0**. ([itch.io][2])                     |
+| **OpenGameArt**         | Sprites, backgrounds, textures, UI, sounds                           | Good, but licenses vary; check each asset page. ([OpenGameArt.org][3])                          |
+| **CraftPix**            | 2D game backgrounds, GUI, icons, characters                          | Has free and paid game assets; useful for polished 2D packs. ([CraftPix.net][4])                |
+| **Game-icons.net**      | Product icons, UI icons, coffee/food symbols                         | Usually CC-BY, so you must credit the authors. ([Game Icons][5])                                |
+| **Pixabay**             | Cafe photos, product photos, textures                                | Free image library; good for backgrounds/textures. ([Pixabay][6])                               |
+| **Pexels**              | Real cafe photos, table/shelf/product photos                         | Free stock photos/videos; better for realistic style. ([Pexels][7])                             |
+| **Unsplash**            | High-quality cafe/coffee shop photography                            | Free for commercial and non-commercial use, but do not resell images unchanged. ([Unsplash][8]) |
+| **Quaternius**          | Low-poly 3D props/environments if you want rendered/isometric assets | CC0 assets; useful if the game style becomes 3D/isometric. ([Quaternius][9])                    |
+
+[1]: https://kenney.nl/?utm_source=chatgpt.com "Home · Kenney"
+[2]: https://itch.io/game-assets/assets-cc0/free?utm_source=chatgpt.com "Top free game assets with assets under Creative ..."
+[3]: https://opengameart.org/?utm_source=chatgpt.com "OpenGameArt.org |"
+[4]: https://craftpix.net/?srsltid=AfmBOoqajbszzKlGohivx-wiKoyyaZaoPB59vo7IdJ6yiu5LW0SJdL1z&utm_source=chatgpt.com "CraftPix.net: 2D Game Assets Store & Free"
+[5]: https://game-icons.net/?utm_source=chatgpt.com "Game-icons.net: 4180 free SVG and PNG icons for your ..."
+[6]: https://pixabay.com/?utm_source=chatgpt.com "Pixabay: 6.1 million+ Stunning Free Images to Use Anywhere"
+[7]: https://www.pexels.com/?utm_source=chatgpt.com "Free Stock Photos, Royalty Free Stock Images & Copyright ..."
+[8]: https://unsplash.com/license?utm_source=chatgpt.com "License"
+[9]: https://quaternius.com/?utm_source=chatgpt.com "Quaternius • Free Game Assets"
