@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Pixel latte</title>
+  <rect x="36" y="108" width="56" height="8" fill="#2b1d14" opacity=".28"/>
+  <rect x="36" y="28" width="56" height="12" fill="#4b321f"/>
+  <rect x="42" y="40" width="44" height="8" fill="#f7e5c6"/>
+  <rect x="44" y="48" width="40" height="52" fill="#5a927f"/>
+  <rect x="38" y="48" width="6" height="44" fill="#2f5f52"/>
+  <rect x="84" y="48" width="6" height="44" fill="#2f5f52"/>
+  <rect x="44" y="92" width="40" height="8" fill="#2f5f52"/>
+  <rect x="50" y="58" width="28" height="22" fill="#f0d6aa"/>
+  <rect x="56" y="64" width="16" height="10" fill="#fff4d8"/>
+  <rect x="54" y="18" width="20" height="8" fill="#fff4d8"/>
+  <rect x="48" y="24" width="32" height="6" fill="#fff4d8"/>
+  <rect x="59" y="12" width="6" height="8" fill="#d2b082"/>
+</svg>

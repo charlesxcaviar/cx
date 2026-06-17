@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Pixel cake slice</title>
+  <rect x="28" y="98" width="72" height="8" fill="#2b1d14" opacity=".25"/>
+  <rect x="24" y="86" width="82" height="10" fill="#d9c7ad"/>
+  <rect x="30" y="80" width="70" height="6" fill="#4b321f"/>
+  <polygon points="32,40 100,62 100,80 32,80" fill="#e6b36a"/>
+  <polygon points="32,40 100,62 100,70 32,50" fill="#fff0d4"/>
+  <rect x="32" y="68" width="68" height="8" fill="#bd704c"/>
+  <rect x="42" y="54" width="10" height="8" fill="#cc4f4f"/>
+  <rect x="70" y="62" width="10" height="8" fill="#cc4f4f"/>
+  <rect x="96" y="62" width="6" height="18" fill="#8a5633"/>
+</svg>

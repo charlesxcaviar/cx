@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+  <title id="title">Pixel nitro cold brew</title>
+  <rect x="36" y="108" width="56" height="8" fill="#2b1d14" opacity=".28"/>
+  <rect x="36" y="28" width="56" height="10" fill="#4b321f"/>
+  <rect x="42" y="38" width="44" height="60" fill="#d9f0ef"/>
+  <rect x="36" y="38" width="6" height="54" fill="#4b321f"/>
+  <rect x="86" y="38" width="6" height="54" fill="#4b321f"/>
+  <rect x="42" y="92" width="44" height="6" fill="#4b321f"/>
+  <rect x="44" y="54" width="40" height="36" fill="#5b321e"/>
+  <rect x="44" y="48" width="40" height="8" fill="#f6dfb3"/>
+  <rect x="50" y="61" width="10" height="10" fill="#b8e1e0" opacity=".85"/>
+  <rect x="68" y="68" width="9" height="9" fill="#b8e1e0" opacity=".85"/>
+  <rect x="62" y="14" width="6" height="16" fill="#26323e"/>
+  <rect x="54" y="12" width="22" height="6" fill="#26323e"/>
+</svg>
